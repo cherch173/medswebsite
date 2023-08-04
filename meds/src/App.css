@@ -41,8 +41,8 @@ a:visited:hover {
 
 .bandImage {
   max-width: 66vmin;
-  border-radius: 5px;
-  opacity: 50%;
+  border-radius: 10px;
+  opacity: 22%;
 }
 
 .boldText {
