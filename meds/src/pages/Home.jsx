@@ -4,6 +4,7 @@ const Home = () => {
   return (
     <div>
       <h3>meds</h3>
+      <br />
     </div>
   )
 }

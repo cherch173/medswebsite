@@ -1,6 +1,7 @@
 import { useState, useRef, useEffect } from 'react'
 import { Route, Routes } from 'react-router-dom'
 import Home from './pages/Home'
+import Tour from './pages/Tour'
 import Nav from './components/Nav'
 import './App.css'
 
@@ -20,6 +21,7 @@ function App() {
       <main>
         <Routes >
           <Route path="/" element={<Home />} />
+          <Route path="/tour" element={<Tour />} />
         </Routes>
       </main>
     </div>
