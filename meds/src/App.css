@@ -1,0 +1,36 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2vmin;
+  text-align: center;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  min-height: 100vh;
+  min-width: 200px;
+  display: flex;
+  margin: 0;
+}
+
+a {
+  margin: 2vmin;
+  color: seagreen;
+}
+
+a:hover {
+  color: rgb(119, 185, 148);
+}
+
+a:visited {
+  color: seagreen;
+}
+
+a:visited:hover {
+  color: seagreen;
+}
+
