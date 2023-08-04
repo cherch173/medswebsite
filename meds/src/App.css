@@ -14,6 +14,7 @@
 
 body {
   background-image: url('/IssaTeaserSquareNoText.gif');
+  opacity: 73%;
   background-size: cover;
   background-color: rgb(17, 17, 17);
   min-height: 100vh;
@@ -25,6 +26,7 @@ body {
 a {
   margin: 2vmin;
   color: seagreen;
+  cursor: pointer;
 }
 
 a:hover {
@@ -42,13 +44,19 @@ a:visited:hover {
 .bandImage {
   max-width: 66vmin;
   border-radius: 10px;
-  opacity: 22%;
+}
+
+.socialImage {
+  max-width: 8vmin;
+  border-radius: 50%;
+  cursor: pointer; 
 }
 
 .boldText {
   font-weight: bold;
   margin-right: .5vmin;
   margin-left: .5vmin;
+  text-shadow: -.25px, .25px whitesmoke, .5px .5px black;
 }
 
 .boldBioText {
@@ -56,6 +64,8 @@ a:visited:hover {
   font-weight: bold;
   margin-right: .5vmin;
   margin-left: .5vmin;
+  text-shadow: -.25px, .25px whitesmoke, .5px .5px black;
+
 }
 
 p {
