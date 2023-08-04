@@ -8,11 +8,15 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  color: whitesmoke;
 }
 
 body {
+  background-image: url('/MedsWebsiteIssaHD.GIF');
+  background-size: contain;
+  background-color: rgb(17, 17, 17);
   min-height: 100vh;
-  min-width: 200px;
   display: flex;
   margin: 0;
 }
