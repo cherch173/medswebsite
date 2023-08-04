@@ -17,6 +17,7 @@ body {
   background-size: cover;
   background-color: rgb(17, 17, 17);
   min-height: 100vh;
+  min-width: 10vw;
   display: flex;
   margin: 0;
 }
