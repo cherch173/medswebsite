@@ -50,6 +50,13 @@ a:visited:hover {
   max-width: 8vmin;
   border-radius: 50%;
   cursor: pointer; 
+  opacity: 69%;
+}
+
+.socialImage:hover {
+  transform: scale(103%);
+  transition: ease-in 142ms;
+  opacity: 86%;
 }
 
 .boldText {
