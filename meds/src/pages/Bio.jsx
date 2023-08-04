@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom'
 const Bio = () => {
     return (
         <div>
-            <h3>meds</h3>
+            <h3 className="headerText">meds official bio</h3>
             <br />
             <img className="bandImage" src="/the bottom dollars-45.jpg" alt="" />
             <br />
