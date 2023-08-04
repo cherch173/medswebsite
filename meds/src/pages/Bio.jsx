@@ -45,16 +45,16 @@ const Bio = () => {
                 </strong>are:
             </p>
             <p>
-                <label className="bandLabel" htmlFor="band">Cherch </label>
+                <label className="boldBioText" htmlFor="band">Cherch </label>
                 - Guitar, Lead Vocals, 808
                 <br />
-                <label className="bandLabel" htmlFor="band">Evan Berg </label>
+                <label className="boldBioText" htmlFor="band">Evan Berg </label>
                 - Drums, Guitars, 808, Aux Perc
                 <br />
-                <label className="bandLabel" htmlFor="band">Chris Urriola </label>
+                <label className="boldBioText" htmlFor="band">Chris Urriola </label>
                 - Bass, Vocals, Synthesis
                 <br />
-                <label className="bandLabel" htmlFor="band">Jeremy Kolker </label>
+                <label className="boldBioText" htmlFor="band">Jeremy Kolker </label>
                 - Drums, Vocals, 808, Aux Perc
                 <br />
             </p>

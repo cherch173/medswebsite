@@ -3,16 +3,19 @@ import { Link } from 'react-router-dom'
 import Tour from './Tour'
 
 const Home = () => {
-  return (
-    <div>
-
-      <h3 className="headerText">meds</h3>
-      <p>
-        welcome to the official website for<span className="medsText">meds</span>
-      </p>
-
-    </div>
-  )
+    return (
+        <div>
+            <h3 className="headerText">meds</h3>
+            <p>
+                welcome to the official website for<span className="medsText">meds</span>
+            </p>
+            <br />
+            <div className="card">
+                <Tour />
+            </div>
+            <br />
+        </div>
+    )
 }
 
 export default Home
