@@ -5,7 +5,6 @@ const Bio = () => {
     return (
         <div>
             <h3 className="headerText">meds official bio</h3>
-            <br />
             <img className="bandImage" src="/the bottom dollars-45.jpg" alt="" />
             <br />
             <p>
@@ -19,7 +18,7 @@ const Bio = () => {
                 <strong className="boldBioText">
                     Cherch
                 </strong>
-                sought to combine his love of hip-hop production elements with his notorious arsenal of guitar; so the <i> New York Times & Village Voice </i> heralded composer enlisted several of his past collaborators and entered the studio with producer Jeff Berner (<i>Psychic TV, Shilpa Ray</i>), resulting in their debut album
+                sought to combine his love of hip-hop production elements with his notorious arsenal of guitar; so the <i> New York Times & Village Voice </i> heralded composer enlisted several of his past collaborators and entered the studio with producer Jeff Berner (<i>Psychic TV, Shilpa Ray</i>), resulting in the debut recording
                 <strong className="boldText">
                     <i>
                         Night (Volume 1).
@@ -29,21 +28,21 @@ const Bio = () => {
             <p>
                 <strong >
                     <i>
-                        Night (Volume 1)  
+                        Night (Volume 1)
                     </i>
                 </strong>
-                 : is a short vignette of weaving, ornate compositions themed around trauma survival and mental health advocacy. <strong className="boldBioText">Meds</strong>live somewhere between the psychedelia of <i>Spiritualized and TV On the Radio </i> and the indie punk joie de vivre of
+                : is a short vignette of weaving, ornate compositions themed around trauma survival and mental health advocacy. <strong className="boldBioText">Meds</strong>live somewhere between the psychedelia of <i>Spiritualized and TV On the Radio </i> and the indie punk joie de vivre of
                 <i>
                     The Replacements, The Cure and The War on Drugs.
                 </i>
             </p>
             <p>
-            The first single, “An Unexpected Visit to the Isabella Stewart Gardner Museum,” off will be available worldwide on all digital streaming platforms in late 2023.
+                The first single, “An Unexpected Visit to the Isabella Stewart Gardner Museum,” off will be available worldwide on all digital streaming platforms in late 2023.
             </p>
             <p>
                 <strong className="boldBioText">
                     Meds
-                </strong> are:
+                </strong>are:
             </p>
             <p>
                 <label className="bandLabel" htmlFor="band">Cherch </label>
@@ -61,7 +60,7 @@ const Bio = () => {
             </p>
             <br />
             <Link to="/">
-                <button>back</button>
+                <button className="button">back</button>
             </Link>
         </div>
     )
