@@ -13,8 +13,8 @@
 }
 
 body {
-  background-image: url('/MedsWebsiteIssaHD.GIF');
-  background-size: contain;
+  background-image: url('/Meds Intro Isabella Teaser Promo.gif');
+  background-size: cover;
   background-color: rgb(17, 17, 17);
   min-height: 100vh;
   display: flex;
