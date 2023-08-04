@@ -39,3 +39,25 @@ a:visited:hover {
   color: seagreen;
 }
 
+.bandImage {
+  max-width: 66vmin;
+  border-radius: 5px;
+  opacity: 86%;
+}
+
+.boldText {
+  font-weight: bold;
+  margin-right: .5vmin;
+  margin-left: .5vmin;
+}
+
+.boldBioText {
+  color: rgb(119, 185, 148);
+  font-weight: bold;
+  margin-right: .5vmin;
+  margin-left: .5vmin;
+}
+
+p {
+  max-width: 66vmin;
+}
