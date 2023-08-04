@@ -7,7 +7,7 @@ const Nav = () => {
       <Link to="/">HOME</Link>
       <Link to="/tour">TOUR DATES</Link>
       <Link to="/bio">BIO</Link>
-      <Link to="mailto:cherchofficial@gmail.com">CONTACT</Link>
+      <Link to="mailto:mmmedddsss@gmail.com">CONTACT</Link>
       <p>
       <Link to="https://www.instagram.com/medsanight" target="_blank">
       <img className="socialImage" src="https://toppng.com/uploads/preview/instagram-logo-circle-11549679754rhbcorxntv.png" alt='instagramImage'/> 

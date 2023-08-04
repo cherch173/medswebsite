@@ -18,7 +18,6 @@ function App() {
       <header>
         <Nav />
       </header>
-      <br />
       <main>
         <Routes >
           <Route path="/" element={<Home />} />
@@ -26,6 +25,15 @@ function App() {
           <Route path="/bio" element={<Bio />} />
         </Routes>
       </main>
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <footer className="footer">
+        © {getYear()} Cherch, all rights reserved    
+        <a className="footerLink" target="_blank" href="mailto:mmmedddsss@gmail.com">CONTACT</a>
+      </footer>
     </div>
   )
 }
