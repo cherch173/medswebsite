@@ -96,3 +96,19 @@ a:visited:hover {
 p {
   max-width: 66vmin;
 }
+
+.button {
+  border-radius: 5px;
+  background-color: rgb(119, 185, 148);
+  color: whitesmoke;
+  border: 1px solid rgb(119, 185, 148);
+  cursor: pointer;
+}
+
+.button:hover {
+  transform: scale(105%);
+  transition: ease-in 142ms;
+  border: 1px solid whitesmoke;
+  color: rgb(17, 17, 17);
+  background-color: whitesmoke;
+}
