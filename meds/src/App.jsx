@@ -31,7 +31,7 @@ function App() {
       <br />
       <br />
       <footer className="footer">
-        © {getYear()} Cherch, all rights reserved    
+        © {getYear()} Cherch, all rights reserved
         <a className="footerLink" target="_blank" href="mailto:mmmedddsss@gmail.com">CONTACT</a>
       </footer>
     </div>
