@@ -5,14 +5,23 @@ import Tour from './Tour'
 const Home = () => {
     return (
         <div>
-            <h3 className="headerText">meds</h3>
-            <p>
-                welcome to the official website for<span className="medsText">meds</span>
-            </p>
+            <h3 className="medsText">meds</h3>
+            <Tour />
             <br />
-            <div className="card">
-                <Tour />
-            </div>
+            <h3 className="medsText">photos</h3>
+            <Link target="_blank" to="http://medsofficial.bandcamp.com">
+                <img className="medsImage" src="public/tbd_dd1.jpg" alt="bb1Image" />
+            </Link>
+            <Link target="_blank" to="http://medsofficial.bandcamp.com">
+                <img className="medsImage" src="public/The-Bottom-Dollars-29-868x580.jpg" alt="bb1Image" />
+            </Link>
+            <Link target="_blank" to="http://medsofficial.bandcamp.com">
+                <img className="medsImage" src="public/the bottom dollars-45.jpg" alt="bb1Image" />
+            </Link>
+            <Link target="_blank" to="http://medsofficial.bandcamp.com">
+                <img className="medsImage" src="https://ef4537.p3cdn1.secureserver.net/wp-content/uploads/2015/01/The-Bottom-Dollars-40-868x580.jpg" alt="bb2Image" />
+            </Link>
+            <br />
             <br />
         </div>
     )
