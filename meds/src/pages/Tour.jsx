@@ -5,7 +5,7 @@ const Tour = () => {
     return (
         <div>
             <div className="card">
-                <h3 className="medsText">tour dates</h3>
+                <h1 className="medsText">tour dates</h1>
                 <div className="tourCard">
                     <table>
                         <thead>
