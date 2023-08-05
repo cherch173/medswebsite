@@ -10,12 +10,12 @@ const Photos = () => {
     return (
         <div className="card">
             <h1 className="medsText">photos</h1>
-            <Link target="_blank" to="http://medsofficial.bandcamp.com">
-                <figure>
+            <figure>
+                <Link target="_blank" to="http://medsofficial.bandcamp.com">
                     <img className="medsImage" src="/pesoscherchBB.webp" alt="cherchBB" />
                     <figcaption>© {getYear()} Nathan Fallon, all rights reserved.</figcaption>
-                </figure>
-            </Link>
+                </Link>
+            </figure>
             <figure>
                 <Link target="_blank" to="http://medsofficial.bandcamp.com">
                     <img className="medsImage" src="/tbd_dd1.jpg" alt="bb1Image" />
