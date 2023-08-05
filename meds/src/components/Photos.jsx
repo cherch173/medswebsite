@@ -8,7 +8,7 @@ const Photos = () => {
     }
 
     return (
-        <div>
+        <div className="card">
             <h1 className="medsText">photos</h1>
             <Link target="_blank" to="http://medsofficial.bandcamp.com">
                 <figure>
