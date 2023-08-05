@@ -39,19 +39,19 @@ const Home = () => {
             </Link>
             <figure>
                 <Link target="_blank" to="http://medsofficial.bandcamp.com">
-                    <img className="medsImage" src="public/tbd_dd1.jpg" alt="bb1Image" />
+                    <img className="medsImage" src="/tbd_dd1.jpg" alt="bb1Image" />
                     <figcaption>© {getYear()} Dana Distortion, all rights reserved.</figcaption>
                 </Link>
             </figure>
             <figure>
                 <Link target="_blank" to="http://medsofficial.bandcamp.com">
-                    <img className="medsImage" src="public/The-Bottom-Dollars-29-868x580.jpg" alt="bb1Image" />
+                    <img className="medsImage" src="/The-Bottom-Dollars-29-868x580.jpg" alt="bb1Image" />
                     <figcaption>© {getYear()} Nathan Fallon, all rights reserved.</figcaption>
                 </Link>
             </figure>
             <figure>
                 <Link target="_blank" to="http://medsofficial.bandcamp.com">
-                    <img className="medsImage" src="public/the bottom dollars-45.jpg" alt="bb1Image" />
+                    <img className="medsImage" src="/the bottom dollars-45.jpg" alt="bb1Image" />
                     <figcaption>© {getYear()} Kylie Squiers, all rights reserved.</figcaption>
                 </Link>
             </figure>
