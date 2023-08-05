@@ -18,7 +18,7 @@ body {
   background-size: cover;
   background-color: rgb(17, 17, 17);
   min-height: 100vh;
-  min-width: 10vw;
+  min-width: 250px;
   display: flex;
   margin: 0;
   font-size: 2vmin;
@@ -210,7 +210,7 @@ p {
 
 .footer {
   font-size: 2vmin;
-  position: absolute;
+  /* position: absolute; */
   text-align: center;
   width: 100%;
 }

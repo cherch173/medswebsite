@@ -2,6 +2,8 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 
 const Bio = () => {
+
+
     return (
         <div>
             <h3 className="medsText">meds official bio</h3>

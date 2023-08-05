@@ -3,6 +3,10 @@ import { Link } from 'react-router-dom'
 import Tour from './Tour'
 
 const Home = () => {
+    const getYear = () => {
+        return new Date().getUTCFullYear()
+      }
+
     return (
         <div>
             <h3 className="medsText">meds</h3>
