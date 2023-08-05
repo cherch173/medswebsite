@@ -40,7 +40,6 @@ const Photos = () => {
                     <figcaption>© {getYear()} Nathan Fallon, all rights reserved.</figcaption>
                 </Link>
             </figure>
-            <br />
         </div>
     )
 }
