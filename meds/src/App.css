@@ -94,7 +94,7 @@ a:visited:hover {
 .medsImage:hover {
   transform: scale(102%);
   transition: ease-in 142ms;
-  /* opacity: 100%; */
+  opacity: 86%;
   border: 1px solid rgba(119, 185, 148, .42);
 }
 
