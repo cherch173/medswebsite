@@ -9,7 +9,7 @@ const Photos = () => {
 
     return (
         <div className="card">
-            <h1 className="medsText">photos</h1>
+            <h1 className="headerText">Photos</h1>
             <figure>
                 <Link target="_blank" to="http://medsofficial.bandcamp.com">
                     <img className="medsImage" src="/pesoscherchBB.webp" alt="cherchBB" />
@@ -38,6 +38,12 @@ const Photos = () => {
                 <Link target="_blank" to="http://medsofficial.bandcamp.com">
                     <img className="medsImage" src="https://ef4537.p3cdn1.secureserver.net/wp-content/uploads/2015/01/The-Bottom-Dollars-40-868x580.jpg" alt="bb2Image" />
                     <figcaption>© {getYear()} Nathan Fallon, all rights reserved.</figcaption>
+                </Link>
+            </figure>
+            <figure>
+                <Link target="_blank" to="http://medsofficial.bandcamp.com">
+                    <img className="medsImage" src="/the bottom dollars-48.jpg" alt="bb2Image" />
+                    <figcaption>© {getYear()} Kylie Squiers, all rights reserved.</figcaption>
                 </Link>
             </figure>
         </div>
