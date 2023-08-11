@@ -6,7 +6,7 @@ const Bio = () => {
 
     return (
         <div>
-            <h3 className="medsText">meds official bio</h3>
+            <h3 className="headerText">Official Bio</h3>
             <img className="medsImage" src="/pesoscherchBB.webp" alt="cherchBB" />
             <br />
             <p>
@@ -42,9 +42,12 @@ const Bio = () => {
                 The first single, “An Unexpected Visit to the Isabella Stewart Gardner Museum,” will be available on all digital streaming platforms worldwide in late 2023.
             </p>
             <p>
-                <strong className="boldBioText">
+                <strong className="medsText">
                     Meds
-                </strong>are:
+                </strong>
+                <p>
+                    are:
+                </p>
             </p>
             <p>
                 <label className="boldBioText" htmlFor="band">Cherch </label>

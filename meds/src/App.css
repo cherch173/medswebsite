@@ -59,6 +59,10 @@ a:visited:hover {
   color: rgb(119, 185, 148);
 }
 
+.contactA {
+  color: whitesmoke;
+}
+
 .bandImage {
   max-width: 66vmin;
   border-radius: 10px;
@@ -86,6 +90,7 @@ a:visited:hover {
 }
 .medsImage {
   max-width: 69vmin;
+  max-height: 50vmin;
   border-radius: 10px;
   margin: 1vmin;
   opacity: 73%;
@@ -101,8 +106,7 @@ a:visited:hover {
 .headerText {
   /* font-family: 'Waiting for the Sunrise', cursive; */
   font-family: 'Rubik Glitch', cursive;
-  font-weight: bolder;
-  font-size: 4vmin;
+  font-size: 2.5vmin;
   text-shadow: -.25px, .25px whitesmoke, .5px .5px black;
 }
 
@@ -110,9 +114,10 @@ a:visited:hover {
   /* font-family: 'Waiting for the Sunrise', cursive; */
   color: rgb(119, 185, 148);
   margin-left: .5vmin;
-  font-family: 'Rubik Glitch', cursive;
-  font-size: 3.5vmin;
-  text-shadow: -.25px, .25px whitesmoke, .5px .5px black;
+  font-family: 'Rubik Burned', cursive;
+  opacity: 86%;
+  font-size: 5vmin;
+  text-shadow: -.5px, .5px whitesmoke, -.75px, .75px rgb(119, 185, 148), .1px .1px black;
 }
 
 .boldText {
@@ -120,6 +125,7 @@ a:visited:hover {
   margin-right: .5vmin;
   margin-left: .5vmin;
   text-shadow: -.25px, .25px whitesmoke, .5px .5px black;
+  opacity: 86%;
 }
 
 .boldBioText {
@@ -135,29 +141,41 @@ a:visited:hover {
   flex-direction: column;
   padding: 5vmin;
   margin: 2vmin;
-  margin-left: 21vmin;
-  margin-right: 21vmin;
   border-radius: 5px;
-  border: 1px solid whitesmoke;
+  border: 1px solid rgb(119, 185, 148);
   background-color: rgba(49, 53, 49, 0.73);
-  background-image: url('public/IssaTeaserSquareNoText.gif');
+  background-image: url('/IssaTeaserSquareNoText.gif');
   background-size: 100%;
   justify-content: center;
   align-items: center;
   font-size: 1.5vmin;
+  opacity: 86%;
+  box-shadow: 0px 0px 2px 2px rgba(119, 185, 148, .73);
 }
+
+.card:hover {
+  opacity: 100%;
+  cursor: pointer;
+  box-shadow: 0px 0px 4px 4px rgba(119, 185, 148, .73);
+  transition: ease-in 142ms;
+  background-color: rgba(49, 53, 49, 0.73);
+}
+
 
 .tourCard {
   padding: 3vmin;
   margin: 1vmin;
   border-radius: 5px;
+  border: 1px solid whitesmoke;
   border: 1px solid rgb(119, 185, 148);
   background-color: rgba(17, 17, 17, .55);
+  box-shadow: 0px 0px 1px 1px rgba(119, 185, 148, .73);
 }
 
 .tourCard:hover {
   background-color: rgba(49, 53, 49, 0.73);
-  border: 1px solid whitesmoke;
+  transition: ease-in 142ms;
+  box-shadow: 0px 0px 2px 2px rgba(119, 185, 148, .73);
 }
 
 p {
@@ -205,12 +223,11 @@ p {
   transition: ease-in 142ms;
   border: 1px solid rgba(17, 17, 17, .33);
   color: whitesmoke;
-  background-color: rgba(119, 185, 148, .73);
+  background-color: rgba(119, 185, 148, .86);
 }
 
 .footer {
   font-size: 2vmin;
-  /* position: absolute; */
   text-align: center;
   width: 100%;
 }

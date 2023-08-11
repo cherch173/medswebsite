@@ -4,6 +4,7 @@ import Home from './pages/Home'
 import Tour from './pages/Tour'
 import Bio from './pages/Bio'
 import Nav from './components/Nav'
+import Contact from './pages/Contact'
 import './App.css'
 
 function App() {
@@ -23,6 +24,7 @@ function App() {
           <Route path="/" element={<Home />} />
           <Route path="/tour" element={<Tour />} />
           <Route path="/bio" element={<Bio />} />
+          <Route path="/contact" element={<Contact />} />
         </Routes>
       </main>
       <br />
