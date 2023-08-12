@@ -27,13 +27,14 @@ const Home = () => {
     }
 
     return (
-        <div>
-            <h1 className="medsText" ref={scrollDownRef}>meds</h1>
-            {/* <button className="button" onClick={scrollDown}>scroll down</button> */}
+        <div ref={scrollDownRef}>
+            <h1 className="medsText" >meds</h1>
+            <button className="button" onClick={scrollDown}>beam down</button>
             <Tour />
             <br />
             <Photos />
-            <button className="button" onClick={scrollUp} ref={scrollUpRef} >jump to top</button>
+            <br />
+            <button className="button" onClick={scrollUp} ref={scrollUpRef} >beam up</button>
         </div>
     )
 }
