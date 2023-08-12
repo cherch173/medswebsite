@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
 const Merch = () => {
     return (
@@ -18,6 +19,11 @@ const Merch = () => {
                     </span>
                 </p>
             </div>
+            <br />
+            <br />
+            <Link to="/">
+                <button className="button">back</button>
+            </Link>
         </div>
     )
 }
