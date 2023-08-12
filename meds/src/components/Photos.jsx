@@ -42,7 +42,19 @@ const Photos = () => {
             </figure>
             <figure>
                 <Link target="_blank" to="http://medsofficial.bandcamp.com">
-                    <img className="medsImage" src="/the bottom dollars-48.jpg" alt="bb2Image" />
+                    <img className="medsImage" src="/the bottom dollars-50.jpg" alt="bergGuitImage" />
+                    <figcaption>© {getYear()} Kylie Squiers, all rights reserved.</figcaption>
+                </Link>
+            </figure>
+            <figure>
+                <Link target="_blank" to="http://medsofficial.bandcamp.com">
+                    <img className="medsImage" src="/the bottom dollars-48.jpg" alt="jerImage" />
+                    <figcaption>© {getYear()} Kylie Squiers, all rights reserved.</figcaption>
+                </Link>
+            </figure>
+            <figure>
+                <Link target="_blank" to="http://medsofficial.bandcamp.com">
+                    <img className="medsImage" src="/the bottom dollars-55.jpg" alt="cherchImage" />
                     <figcaption>© {getYear()} Kylie Squiers, all rights reserved.</figcaption>
                 </Link>
             </figure>
