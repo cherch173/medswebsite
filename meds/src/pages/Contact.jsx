@@ -4,7 +4,9 @@ const Contact = () => {
     return (
         <div>
             <h3 className="headerText">Contact</h3>
+            <br />
             <div className="tourCard">
+                <br />
                 <a className="contactA" href="mailto:mmmedddsss@gmail.com" target="_blank">BOOKING (USA)</a>
                 <br />
                 <a className="contactA" href="mailto:mmmedddsss@gmail.com" target="_blank">BOOKING (EU/UK)</a>
@@ -21,6 +23,7 @@ const Contact = () => {
                     meds
                 </p>
             </div>
+            <br />
         </div>
     )
 }
