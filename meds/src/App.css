@@ -14,7 +14,7 @@
 
 body {
   background-image: url('/IssaTeaserSquareNoText.gif');
-  opacity: 73%;
+  opacity: 86%;
   background-size: cover;
   background-color: rgb(17, 17, 17);
   min-height: 100vh;
@@ -139,6 +139,10 @@ a:visited:hover {
   text-shadow: -.25px, .25px whitesmoke, .5px .5px black;
 }
 
+figcaption {
+  color: whitesmoke;
+}
+
 .card {
   display: flex;
   flex-direction: column;
@@ -163,7 +167,6 @@ a:visited:hover {
   transition: ease-in 142ms;
   background-color: rgba(49, 53, 49, 0.73);
 }
-
 
 .tourCard {
   padding: 3vmin;
