@@ -30,8 +30,42 @@ body {
   justify-content: center;
 }
 
+.nav ul {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 2vmin 0;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav ul li {
+  list-style-type: none;
+}
+
 .socialNav {
   margin: 2vmin;
+}
+
+.burger {
+  width: 4vmin;
+  height: 2vmin;
+  display: flex;
+  justify-content: space-around;
+  flex-flow: column nowrap;
+  z-index: 10;
+  padding: auto;
+  float: left;
+  display: none;
+}
+
+.pickle {
+  width: 2vmin;
+  height: .25vmin;
+  display: flex;
+  border-radius: 10%;
+  background-color: rgb(119, 185, 148);
+  transform-origin: 1px;
+  transition: all 142ms linear;
 }
 
 a {
@@ -239,4 +273,13 @@ p {
   font-size: 2vmin;
   text-align: center;
   width: 100%;
+}
+
+@media (max-width: 500px){
+  .burger{
+    display: fixed;
+    padding-top: 1vmin;
+    margin-left: 1vmin;
+    z-index: 10;
+  }
 }
