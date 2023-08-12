@@ -54,6 +54,12 @@ const Photos = () => {
             </figure>
             <figure>
                 <Link target="_blank" to="http://medsofficial.bandcamp.com">
+                    <img className="medsImage" src="/the bottom dollars-49.jpg" alt="chrisImage" />
+                    <figcaption>© {getYear()} Kylie Squiers, all rights reserved.</figcaption>
+                </Link>
+            </figure>
+            <figure>
+                <Link target="_blank" to="http://medsofficial.bandcamp.com">
                     <img className="medsImage" src="/the bottom dollars-55.jpg" alt="cherchImage" />
                     <figcaption>© {getYear()} Kylie Squiers, all rights reserved.</figcaption>
                 </Link>
