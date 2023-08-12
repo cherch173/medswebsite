@@ -7,11 +7,11 @@ const Contact = () => {
             <br />
             <div className="tourCard">
                 <br />
-                <a className="contactA" href="mailto:mmmedddsss@gmail.com" target="_blank">BOOKING (USA)</a>
+                <a className="contactA" href="mailto:mmmedddsss@gmail.com" target="_blank">BOOKING</a>
                 <br />
-                <a className="contactA" href="mailto:mmmedddsss@gmail.com" target="_blank">BOOKING (EU/UK)</a>
+                <a className="contactA" href="mailto:mmmedddsss@gmail.com" target="_blank">PRESS</a>
                 <br />
-                <a className="contactA" href="mailto:mmmedddsss@gmail.com" target="_blank">PRESS (USA)</a>
+                <a className="contactA" href="mailto:mmmedddsss@gmail.com" target="_blank">SYNC</a>
                 <br />
                 <a className="contactA" href="mailto:mmmedddsss@gmail.com" target="_blank">OTHER</a>
                 <br />

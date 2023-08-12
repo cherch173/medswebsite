@@ -14,7 +14,8 @@
 
 body {
   background-image: url('/IssaTeaserSquareNoText.gif');
-  opacity: 86%;
+  background-blend-mode: soft-light;
+  opacity: 100%;
   background-size: cover;
   background-color: rgb(17, 17, 17);
   min-height: 100vh;
@@ -72,7 +73,7 @@ a:visited:hover {
   max-width: 4.5vmin;
   border-radius: 50%;
   cursor: pointer;
-  opacity: 69%;
+  opacity: 73%;
   margin: 1vmin;
 }
 
@@ -111,15 +112,15 @@ a:visited:hover {
   font-family: 'Rubik Glitch', cursive;
   font-size: 2.5vmin;
   text-shadow: -.25px, .25px whitesmoke, .5px .5px black;
+  opacity: 86%;
 }
 
 .medsText {
-  /* font-family: 'Waiting for the Sunrise', cursive; */
   color: rgb(119, 185, 148);
   margin-left: .5vmin;
   font-family: 'Rubik Burned', cursive;
   opacity: 86%;
-  font-size: 5vmin;
+  font-size: 6vmin;
   text-shadow: -.5px, .5px whitesmoke, -.75px, .75px rgb(119, 185, 148), .1px .1px black;
 }
 
@@ -192,6 +193,8 @@ p {
   border: 1px solid rgb(119, 185, 148);
   border-radius: 5px;
   padding: 1vmin;
+  background-color: rgba(245, 245, 245, .96);
+  color: rgba(17, 17, 17, .66);
 }
 
 .td {
