@@ -7,6 +7,7 @@ const Nav = () => {
       <Link to="/">HOME</Link>
       <Link to="/tour">TOUR DATES</Link>
       <Link to="/bio">BIO</Link>
+      <Link to="/merch">MERCH</Link>
       <Link to="/contact">CONTACT</Link>
       <div className="socialNav">
         <Link to="https://www.instagram.com/medsanight" target="_blank">
