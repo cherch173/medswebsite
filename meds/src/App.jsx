@@ -3,6 +3,7 @@ import { Route, Routes } from 'react-router-dom'
 import Home from './pages/Home'
 import Tour from './pages/Tour'
 import Bio from './pages/Bio'
+import Merch from './pages/Merch'
 import Nav from './components/Nav'
 import Contact from './pages/Contact'
 import './App.css'
@@ -24,6 +25,7 @@ function App() {
           <Route path="/" element={<Home />} />
           <Route path="/tour" element={<Tour />} />
           <Route path="/bio" element={<Bio />} />
+          <Route path="/merch" element={<Merch />} />
           <Route path="/contact" element={<Contact />} />
         </Routes>
       </main>
