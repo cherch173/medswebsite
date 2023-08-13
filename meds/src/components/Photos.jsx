@@ -13,7 +13,7 @@ const Photos = () => {
             <figure>
                 <Link target="_blank" to="http://medsofficial.bandcamp.com">
                     <img className="medsImage" src="/pesoscherchBB.webp" alt="cherchBB" />
-                    <figcaption>© {getYear()} Nathan Fallon, all rights reserved.</figcaption>
+                    <figcaption>© {getYear()} Nicholas Fallon, all rights reserved.</figcaption>
                 </Link>
             </figure>
             <figure>
@@ -25,7 +25,7 @@ const Photos = () => {
             <figure>
                 <Link target="_blank" to="http://medsofficial.bandcamp.com">
                     <img className="medsImage" src="/The-Bottom-Dollars-29-868x580.jpg" alt="bb1Image" />
-                    <figcaption>© {getYear()} Nathan Fallon, all rights reserved.</figcaption>
+                    <figcaption>© {getYear()} Nicholas Fallon, all rights reserved.</figcaption>
                 </Link>
             </figure>
             <figure>
@@ -37,7 +37,7 @@ const Photos = () => {
             <figure>
                 <Link target="_blank" to="http://medsofficial.bandcamp.com">
                     <img className="medsImage" src="https://ef4537.p3cdn1.secureserver.net/wp-content/uploads/2015/01/The-Bottom-Dollars-40-868x580.jpg" alt="bb2Image" />
-                    <figcaption>© {getYear()} Nathan Fallon, all rights reserved.</figcaption>
+                    <figcaption>© {getYear()} Nicholas Fallon, all rights reserved.</figcaption>
                 </Link>
             </figure>
             <figure>
