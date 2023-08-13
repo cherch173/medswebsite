@@ -13,8 +13,6 @@ function App() {
     return new Date().getUTCFullYear()
   }
 
-  const [count, setCount] = useState(0)
-
   return (
     <div>
       <header>
