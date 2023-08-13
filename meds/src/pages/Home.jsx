@@ -10,7 +10,6 @@ const Home = () => {
     }
 
     const scrollDownRef = useRef()
-    const scrollallTheWayDownRef = useRef()
     const scrollUpRef = useRef()
 
 
@@ -20,10 +19,6 @@ const Home = () => {
 
     const scrollDown = () => {
         scrollUpRef.current.scrollIntoView({ behavior: 'smooth' })
-    }
-
-    const scrollBottom = () => {
-        scrollallTheWayDownRef.current.scrollIntoView({ behavior: 'smooth' })
     }
 
     return (
