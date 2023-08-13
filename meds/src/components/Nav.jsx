@@ -13,7 +13,9 @@ const Nav = () => {
 
   return (
       <div className="nav">
+        <div className="burger" onClick={toggleBurger}>
         <Burger />
+        </div>
         <ul>
           <Link to="/">HOME</Link>
           <Link to="/tour">TOUR DATES</Link>
@@ -22,8 +24,6 @@ const Nav = () => {
           <Link to="/contact">CONTACT</Link>
         </ul>
         <SocialNav />
-        <div className="burger" onClick={toggleBurger}>
-        </div>
       </div>
   )
 }
