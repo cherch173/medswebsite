@@ -237,11 +237,12 @@ p {
 }
 
 .button {
-  border-radius: 5px;
+  border-radius: 1.73vmin;
   background-color: rgb(119, 185, 148);
   color: whitesmoke;
   border: 1px solid rgb(119, 185, 148);
   cursor: pointer;
+  height: 3.5vmin;
 }
 
 .button:hover {
@@ -254,7 +255,7 @@ p {
 
 .onSaleButton {
   font-size: 1.5vmin;
-  border-radius: 5px;
+  border-radius: 1.73vmin;
   background-color: whitesmoke;
   color: rgb(17, 17, 17);
   border: 1px solid rgb(119, 185, 148);
@@ -275,11 +276,15 @@ p {
   width: 100%;
 }
 
-@media (max-width: 500px){
+@media (max-width: 480px){
   .burger{
     display: fixed;
     padding-top: 1vmin;
     margin-left: 1vmin;
     z-index: 10;
+  }
+  #root {
+    padding-left: 10vmin;
+    padding-right: 10vmin;
   }
 }
