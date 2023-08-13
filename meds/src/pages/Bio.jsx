@@ -41,13 +41,15 @@ const Bio = () => {
             <p>
                 The first single, “An Unexpected Visit to the Isabella Stewart Gardner Museum,” will be available on all digital streaming platforms worldwide in late 2023.
             </p>
+            <br />
             <p>
                 <strong className="medsText">
                     Meds
                 </strong>
-                <p>
+                <br />
+                <br />
                     are:
-                </p>
+                <br />
             </p>
             <p>
                 <label className="boldBioText" htmlFor="band">Cherch </label>
