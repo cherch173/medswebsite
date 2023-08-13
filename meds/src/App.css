@@ -19,7 +19,7 @@ body {
   background-size: cover;
   background-color: rgb(17, 17, 17);
   min-height: 100vh;
-  min-width: 250px;
+  min-width: 20vmin;
   display: flex;
   margin: 0;
   font-size: 2vmin;
