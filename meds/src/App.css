@@ -267,6 +267,7 @@ p {
   border: 1px solid rgb(119, 185, 148);
   cursor: pointer;
   height: 3.5vmin;
+  font-size: 2vmin;
 }
 
 .button:hover {
