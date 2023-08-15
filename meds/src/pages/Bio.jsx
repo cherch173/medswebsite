@@ -14,13 +14,13 @@ const Bio = () => {
                 began as an experiment.
             </p>
             <p>
-                In an effort to compose outside of existing genres, Brooklyn based multi-instrumentalist <strong className="boldBioText">Cherch</strong>(given name: Brian Cherchiglia) went in.
+                In an effort to compose in more experimental theatres, Brooklyn based multi-instrumentalist <strong className="boldBioText">Cherch</strong>(given name: Brian Cherchiglia) went in.
             </p>
             <p>
                 <strong className="boldBioText">
                     Cherch
                 </strong>
-                sought to combine his love of hip-hop production elements with his notorious arsenal of guitar; the <i> New York Times & Village Voice </i> heralded composer enlisted several of his best collaborators (featuring members of <i>The Bottom Dollars, God Tiny, Hollis Brown, Catty</i> and more) and entered the studio with world-renowned producer Jeff Berner (<i>Psychic TV, Shilpa Ray</i>), resulting in the debut recording
+                sought to combine his love of hip-hop production elements with his notorious guitar work; the <i> New York Times & Village Voice </i> heralded composer enlisted several of his best collaborators (featuring members of <i>The Bottom Dollars, God Tiny, Hollis Brown, Catty</i> and more) and entered the studio with world-renowned producer Jeff Berner (<i>Psychic TV, Shilpa Ray</i>), resulting in the debut recording
                 <strong className="boldText">
                     <i>
                         Night (Volume 1).
@@ -66,17 +66,22 @@ const Bio = () => {
                 <br />
             </p>
             <br />
-            <p>
+            <div className="card">
+                <p>
                 <span className="boldBioText">Meds</span>are endorsed by:
-                <ul>
-                    <Link to="https://www.gibson.com" target="_blank" className="endorsementLink" >Gibson Guitars</Link>
                     <br />
-                    <Link to="https://www.earthquakerdevices.com/" target="_blank" className="endorsementLink" > Earthquaker Devices</Link>
                     <br />
-                    <Link to="https://www.telefunken-elektroakustik.com/" target="_blank" className="endorsementLink" >Telefunken Microphones</Link>
-
-                </ul>
-            </p>
+                    <Link to="https://www.gibson.com" target="_blank" className="contactA" >Gibson Guitars</Link>
+                    <br />
+                    <Link to="https://www.earthquakerdevices.com/" target="_blank" className="contactA" > Earthquaker Devices</Link>
+                    <br />
+                    <Link to="https://www.telefunken-elektroakustik.com/" target="_blank" className="contactA" >Telefunken Microphones</Link>
+                    <br />
+                    <Link to="https://dreamcymbals.com/artists/usa/berg-evan-buffalo" target="_blank" className="contactA" >Dream Cymbals</Link>
+                    <br />
+                </p>
+            </div>
+            <br />
             <br />
             <Link to="/">
                 <button className="button">back</button>
