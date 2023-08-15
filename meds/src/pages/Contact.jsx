@@ -25,6 +25,9 @@ const Contact = () => {
                 </p>
             </div>
             <br />
+            <br />
+            <br />
+            <br />
         </div>
     )
 }

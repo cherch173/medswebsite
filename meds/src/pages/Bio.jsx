@@ -52,7 +52,9 @@ const Bio = () => {
                 <br />
             </p>
             <p>
-                <label className="boldBioText" htmlFor="band">Cherch </label>
+                <Link to="http://www.instagram.com/medsnight" target="_blank">
+                <label className="bandA" htmlFor="band">Cherch </label>
+                </Link>
                 - Guitar, Lead Vocals, 808
                 <br />
                 <label className="boldBioText" htmlFor="band">Evan Berg </label>
