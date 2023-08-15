@@ -52,25 +52,31 @@ const Bio = () => {
                 <br />
             </p>
             <p>
-                <Link to="http://www.instagram.com/medsnight" target="_blank">
-                <label className="bandA" htmlFor="band">Cherch </label>
+                <Link to="http://www.instagram.com/medsanight" target="_blank">
+                    <label className="bandA" htmlFor="band">Cherch </label>
                 </Link>
                 - Guitar, Lead Vocals, 808
                 <br />
-                <label className="boldBioText" htmlFor="band">Evan Berg </label>
+                <Link to="http://www.instagram.com/thebkbuffalo" target="_blank">
+                    <label className="bandA" htmlFor="band">Evan Berg </label>
+                </Link>
                 - Drums, Guitars, 808, Aux Perc
                 <br />
-                <label className="boldBioText" htmlFor="band">Chris Urriola </label>
+                <Link to="http://www.instagram.com/chrisurriola" target="_blank">
+                    <label className="bandA" htmlFor="band">Chris Urriola </label>
+                </Link>
                 - Bass, Vocals, Synthesis
                 <br />
-                <label className="boldBioText" htmlFor="band">Jeremy Kolker </label>
+                <Link to="http://www.instagram.com/kol.ker" target="_blank">
+                    <label className="bandA" htmlFor="band">Jeremy Kolker </label>
+                </Link>
                 - Drums, Vocals, 808, Aux Perc
                 <br />
             </p>
             <br />
             <div className="card">
                 <p>
-                <span className="boldBioText">Meds</span>are endorsed by:
+                    <span className="boldBioText">Meds</span>are endorsed by:
                     <br />
                     <br />
                     <Link to="https://www.gibson.com" target="_blank" className="contactA" >Gibson Guitars</Link>
