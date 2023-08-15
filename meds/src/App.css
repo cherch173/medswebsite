@@ -96,9 +96,11 @@ a:visited:hover {
 
 .contactA {
   color: whitesmoke;
+  margin: 0 auto;
 }
 
-.endorsementLink {
+.contactA:visited {
+  color: whitesmoke;
   margin: 0 auto;
 }
 
