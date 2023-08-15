@@ -14,7 +14,7 @@ const Bio = () => {
                 began as an experiment.
             </p>
             <p>
-                In an effort to compose in more experimental theatres, Brooklyn based multi-instrumentalist <strong className="boldBioText">Cherch</strong>(given name: Brian Cherchiglia) went in.
+                In an effort to compose in more experimental theatres, Brooklyn based multi-instrumentalist<strong className="boldBioText">Cherch</strong>(given name: Brian Cherchiglia) went in.
             </p>
             <p>
                 <strong className="boldBioText">
@@ -33,7 +33,7 @@ const Bio = () => {
                         Night (Volume 1)
                     </i>
                 </strong>
-                : is a short vignette of weaving, ornate compositions themed around trauma survival and mental health advocacy. <strong className="boldBioText">Meds</strong>live somewhere between the psychedelia of <i>Spiritualized and TV On the Radio </i> and the indie punk joie de vivre of
+                : is a short vignette of weaving, ornate compositions themed around trauma survival and mental health advocacy.<strong className="boldBioText">Meds</strong>live somewhere between the psychedelia of <i>Spiritualized and TV On the Radio </i> and the indie punk joie de vivre of
                 <i>
                     The Replacements, The Cure and The War on Drugs.
                 </i>
