@@ -98,6 +98,10 @@ a:visited:hover {
   color: whitesmoke;
 }
 
+.endorsementLink {
+  margin: 0 auto;
+}
+
 .bandImage {
   max-width: 66vmin;
   border-radius: 10px;

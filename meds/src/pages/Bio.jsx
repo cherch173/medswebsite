@@ -48,7 +48,7 @@ const Bio = () => {
                 </strong>
                 <br />
                 <br />
-                    are:
+                are:
                 <br />
             </p>
             <p>
@@ -64,6 +64,18 @@ const Bio = () => {
                 <label className="boldBioText" htmlFor="band">Jeremy Kolker </label>
                 - Drums, Vocals, 808, Aux Perc
                 <br />
+            </p>
+            <br />
+            <p>
+                <span className="boldBioText">Meds</span>are endorsed by:
+                <ul>
+                    <Link to="https://www.gibson.com" target="_blank" className="endorsementLink" >Gibson Guitars</Link>
+                    <br />
+                    <Link to="https://www.earthquakerdevices.com/" target="_blank" className="endorsementLink" > Earthquaker Devices</Link>
+                    <br />
+                    <Link to="https://www.telefunken-elektroakustik.com/" target="_blank" className="endorsementLink" >Telefunken Microphones</Link>
+
+                </ul>
             </p>
             <br />
             <Link to="/">
