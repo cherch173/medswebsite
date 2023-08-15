@@ -8,7 +8,7 @@ const Contact = () => {
             <br />
             <div className="tourCard">
                 <br />
-                <a className="contactA" href="mailto:mmmedddsss@gmail.com" target="_blank">BOOKING</a>
+                <a className="contactA" href="mailto:booking@medsmusic.com" target="_blank">BOOKING</a>
                 <br />
                 <a className="contactA" href="mailto:mmmedddsss@gmail.com" target="_blank">PRESS</a>
                 <br />
