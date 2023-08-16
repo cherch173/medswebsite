@@ -32,6 +32,8 @@ const Merch = () => {
             <br />
             <br />
             <br />
+            <br />
+            <br />
         </div>
     )
 }
