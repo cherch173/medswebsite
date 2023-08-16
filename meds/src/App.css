@@ -37,9 +37,7 @@ Link {
 .nav ul {
   display: flex;
   flex-wrap: wrap;
-  margin: 2vmin 0;
-  justify-content: center;
-  align-items: center;
+  margin: auto 0;
 }
 
 .nav ul li {
@@ -313,16 +311,19 @@ p {
 }
 
 @media (max-width: 480px) {
-  .burger {
+  /* .burger {
     display: fixed;
     padding-top: 1vmin;
     margin-left: 1vmin;
     z-index: 10;
+  } */
+
+  a {
+    font-size: 3vmin;
   }
 
-  /* #root {
-    padding: 10vmin;
-    padding-left: 15vmin;
-    padding-right: 5vmin;
-  } */
+  .card {
+    width: 70vmin;
+  }
+
 }
