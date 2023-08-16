@@ -6,7 +6,7 @@ const Contact = () => {
         <div>
             <h3 className="headerText">Contact</h3>
             <br />
-            <div className="tourCard">
+            <div className="bioCard">
                 <br />
                 <a className="contactA" href="mailto:booking@medsmusic.com" target="_blank">BOOKING</a>
                 <br />
@@ -21,9 +21,6 @@ const Contact = () => {
                     xo
                 </p>
                 <span className="medsText">Meds</span>
-                {/* <br />
-                <p className="medsText">meds
-                </p> */}
             </div>
             <br />
             <br />
