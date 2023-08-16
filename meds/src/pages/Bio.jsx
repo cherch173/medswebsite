@@ -14,7 +14,7 @@ const Bio = () => {
                 began as an experiment.
             </p>
             <p>
-                In an effort to compose in more experimental theatres, Brooklyn based multi-instrumentalist<strong className="boldBioText">Cherch</strong>(given name: Brian Cherchiglia) went in.
+                In an effort to compose in more avant garde theatres, Brooklyn based multi-instrumentalist<strong className="boldBioText">Cherch</strong>(given name: Brian Cherchiglia) went in.
             </p>
             <p>
                 <strong className="boldBioText">
