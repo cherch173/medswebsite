@@ -297,6 +297,7 @@ p {
   text-align: center;
   padding: 2vmin;
   width: fit-content;
+  font-size: auto;
 }
 
 .button {
