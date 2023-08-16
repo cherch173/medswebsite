@@ -11,56 +11,56 @@ const Photos = () => {
         <div className="card">
             <h1 className="headerText">Photos</h1>
             <figure>
-                <Link target="_blank" to="http://medsofficial.bandcamp.com">
-                    <img className="medsImage" src="/pesoscherchBB.webp" alt="cherchBB" />
-                    <figcaption className="captionA">© {getYear()} Nicholas Fallon, all rights reserved.</figcaption>
+                <img className="medsImage" src="/pesoscherchBB.webp" alt="cherchBB" />
+                <Link target="_blank" to="https://www.nickfallonphotography.com/music">
+                    <figcaption className="captionA">© {getYear()} Nick Fallon, all rights reserved.</figcaption>
                 </Link>
             </figure>
             <figure>
-                <Link target="_blank" to="http://medsofficial.bandcamp.com">
-                    <img className="medsImage" src="/tbd_dd1.jpg" alt="bb1Image" />
+                <img className="medsImage" src="/tbd_dd1.jpg" alt="bb1Image" />
+                <Link target="_blank" to="https://www.instagram.com/danadistortion">
                     <figcaption className="captionA">© {getYear()} Dana Distortion, all rights reserved.</figcaption>
                 </Link>
             </figure>
             <figure>
-                <Link target="_blank" to="http://medsofficial.bandcamp.com">
-                    <img className="medsImage" src="/The-Bottom-Dollars-29-868x580.jpg" alt="bb1Image" />
-                    <figcaption className="captionA">© {getYear()} Nicholas Fallon, all rights reserved.</figcaption>
+                <img className="medsImage" src="/The-Bottom-Dollars-29-868x580.jpg" alt="bb1Image" />
+                <Link target="_blank" to="https://www.nickfallonphotography.com/music">
+                    <figcaption className="captionA">© {getYear()} Nick Fallon, all rights reserved.</figcaption>
                 </Link>
             </figure>
             <figure>
-                <Link target="_blank" to="http://medsofficial.bandcamp.com">
-                    <img className="medsImage" src="/the bottom dollars-45.jpg" alt="bb1Image" />
+                <img className="medsImage" src="/the bottom dollars-45.jpg" alt="bb1Image" />
+                <Link target="_blank" to="https://www.instagram.com/p/CnwwrKROT4B/">
                     <figcaption className="captionA">© {getYear()} Kylie Squiers, all rights reserved.</figcaption>
                 </Link>
             </figure>
             <figure>
-                <Link target="_blank" to="http://medsofficial.bandcamp.com">
-                    <img className="medsImage" src="https://ef4537.p3cdn1.secureserver.net/wp-content/uploads/2015/01/The-Bottom-Dollars-40-868x580.jpg" alt="bb2Image" />
-                    <figcaption className="captionA">© {getYear()} Nicholas Fallon, all rights reserved.</figcaption>
+                <img className="medsImage" src="https://ef4537.p3cdn1.secureserver.net/wp-content/uploads/2015/01/The-Bottom-Dollars-40-868x580.jpg" alt="bb2Image" />
+                <Link target="_blank" to="https://www.nickfallonphotography.com/music">
+                    <figcaption className="captionA">© {getYear()} Nick Fallon, all rights reserved.</figcaption>
                 </Link>
             </figure>
             <figure>
-                <Link target="_blank" to="http://medsofficial.bandcamp.com">
-                    <img className="medsImage" src="/the bottom dollars-50.jpg" alt="bergGuitImage" />
+                <img className="medsImage" src="/the bottom dollars-50.jpg" alt="bergGuitImage" />
+                <Link target="_blank" to="https://www.instagram.com/p/CnwwrKROT4B/">
                     <figcaption className="captionA">© {getYear()} Kylie Squiers, all rights reserved.</figcaption>
                 </Link>
             </figure>
             <figure>
-                <Link target="_blank" to="http://medsofficial.bandcamp.com">
-                    <img className="medsImage" src="/the bottom dollars-48.jpg" alt="jerImage" />
+                <img className="medsImage" src="/the bottom dollars-48.jpg" alt="jerImage" />
+                <Link target="_blank" to="https://www.instagram.com/p/CnwwrKROT4B/">
                     <figcaption className="captionA">© {getYear()} Kylie Squiers, all rights reserved.</figcaption>
                 </Link>
             </figure>
             <figure>
-                <Link target="_blank" to="http://medsofficial.bandcamp.com">
-                    <img className="medsImage" src="/the bottom dollars-49.jpg" alt="chrisImage" />
+                <img className="medsImage" src="/the bottom dollars-49.jpg" alt="chrisImage" />
+                <Link target="_blank" to="https://www.instagram.com/p/CnwwrKROT4B/">
                     <figcaption className="captionA">© {getYear()} Kylie Squiers, all rights reserved.</figcaption>
                 </Link>
             </figure>
             <figure>
-                <Link target="_blank" to="http://medsofficial.bandcamp.com">
-                    <img className="medsImage" src="/the bottom dollars-55.jpg" alt="cherchImage" />
+                <img className="medsImage" src="/the bottom dollars-55.jpg" alt="cherchImage" />
+                <Link target="_blank" to="https://www.instagram.com/p/CnwwrKROT4B/">
                     <figcaption className="captionA">© {getYear()} Kylie Squiers, all rights reserved.</figcaption>
                 </Link>
             </figure>

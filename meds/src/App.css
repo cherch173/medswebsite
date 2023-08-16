@@ -110,6 +110,10 @@ a:visited:hover {
   font-size: 2vmin;
 }
 
+.captionA:hover {
+  color: rgb(119, 185, 148);
+}
+
 .bandA {
   color: rgb(119, 185, 148);
   font-weight: bold;
