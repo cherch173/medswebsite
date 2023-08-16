@@ -22,8 +22,8 @@ const Nav = () => {
           <Link to="/merch">MERCH</Link>
           <Link to="/contact">CONTACT</Link>
         <br />
-        <SocialNav />
         <br />
+        <SocialNav />
       </div>
   )
 }
