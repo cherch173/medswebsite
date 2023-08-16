@@ -362,10 +362,28 @@ p {
     width: 70vmin;
   }
 
+  .bioCard {
+    margin-left: 2vmin;
+    margin-right: 2vmin;
+  }
+
+  .contactA {
+    font-size: 2.5vmin;
+  }
+
+p {
+  margin-left: 1vmin;
+  margin-right: 1vmin;
+}
+
   .button {
     font-size: 2.5vmin;
     height: fit-content;
     width: fit-content;
+  }
+
+  .bandA {
+    font-size: 2vmin;
   }
 
   .footer {

@@ -61,7 +61,7 @@ const Bio = () => {
                 <Link to="http://www.instagram.com/thebkbuffalo" target="_blank">
                     <label className="bandA" htmlFor="band">Evan Berg </label>
                 </Link>
-                - Drums, Guitars, 808, Aux Perc
+                - Drums, Guitar, 808, Aux Perc
                 <br />
                 <Link to="http://www.instagram.com/chrisurriola" target="_blank">
                     <label className="bandA" htmlFor="band">Chris Urriola </label>
