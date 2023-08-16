@@ -94,6 +94,8 @@ const Bio = () => {
             <Link to="/">
                 <button className="button">back</button>
             </Link>
+            <br />
+            <br />
         </div>
     )
 }

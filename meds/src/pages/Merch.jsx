@@ -6,7 +6,7 @@ const Merch = () => {
         <div>
             <h3 className="headerText">Merch</h3>
             <br />
-            <div className="card">
+            <div className="bioCard">
                 <p>
                     coming soon... <br />
                 </p>

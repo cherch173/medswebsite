@@ -20,9 +20,10 @@ const Contact = () => {
                 <p>
                     xo
                 </p>
-                <p className="medsText">
-                    meds
-                </p>
+                <span className="medsText">Meds</span>
+                {/* <br />
+                <p className="medsText">meds
+                </p> */}
             </div>
             <br />
             <br />
