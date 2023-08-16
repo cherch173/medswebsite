@@ -42,54 +42,54 @@ const Bio = () => {
                 <p>
                     The first single, “An Unexpected Visit to the Isabella Stewart Gardner Museum,” will be available on all digital streaming platforms worldwide in late 2023.
                 </p>
-            <br />
-            <p>
-                <strong className="medsText">
-                    Meds
-                </strong>
                 <br />
-                <br />
-                are:
-                <br />
-            </p>
-            <p>
-                <Link to="http://www.instagram.com/medsanight" target="_blank">
-                    <label className="bandA" htmlFor="band">Cherch </label>
-                </Link>
-                - Guitar, Lead Vocals, 808
-                <br />
-                <Link to="http://www.instagram.com/thebkbuffalo" target="_blank">
-                    <label className="bandA" htmlFor="band">Evan Berg </label>
-                </Link>
-                - Drums, Guitar, 808, Aux Perc
-                <br />
-                <Link to="http://www.instagram.com/chrisurriola" target="_blank">
-                    <label className="bandA" htmlFor="band">Chris Urriola </label>
-                </Link>
-                - Bass, Vocals, Synthesis
-                <br />
-                <Link to="http://www.instagram.com/kol.ker" target="_blank">
-                    <label className="bandA" htmlFor="band">Jeremy Kolker </label>
-                </Link>
-                - Drums, Vocals, 808, Aux Perc
-                <br />
-            </p>
-            <br />
-            <div className="bioCard">
                 <p>
-                    <span className="boldBioText">Meds</span>are endorsed by:
+                    <strong className="medsText">
+                        Meds
+                    </strong>
                     <br />
                     <br />
-                    <Link to="https://www.gibson.com" target="_blank" className="contactA" >Gibson Guitars</Link>
-                    <br />
-                    <Link to="https://www.earthquakerdevices.com/" target="_blank" className="contactA" > Earthquaker Devices</Link>
-                    <br />
-                    <Link to="https://www.telefunken-elektroakustik.com/" target="_blank" className="contactA" >Telefunken Microphones</Link>
-                    <br />
-                    <Link to="https://dreamcymbals.com/artists/usa/berg-evan-buffalo" target="_blank" className="contactA" >Dream Cymbals</Link>
+                    are:
                     <br />
                 </p>
-            </div>
+                <p>
+                    <Link to="http://www.instagram.com/medsanight" target="_blank">
+                        <label className="bandA" htmlFor="band">Cherch -</label>
+                    </Link>
+                    Guitar, Lead Vocals, 808
+                    <br />
+                    <Link to="http://www.instagram.com/thebkbuffalo" target="_blank">
+                        <label className="bandA" htmlFor="band">Evan Berg -</label>
+                    </Link>
+                    Drums, Guitar, 808, Aux Perc
+                    <br />
+                    <Link to="http://www.instagram.com/chrisurriola" target="_blank">
+                        <label className="bandA" htmlFor="band">Chris Urriola -</label>
+                    </Link>
+                    Bass, Vocals, Synthesis, Subs
+                    <br />
+                    <Link to="http://www.instagram.com/kol.ker" target="_blank">
+                        <label className="bandA" htmlFor="band">Jeremy Kolker -</label>
+                    </Link>
+                    Drums, Vocals, 808, Aux Perc
+                    <br />
+                </p>
+                <br />
+                <div className="bioCard">
+                    <p>
+                        <span className="boldBioText">Meds</span>are endorsed by:
+                        <br />
+                        <br />
+                        <Link to="https://www.gibson.com" target="_blank" className="contactA" >Gibson Guitars</Link>
+                        <br />
+                        <Link to="https://www.earthquakerdevices.com/" target="_blank" className="contactA" > Earthquaker Devices</Link>
+                        <br />
+                        <Link to="https://www.telefunken-elektroakustik.com/" target="_blank" className="contactA" >Telefunken Microphones</Link>
+                        <br />
+                        <Link to="https://dreamcymbals.com/artists/usa/berg-evan-buffalo" target="_blank" className="contactA" >Dream Cymbals</Link>
+                        <br />
+                    </p>
+                </div>
             </div>
             <br />
             <br />
