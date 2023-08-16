@@ -42,25 +42,25 @@ const Photos = () => {
             </figure>
             <figure>
                 <img className="medsImage" src="/the bottom dollars-50.jpg" alt="bergGuitImage" />
-                <Link target="_blank" to="https://www.instagram.com/p/CnwwrKROT4B/">
+                <Link target="_blank" to="https://www.instagram.com/ks.photog/">
                     <figcaption className="captionA">© {getYear()} Kylie Squiers, all rights reserved.</figcaption>
                 </Link>
             </figure>
             <figure>
                 <img className="medsImage" src="/the bottom dollars-48.jpg" alt="jerImage" />
-                <Link target="_blank" to="https://www.instagram.com/p/CnwwrKROT4B/">
+                <Link target="_blank" to="https://www.instagram.com/ks.photog/">
                     <figcaption className="captionA">© {getYear()} Kylie Squiers, all rights reserved.</figcaption>
                 </Link>
             </figure>
             <figure>
                 <img className="medsImage" src="/the bottom dollars-49.jpg" alt="chrisImage" />
-                <Link target="_blank" to="https://www.instagram.com/p/CnwwrKROT4B/">
+                <Link target="_blank" to="https://www.instagram.com/ks.photog/">
                     <figcaption className="captionA">© {getYear()} Kylie Squiers, all rights reserved.</figcaption>
                 </Link>
             </figure>
             <figure>
                 <img className="medsImage" src="/the bottom dollars-55.jpg" alt="cherchImage" />
-                <Link target="_blank" to="https://www.instagram.com/p/CnwwrKROT4B/">
+                <Link target="_blank" to="https://www.instagram.com/ks.photog/">
                     <figcaption className="captionA">© {getYear()} Kylie Squiers, all rights reserved.</figcaption>
                 </Link>
             </figure>
