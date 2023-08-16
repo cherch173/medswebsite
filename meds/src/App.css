@@ -320,8 +320,9 @@ p {
     z-index: 10;
   }
 
-  #root {
-    padding-left: 10vmin;
-    padding-right: 10vmin;
-  }
+  /* #root {
+    padding: 10vmin;
+    padding-left: 15vmin;
+    padding-right: 5vmin;
+  } */
 }
