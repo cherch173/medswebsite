@@ -12,19 +12,19 @@ const Nav = () => {
   }
 
   return (
-      <div className="nav">
-        <div className="burger" onClick={toggleBurger}>
+    <div className="nav">
+      <div className="burger" onClick={toggleBurger}>
         <Burger />
-        </div>
-          <Link to="/">HOME</Link>
-          <Link to="/tour">TOUR DATES</Link>
-          <Link to="/bio">BIO</Link>
-          <Link to="/merch">MERCH</Link>
-          <Link to="/contact">CONTACT</Link>
-        <br />
-        <br />
-        <SocialNav />
       </div>
+      <Link to="/">HOME</Link>
+      <Link to="/tour">TOUR DATES</Link>
+      <Link to="/bio">BIO</Link>
+      <Link to="/merch">MERCH</Link>
+      <Link to="/contact">CONTACT</Link>
+      <br />
+      <br />
+      <SocialNav />
+    </div>
   )
 }
 
