@@ -30,8 +30,11 @@ const Photos = () => {
             </figure>
             <figure>
                 <img className="medsImage" src="/the bottom dollars-45.jpg" alt="bb1Image" />
-                <Link target="_blank" to="https://www.instagram.com/p/CnwwrKROT4B/">
+                <Link target="_blank" to="">
                     <figcaption className="captionA">© {getYear()} Kylie Squiers, all rights reserved.</figcaption>
+                </Link>
+                <Link to="https://www.instagram.com/p/CnwwrKROT4B/" target="_blank">
+                    <button className="viewAllButton">VIEW ALL</button>
                 </Link>
             </figure>
             <figure>
@@ -45,11 +48,17 @@ const Photos = () => {
                 <Link target="_blank" to="https://www.instagram.com/ks.photog/">
                     <figcaption className="captionA">© {getYear()} Kylie Squiers, all rights reserved.</figcaption>
                 </Link>
+                <Link to="https://www.instagram.com/p/CnwwrKROT4B/" target="_blank">
+                    <button className="viewAllButton">VIEW ALL</button>
+                </Link>
             </figure>
             <figure>
                 <img className="medsImage" src="/the bottom dollars-48.jpg" alt="jerImage" />
                 <Link target="_blank" to="https://www.instagram.com/ks.photog/">
                     <figcaption className="captionA">© {getYear()} Kylie Squiers, all rights reserved.</figcaption>
+                </Link>
+                <Link to="https://www.instagram.com/p/CnwwrKROT4B/" target="_blank">
+                    <button className="viewAllButton">VIEW ALL</button>
                 </Link>
             </figure>
             <figure>
@@ -57,11 +66,17 @@ const Photos = () => {
                 <Link target="_blank" to="https://www.instagram.com/ks.photog/">
                     <figcaption className="captionA">© {getYear()} Kylie Squiers, all rights reserved.</figcaption>
                 </Link>
+                <Link to="https://www.instagram.com/p/CnwwrKROT4B/" target="_blank">
+                    <button className="viewAllButton">VIEW ALL</button>
+                </Link>
             </figure>
             <figure>
                 <img className="medsImage" src="/the bottom dollars-55.jpg" alt="cherchImage" />
                 <Link target="_blank" to="https://www.instagram.com/ks.photog/">
                     <figcaption className="captionA">© {getYear()} Kylie Squiers, all rights reserved.</figcaption>
+                </Link>
+                <Link to="https://www.instagram.com/p/CnwwrKROT4B/" target="_blank">
+                    <button className="viewAllButton">VIEW ALL</button>
                 </Link>
             </figure>
         </div>
