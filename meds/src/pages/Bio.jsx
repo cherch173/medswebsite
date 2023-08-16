@@ -74,7 +74,7 @@ const Bio = () => {
                 <br />
             </p>
             <br />
-            <div className="card">
+            <div className="bioCard">
                 <p>
                     <span className="boldBioText">Meds</span>are endorsed by:
                     <br />
