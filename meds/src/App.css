@@ -334,6 +334,24 @@ p {
   background-color: rgba(119, 185, 148, .86);
 }
 
+.viewAllButton {
+  margin: 2vmin;
+  font-size: 1.5vmin;
+  border-radius: 1.73vmin;
+  background-color: rgba(119, 185, 148);
+  color: whitesmoke;
+  border: 1px solid rgba(119, 185, 148, .42);
+  cursor: pointer;
+}
+
+.viewAllButton:hover {
+  transform: scale(105%);
+  transition: ease-in 142ms;
+  border: 1px solid rgba(17, 17, 17, .33);
+  background-color: whitesmoke;
+  color: rgb(17, 17, 17);
+}
+
 .footer {
   font-size: 2vmin;
   text-align: center;
