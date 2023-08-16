@@ -90,19 +90,21 @@ a:visited:hover {
 .contactA {
   color: whitesmoke;
   margin: 0 auto;
-}
-
-.contactA:visited {
-  color: whitesmoke;
-  margin: 0 auto;
-}
-.captionA {
-  color: whitesmoke;
-  margin: 0 auto;
   font-size: 2vmin;
 }
 
 .contactA:visited {
+  color: whitesmoke;
+  margin: 0 auto;
+}
+
+.captionA {
+  color: whitesmoke;
+  margin: 0 auto;
+  font-size: vmin;
+}
+
+.captionA:visited {
   color: whitesmoke;
   margin: 0 auto;
   font-size: 2vmin;
@@ -196,7 +198,6 @@ a:visited:hover {
   text-shadow: -.25px, .25px whitesmoke, .5px .5px black;
 }
 
-
 figcaption {
   color: whitesmoke;
 }
@@ -243,10 +244,11 @@ figcaption {
 }
 
 .bioCard {
-  padding: 3vmin;
+  padding-top: 3vmin;
+  padding-bottom: 3vmin;
   margin: 1vmin;
-  margin-left: 17vmin;
-  margin-right: 17vmin;
+  margin-left: 15vmin;
+  margin-right: 15vmin;
   border-radius: 5px;
   border: 1px solid whitesmoke;
   border: 1px solid rgb(119, 185, 148);
@@ -255,6 +257,22 @@ figcaption {
   background-size: 100%;
   opacity: 86%;
   box-shadow: 0px 0px 1px 1px rgba(119, 185, 148, .73);
+}
+
+.bioTextCard {
+  padding-top: 3vmin;
+  padding-bottom: 3vmin;
+  margin: 1vmin;
+  margin-left: 20vmin;
+  margin-right: 20vmin;
+  /* border-radius: 5px;
+  border: 1px solid whitesmoke;
+  border: 1px solid rgb(119, 185, 148);
+  background-color: rgba(17, 17, 17, .55);
+  background-image: url('/IssaTeaserSquareNoText.gif');
+  background-size: 100%;
+  background-blend-mode: soft-light; */
+  /* box-shadow: 0px 0px 1px 1px rgba(119, 185, 148, .73); */
 }
 
 .bioCard:hover {
