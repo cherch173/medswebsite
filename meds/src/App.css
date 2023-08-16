@@ -324,6 +324,7 @@ p {
   color: rgb(17, 17, 17);
   border: 1px solid rgb(119, 185, 148);
   cursor: pointer;
+  width: fit-content;
 }
 
 .onSaleButton:hover {
