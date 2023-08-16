@@ -133,7 +133,7 @@ a:visited:hover {
 }
 
 .socialImage {
-  max-width: 5vmin;
+  max-width: 6vmin;
   border-radius: 50%;
   cursor: pointer;
   opacity: 73%;
