@@ -400,6 +400,7 @@ p {
 
   .td {
     width: fit-content;
+    font-size: 82%;
   }
 
   .button {
@@ -409,7 +410,6 @@ p {
   }
 
   .onSaleButton {
-    /* font-size: 1vmin; */
     width: fit-content;
     height: fit-content;
   }
