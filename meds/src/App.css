@@ -34,17 +34,6 @@ Link {
   justify-content: center;
 }
 
-.nav ul {
-  display: flex;
-  flex-wrap: wrap;
-  margin: auto 0;
-  justify-content: center;
-}
-
-.nav ul li {
-  list-style-type: none;
-}
-
 .socialNav {
   margin: 2vmin;
 }
@@ -256,8 +245,8 @@ figcaption {
 .bioCard {
   padding: 3vmin;
   margin: 1vmin;
-  margin-left: 25vmin;
-  margin-right: 25vmin;
+  margin-left: 17vmin;
+  margin-right: 17vmin;
   border-radius: 5px;
   border: 1px solid whitesmoke;
   border: 1px solid rgb(119, 185, 148);
@@ -277,8 +266,8 @@ figcaption {
 }
 
 p {
-  margin-left: 17vmin;
-  margin-right: 17vmin;
+  margin-left: 8vmin;
+  margin-right: 8vmin;
 }
 
 .th {
@@ -335,6 +324,7 @@ p {
   font-size: 2vmin;
   text-align: center;
   max-width: 100%;
+  bottom: 0cap;
 }
 
 @media (max-width: 480px) {
@@ -347,10 +337,26 @@ p {
 
   a {
     font-size: 3vmin;
+    margin: 2vmin;
   }
 
   .card {
     width: 70vmin;
+  }
+
+  .button {
+    font-size: 2.5vmin;
+    height: fit-content;
+  }
+
+  .footer {
+    display: flex;
+    position: absolute;
+    bottom:0cap ;
+    left: 25vmin;
+    justify-content: center;
+    align-items: center;
+
   }
 
 }

@@ -16,14 +16,14 @@ const Nav = () => {
         <div className="burger" onClick={toggleBurger}>
         <Burger />
         </div>
-        <ul>
           <Link to="/">HOME</Link>
           <Link to="/tour">TOUR DATES</Link>
           <Link to="/bio">BIO</Link>
           <Link to="/merch">MERCH</Link>
           <Link to="/contact">CONTACT</Link>
-        </ul>
+        <br />
         <SocialNav />
+        <br />
       </div>
   )
 }
