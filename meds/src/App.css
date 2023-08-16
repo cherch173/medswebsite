@@ -400,6 +400,7 @@ p {
 
   .td {
     width: fit-content;
+    min-height: fit-content;
     font-size: 82%;
   }
 
