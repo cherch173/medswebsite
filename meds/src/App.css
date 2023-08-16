@@ -290,11 +290,13 @@ p {
   padding: 1vmin;
   background-color: rgba(245, 245, 245, .96);
   color: rgba(17, 17, 17, .66);
+  width: fit-content;
 }
 
 .td {
   text-align: center;
   padding: 2vmin;
+  width: fit-content;
 }
 
 .button {
