@@ -429,7 +429,6 @@ p {
 
   .footer {
     display: flex;
-    position: absolute;
     bottom: 0cap;
     left: 25vmin;
     justify-content: center;
