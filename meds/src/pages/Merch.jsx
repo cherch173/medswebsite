@@ -5,6 +5,7 @@ import Footer from '../components/Footer'
 const Merch = () => {
     return (
         <div>
+            <br />
             <h3 className="headerText">Merch</h3>
             <br />
             <div className="bioCard">
@@ -39,7 +40,7 @@ const Merch = () => {
             <br />
             <br />
             <br />
-            <Footer />
+            {/* <Footer /> */}
         </div>
     )
 }

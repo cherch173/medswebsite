@@ -128,7 +128,7 @@ a:visited:hover {
 }
 
 .footerLink {
-  font-size: 2vmin;
+  font: 2vmin;
 }
 
 .bandImage {
@@ -429,6 +429,7 @@ p {
 
   .footer {
     display: flex;
+    /* position: absolute; */
     bottom: 0cap;
     left: 25vmin;
     justify-content: center;
