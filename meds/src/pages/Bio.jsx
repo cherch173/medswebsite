@@ -1,5 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
+import Footer from '../components/Footer'
 
 const Bio = () => {
 
@@ -92,12 +93,14 @@ const Bio = () => {
                 </div>
             </div>
             <br />
-            <br />
             <Link to="/">
                 <button className="button">back</button>
             </Link>
             <br />
             <br />
+            <br />
+            <br />
+            <Footer />
         </div>
     )
 }

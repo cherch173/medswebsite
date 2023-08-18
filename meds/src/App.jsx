@@ -6,6 +6,7 @@ import Bio from './pages/Bio'
 import Merch from './pages/Merch'
 import Nav from './components/Nav'
 import Contact from './pages/Contact'
+import Footer from './components/Footer'
 import './App.css'
 
 function App() {
@@ -27,15 +28,7 @@ function App() {
           <Route path="/contact" element={<Contact />} />
         </Routes>
       </main>
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <footer className="footer">
-        © {getYear()} Cherch, all rights reserved
-        <a className="footerLink" target="_blank" href="mailto:booking@medsmusic.com">CONTACT</a>
-      </footer>
+      {/* <Footer /> */}
     </div>
   )
 }
