@@ -127,6 +127,10 @@ a:visited:hover {
   cursor: pointer;
 }
 
+.footerLink {
+  font-size: 2vmin;
+}
+
 .bandImage {
   max-width: 73vmin;
   border-radius: 10px;

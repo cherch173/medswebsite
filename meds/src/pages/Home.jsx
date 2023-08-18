@@ -3,6 +3,7 @@ import { useRef } from 'react'
 import { Link } from 'react-router-dom'
 import Tour from './Tour'
 import Photos from '../components/Photos'
+import Footer from '../components/Footer'
 
 const Home = () => {
     const getYear = () => {
@@ -31,8 +32,16 @@ const Home = () => {
             <br />
             <Photos />
             <br />
-            <br />
+            <br />Í
             <button className="button" onClick={scrollUp} ref={scrollUpRef} >beam up</button>
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <Footer />
         </div>
     )
 }
