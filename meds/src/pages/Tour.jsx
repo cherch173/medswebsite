@@ -33,10 +33,19 @@ const Tour = () => {
                             </td>
                         </tr>
                         <tr>
-                            <td></td>
-                            <td></td>
-                            <td></td>
-                            <td></td>
+                            <td>10.27.2023</td>
+                            <td>The Gutter</td>
+                            <td>Brooklyn, NY</td>
+                            <td className="td">
+                                {/* <Link target="_blank" to="https://dice.fm/event/7knb7-roof-show-red-tank-small-meds-21st-aug-our-wicked-lady-new-york-tickets?lng=en-US">
+                                    <button className="onSaleButton">on sale</button>
+                                </Link> */}
+                            </td>
+                            <td>
+                                <Link target="_blank" to="https://www.thegutterbarles.com/williamsburg">
+                                    <button className="onSaleButton">details</button>
+                                </Link>
+                            </td>
                         </tr>
                     </tbody>
                 </table>
