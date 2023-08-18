@@ -32,10 +32,9 @@ const Home = () => {
             <br />
             <Photos />
             <br />
-            <br />Í
+            <br />
+            <br />
             <button className="button" onClick={scrollUp} ref={scrollUpRef} >beam up</button>
-            <br />
-            <br />
             <br />
             <br />
             <br />
