@@ -404,12 +404,13 @@ p {
 
   .th {
     width: fit-content;
+    font-size: auto;
   }
 
   .td {
     width: fit-content;
     min-height: fit-content;
-    font-size: 82%;
+    font-size: 73%;
   }
 
   .button {
