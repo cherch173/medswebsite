@@ -19,6 +19,21 @@ const Tour = () => {
                             </tr>
                         </thead>
                         <tbody>
+                            {/* <tr>
+                                <td>09.09.2023</td>
+                                <td>Alphaville</td>
+                                <td>Brooklyn, NY</td>
+                                <td className="td">
+                                    <Link target="_blank" to="https://maindragmusic.com/collections/live-at-main-drag">
+                                    <button className="onSaleButton">on sale</button>
+                                </Link>
+                                </td>
+                                <td>
+                                    <Link target="_blank" to="https://maindragmusic.com/collections/live-at-main-drag">
+                                        <button className="onSaleButton">details</button>
+                                    </Link>
+                                </td>
+                            </tr> */}
                             <tr>
                                 <td>09.28.2023</td>
                                 <td>Main Drag Music</td>
