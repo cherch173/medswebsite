@@ -22,7 +22,7 @@ const Bio = () => {
                     <strong className="boldBioText">
                         Cherch
                     </strong>
-                    sought to combine his love of hip-hop production elements with his notorious guitar work; so the <i> New York Times & Village Voice </i> heralded composer enlisted several of his best collaborators (featuring members of <i>The Bottom Dollars, God Tiny, Hollis Brown, Catty</i> and more) and entered the studio with world-renowned producer Jeff Berner (<i>Psychic TV, Shilpa Ray</i>), resulting in the debut recording
+                    sought to combine his love of hip-hop production elements with his notorious guitar work; so the <i> New York Times & Village Voice </i> heralded composer enlisted several of his best collaborators (featuring members of <i>The Bottom Dollars, God Tiny, Deathrow Tull, Catty</i> and more) and entered the studio with world-renowned producer Jeff Berner (<i>Psychic TV, Shilpa Ray</i>), resulting in the debut recording
                     <strong className="boldText">
                         <i>
                             Night (Volume 1).
@@ -64,11 +64,11 @@ const Bio = () => {
                     </Link>
                     Drums, Guitar, 808, Aux Perc
                     <br />
-                    <Link to="http://www.instagram.com/chrisurriola" target="_blank">
+                    {/* <Link to="http://www.instagram.com/chrisurriola" target="_blank">
                         <label className="bandA" htmlFor="band">Chris Urriola -</label>
                     </Link>
                     Bass, Vocals, Synthesis, Subs
-                    <br />
+                    <br /> */}
                     <Link to="http://www.instagram.com/kol.ker" target="_blank">
                         <label className="bandA" htmlFor="band">Jeremy Kolker -</label>
                     </Link>

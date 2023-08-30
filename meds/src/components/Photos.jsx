@@ -28,7 +28,7 @@ const Photos = () => {
                     <figcaption className="captionA">© {getYear()} Nick Fallon, all rights reserved.</figcaption>
                 </Link>
             </figure>
-            <figure>
+            {/* <figure>
                 <img className="medsImage" src="/the bottom dollars-45.jpg" alt="bb1Image" />
                 <Link target="_blank" to="">
                     <figcaption className="captionA">© {getYear()} Kylie Squiers, all rights reserved.</figcaption>
@@ -36,7 +36,7 @@ const Photos = () => {
                 <Link to="https://www.instagram.com/p/CnwwrKROT4B/" target="_blank">
                     <button className="viewAllButton">VIEW ALL</button>
                 </Link>
-            </figure>
+            </figure> */}
             <figure>
                 <img className="medsImage" src="https://ef4537.p3cdn1.secureserver.net/wp-content/uploads/2015/01/The-Bottom-Dollars-40-868x580.jpg" alt="bb2Image" />
                 <Link target="_blank" to="https://www.nickfallonphotography.com/music">
@@ -61,7 +61,7 @@ const Photos = () => {
                     <button className="viewAllButton">VIEW ALL</button>
                 </Link>
             </figure>
-            <figure>
+            {/* <figure>
                 <img className="medsImage" src="/the bottom dollars-49.jpg" alt="chrisImage" />
                 <Link target="_blank" to="https://www.instagram.com/ks.photog/">
                     <figcaption className="captionA">© {getYear()} Kylie Squiers, all rights reserved.</figcaption>
@@ -69,7 +69,7 @@ const Photos = () => {
                 <Link to="https://www.instagram.com/p/CnwwrKROT4B/" target="_blank">
                     <button className="viewAllButton">VIEW ALL</button>
                 </Link>
-            </figure>
+            </figure> */}
             <figure>
                 <img className="medsImage" src="/the bottom dollars-55.jpg" alt="cherchImage" />
                 <Link target="_blank" to="https://www.instagram.com/ks.photog/">
