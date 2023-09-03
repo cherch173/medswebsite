@@ -87,7 +87,7 @@ const Bio = () => {
                         <br />
                         <Link to="https://www.telefunken-elektroakustik.com/" target="_blank" className="contactA" >Telefunken Microphones</Link>
                         <br />
-                        {/* <Link to="https://dreamcymbals.com/artists/usa/berg-evan-buffalo" target="_blank" className="contactA" >Dream Cymbals</Link> */}
+                        <Link to="https://dreamcymbals.com/artists/usa/berg-evan-buffalo" target="_blank" className="contactA" >Dream Cymbals</Link>
                         <br />
                     </p>
                 </div>
