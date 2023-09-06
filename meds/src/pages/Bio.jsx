@@ -100,6 +100,7 @@ const Bio = () => {
             <br />
             <br />
             <br />
+            <br />
             <Footer />
         </div>
     )
