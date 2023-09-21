@@ -39,12 +39,12 @@ const Tour = () => {
                                 <td>Main Drag Music</td>
                                 <td>Brooklyn, NY</td>
                                 <td className="td">
-                                    <Link target="_blank" to="https://maindragmusic.com/collections/live-at-main-drag">
+                                    <Link target="_blank" to="https://maindragmusic.com/collections/live-at-main-drag/products/9-28-23-meds-higgs-bison-davidfromnashville-max-fite">
                                     <button className="onSaleButton">on sale</button>
                                 </Link>
                                 </td>
                                 <td>
-                                    <Link target="_blank" to="https://maindragmusic.com/collections/live-at-main-drag">
+                                    <Link target="_blank" to="https://maindragmusic.com/collections/live-at-main-drag/products/9-28-23-meds-higgs-bison-davidfromnashville-max-fite">
                                         <button className="onSaleButton">details</button>
                                     </Link>
                                 </td>
@@ -54,7 +54,7 @@ const Tour = () => {
                                 <td>The Gutter</td>
                                 <td>Brooklyn, NY</td>
                                 <td className="td">
-                                    <Link target="_blank" to="https://www.youtube.com/watch?v=xupQHKzirRE">
+                                    <Link target="_blank" to="https://www.instagram.com/gutterbar/">
                                     <button className="onSaleButton">on sale</button>
                                 </Link>
                                 </td>
