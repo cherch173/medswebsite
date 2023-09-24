@@ -24,7 +24,7 @@ const Home = () => {
 
     return (
         <div ref={scrollDownRef}>
-            <h1 className="medsText" >meds</h1>
+            <h1 className="medsText">meds</h1>
             <button className="button" onClick={scrollDown}>beam down</button>
             <br />
             <br />
