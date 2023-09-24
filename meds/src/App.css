@@ -185,10 +185,10 @@ a:visited:hover {
 
 .medsText {
   color: rgb(119, 185, 148);
-  margin-left: .5vmin;
+  /* margin-left: .5vmin; */
   font-family: 'Rubik Burned', cursive;
   opacity: 86%;
-  font-size: 6vmin;
+  font-size: 6.66vmin;
   text-shadow: -.5px, .5px whitesmoke, -.75px, .75px rgb(119, 185, 148), .1px .1px black;
 }
 
@@ -313,10 +313,11 @@ p {
   color: whitesmoke;
   border: 1px solid transparent;
   cursor: pointer;
-  height: 3.5vmin;
+  height: fit-content;
+  width: fit-content;
   font-size: 2vmin;
   opacity: 90%;
-  padding: auto;
+  padding: .75vmin;
   filter: will-change;
 }
 
@@ -339,7 +340,7 @@ p {
   cursor: pointer;
   width: fit-content;
   height: fit-content;
-  padding: .5vmin;
+  padding: .75vmin;
   filter: will-change;
 }
 
@@ -356,6 +357,8 @@ p {
 .viewAllButton {
   margin: 2vmin;
   padding: .75vmin;
+  height: fit-content;
+  width: fit-content;
   font-size: 1.5vmin;
   border-radius: 1.73vmin;
   background-color: rgba(119, 185, 148);

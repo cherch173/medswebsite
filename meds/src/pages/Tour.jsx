@@ -40,8 +40,8 @@ const Tour = () => {
                                 <td>Brooklyn, NY</td>
                                 <td className="td">
                                     <Link target="_blank" to="https://maindragmusic.com/collections/live-at-main-drag/products/9-28-23-meds-higgs-bison-davidfromnashville-max-fite">
-                                    <button className="onSaleButton">on sale</button>
-                                </Link>
+                                        <button className="onSaleButton">on sale</button>
+                                    </Link>
                                 </td>
                                 <td>
                                     <Link target="_blank" to="https://maindragmusic.com/collections/live-at-main-drag/products/9-28-23-meds-higgs-bison-davidfromnashville-max-fite">
@@ -55,8 +55,8 @@ const Tour = () => {
                                 <td>Brooklyn, NY</td>
                                 <td className="td">
                                     <Link target="_blank" to="https://www.instagram.com/gutterbar/">
-                                    <button className="onSaleButton">on sale</button>
-                                </Link>
+                                        <button className="onSaleButton">on sale</button>
+                                    </Link>
                                 </td>
                                 <td>
                                     <Link target="_blank" to="https://www.thegutterbarles.com/williamsburg">
