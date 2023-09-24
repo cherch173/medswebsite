@@ -10,13 +10,25 @@ const Contact = () => {
             <br />
             <div className="bioCard">
                 <br />
-                <a className="contactA" href="mailto:booking@medsmusic.com" target="_blank">BOOKING</a>
+                <Link to="mailto:booking@medsmusic.com" target="_blank">
+                    <button className='contactButton'>booking</button>    
+                </Link>
                 <br />
-                <a className="contactA" href="mailto:mmmedddsss@gmail.com" target="_blank">PRESS</a>
                 <br />
-                <a className="contactA" href="mailto:mmmedddsss@gmail.com" target="_blank">SYNC</a>
+                <Link to="mailto:mmmedddsss@gmail.com" target="_blank">
+                    <button className='contactButton'>press</button>    
+                </Link>
                 <br />
-                <a className="contactA" href="mailto:mmmedddsss@gmail.com" target="_blank">OTHER</a>
+                <br />
+                <Link to="mailto:mmmedddsss@gmail.com" target="_blank">
+                    <button className='contactButton'>sync</button>    
+                </Link>
+                <br />
+                <br />
+                <Link to="mailto:mmmedddsss@gmail.com" target="_blank">
+                    <button className='contactButton'>other</button>    
+                </Link>
+                <br />
                 <br />
                 <br />
                 <p>

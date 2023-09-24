@@ -35,13 +35,13 @@ const Bio = () => {
                             Night (Volume 1)
                         </i>
                     </strong>
-                    : is a short vignette of weaving, ornate compositions themed around trauma survival and mental health advocacy.<strong className="boldBioText">Meds</strong>live somewhere between the psychedelia of <i>Spiritualized and TV On the Radio </i> and the indie punk joie de vivre of
+                    : is a short vignette of weaving, ornate compositions themed around mental health advocacy.<strong className="boldBioText">Meds</strong>sonically reside somewhere between the psychedelia of <i>Spiritualized and TV On the Radio </i> and the indie punk joie de vivre of
                     <i>
                         The Replacements, The Cure and The War on Drugs.
                     </i>
                 </p>
                 <p>
-                    The first single, “An Unexpected Visit to the Isabella Stewart Gardner Museum,” will be available on all digital streaming platforms worldwide in late 2023.
+                    The first single, “An Unexpected Visit to the Isabella Stewart Gardner Museum,” will be available on all digital streaming platforms worldwide on October 20, 2023.
                 </p>
                 <br />
                 <p>
