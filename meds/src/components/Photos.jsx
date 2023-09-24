@@ -34,7 +34,7 @@ const Photos = () => {
                     <figcaption className="captionA">© {getYear()} Kylie Squiers, all rights reserved.</figcaption>
                 </Link>
                 <Link to="https://www.instagram.com/p/CnwwrKROT4B/" target="_blank">
-                    <button className="viewAllButton">VIEW ALL</button>
+                    <button className="viewAllButton">view all</button>
                 </Link>
             </figure> */}
             <figure>
@@ -49,7 +49,7 @@ const Photos = () => {
                     <figcaption className="captionA">© {getYear()} Kylie Squiers, all rights reserved.</figcaption>
                 </Link>
                 <Link to="https://www.instagram.com/p/CnwwrKROT4B/" target="_blank">
-                    <button className="viewAllButton">VIEW ALL</button>
+                    <button className="viewAllButton">view all</button>
                 </Link>
             </figure>
             <figure>
@@ -58,7 +58,7 @@ const Photos = () => {
                     <figcaption className="captionA">© {getYear()} Kylie Squiers, all rights reserved.</figcaption>
                 </Link>
                 <Link to="https://www.instagram.com/p/CnwwrKROT4B/" target="_blank">
-                    <button className="viewAllButton">VIEW ALL</button>
+                    <button className="viewAllButton">view all</button>
                 </Link>
             </figure>
             {/* <figure>
@@ -67,7 +67,7 @@ const Photos = () => {
                     <figcaption className="captionA">© {getYear()} Kylie Squiers, all rights reserved.</figcaption>
                 </Link>
                 <Link to="https://www.instagram.com/p/CnwwrKROT4B/" target="_blank">
-                    <button className="viewAllButton">VIEW ALL</button>
+                    <button className="viewAllButton">view all</button>
                 </Link>
             </figure> */}
             <figure>
@@ -76,7 +76,7 @@ const Photos = () => {
                     <figcaption className="captionA">© {getYear()} Kylie Squiers, all rights reserved.</figcaption>
                 </Link>
                 <Link to="https://www.instagram.com/p/CnwwrKROT4B/" target="_blank">
-                    <button className="viewAllButton">VIEW ALL</button>
+                    <button className="viewAllButton">view all</button>
                 </Link>
             </figure>
         </div>
