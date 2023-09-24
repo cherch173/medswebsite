@@ -185,11 +185,42 @@ a:visited:hover {
 
 .medsText {
   color: rgb(119, 185, 148);
-  /* margin-left: .5vmin; */
   font-family: 'Rubik Burned', cursive;
   opacity: 86%;
   font-size: 6.66vmin;
   text-shadow: -.5px, .5px whitesmoke, -.75px, .75px rgb(119, 185, 148), .1px .1px black;
+  animation-name: pulse;
+  animation-duration: 5ms;
+  animation-fill-mode: both;
+  animation-direction: normal;
+  animation-iteration-count: infinite;
+}
+
+@keyframes pulse {
+  0% {
+    transform: scale3d(0.66, .01, .01);
+  }
+  33% {
+    transform: scale3d(.9, 1, -3);
+    opacity: 73%;
+  }
+  /* 42% {
+    transform: scale3d(.9, 1.7, -2);
+  } */
+  50% {
+    transform: scale3d(1.5, 1.7, 1);
+    opacity: 100%;
+  }
+  66% {
+    transform: scale3d(.9, 1.7, -2);
+    opacity: 42%;
+  }
+  /* 73% {
+    transform: scale3d(.9, 1, .01);
+  } */
+  100% {
+    transform: scale3d(.66, .01, 2);
+  }
 }
 
 .boldText {
