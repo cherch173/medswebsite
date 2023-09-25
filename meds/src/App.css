@@ -190,10 +190,6 @@ a:visited:hover {
   opacity: 86%;
   font-size: 8vmin;
   text-shadow: -.5px, .5px whitesmoke, -.75px, .75px rgb(119, 185, 148), .1px .1px black;
-}
-
-.medsText:hover {
-  cursor: pointer;
   perspective: 1000px;
   transform-style: preserve-3d;
   animation-name: pulse;
@@ -204,13 +200,16 @@ a:visited:hover {
   animation-timing-function: ease;
 }
 
+.medsText:hover {
+  cursor: pointer;
+}
+
 @keyframes pulse {
   0% {
     transform: scale3d(.1, .1, .01);
     opacity: 42%;
     text-shadow: -.25px .25px black;
     transform-origin: 50% 70%;
-
   }
 
   50% {
