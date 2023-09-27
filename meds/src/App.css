@@ -257,7 +257,7 @@ figcaption {
   background-color: rgba(49, 53, 49, 0.73);
   background-image: url('/IssaTeaserSquareNoText.gif');
   background-position: center;
-  background-size: 100%;
+  background-size: cover;
   justify-content: center;
   align-items: center;
   font-size: 1.5vmin;
