@@ -19,36 +19,6 @@ const Tour = () => {
                             </tr>
                         </thead>
                         <tbody>
-                            {/* <tr>
-                                <td>09.09.2023</td>
-                                <td>Alphaville</td>
-                                <td>Brooklyn, NY</td>
-                                <td className="td">
-                                    <Link target="_blank" to="https://www.alphavillebk.com/">
-                                    <button className="onSaleButton">on sale</button>
-                                </Link>
-                                </td>
-                                <td>
-                                    <Link target="_blank" to="https://www.alphavillebk.com/">
-                                        <button className="onSaleButton">details</button>
-                                    </Link>
-                                </td>
-                            </tr> */}
-                            <tr>
-                                <td>09.28.2023</td>
-                                <td>Main Drag Music</td>
-                                <td>Brooklyn, NY</td>
-                                <td className="td">
-                                    <Link target="_blank" to="https://maindragmusic.com/collections/live-at-main-drag/products/9-28-23-meds-higgs-bison-davidfromnashville-max-fite">
-                                        <button className="onSaleButton">on sale</button>
-                                    </Link>
-                                </td>
-                                <td>
-                                    <Link target="_blank" to="https://maindragmusic.com/collections/live-at-main-drag/products/9-28-23-meds-higgs-bison-davidfromnashville-max-fite">
-                                        <button className="onSaleButton">details</button>
-                                    </Link>
-                                </td>
-                            </tr>
                             <tr>
                                 <td>10.27.2023</td>
                                 <td>The Gutter</td>
