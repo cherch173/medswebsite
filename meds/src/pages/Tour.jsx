@@ -24,7 +24,7 @@ const Tour = () => {
                                 <td>Sleepwalk</td>
                                 <td>Brooklyn, NY</td>
                                 <td className="td">
-                                    <Link target="_blank" to="https://sleepwalk.nyc/">
+                                    <Link target="_blank" to="https://sleepwalk.nyc/events">
                                         <button className="onSaleButton">on sale</button>
                                     </Link>
                                 </td>
