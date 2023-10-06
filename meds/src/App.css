@@ -69,8 +69,20 @@ a {
   text-decoration: none;
 }
 
-.navLink {
-  margin: 2vmin;
+.navA {
+  margin: 2.75vmin;
+  filter: will-change;
+}
+
+.navA:hover {
+  perspective: 1000px;
+  transform-style: preserve-3d;
+  animation-name: pulse;
+  animation-duration: 3.71ms;
+  animation-fill-mode: both;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-timing-function: ease;
 }
 
 a:hover {
@@ -326,6 +338,10 @@ p {
   margin-right: 8vmin;
 }
 
+table {
+  margin: 2vmin;
+}
+
 .th {
   border: 1px solid rgb(119, 185, 148);
   border-radius: 5px;
@@ -341,6 +357,7 @@ p {
   ;
   font-size: 1.37vmin;
 }
+
 
 .button {
   border-radius: 1.73vmin;
