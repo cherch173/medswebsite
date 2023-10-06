@@ -21,10 +21,12 @@ const Tour = () => {
                         <tbody>
                             <tr>
                                 <td>10.15.2023</td>
-                                <td>Sleepwalk</td>
+                                <td>Sleepwalk
+                                    [solo set]
+                                </td>
                                 <td>Brooklyn, NY</td>
                                 <td className="td">
-                                    <Link target="_blank" to="https://sleepwalk.nyc/events">
+                                    <Link target="_blank" to="https://link.dice.fm/bc83f6d94b43">
                                         <button className="onSaleButton">on sale</button>
                                     </Link>
                                 </td>
@@ -36,7 +38,9 @@ const Tour = () => {
                             </tr>
                             <tr>
                                 <td>10.27.2023</td>
-                                <td>The Gutter</td>
+                                <td>The Gutter
+                                    [🎃 set as Gorillaz]
+                                </td>
                                 <td>Brooklyn, NY</td>
                                 <td className="td">
                                     <Link target="_blank" to="https://www.instagram.com/gutterbar/">

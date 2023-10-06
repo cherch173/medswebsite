@@ -16,11 +16,11 @@ const Nav = () => {
       <div className="burger" onClick={toggleBurger}>
         <Burger />
       </div>
-      <Link to="/">HOME</Link>
-      <Link to="/tour">TOUR DATES</Link>
-      <Link to="/bio">BIO</Link>
-      <Link to="/merch">MERCH</Link>
-      <Link to="/contact">CONTACT</Link>
+      <Link className="navA" to="/">HOME</Link>
+      <Link className="navA" to="/tour">TOUR DATES</Link>
+      <Link className="navA" to="/bio">BIO</Link>
+      <Link className="navA" to="/merch">MERCH</Link>
+      <Link className="navA" to="/contact">CONTACT</Link>
       <br />
       <br />
       <SocialNav />
