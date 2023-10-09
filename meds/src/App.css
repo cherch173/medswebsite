@@ -72,10 +72,11 @@ a {
 .navA {
   margin: 2.75vmin;
   filter: will-change;
+  perspective: 1000px;
 }
 
 .navA:hover {
-  perspective: 1000px;
+
   transform-style: preserve-3d;
   animation-name: pulse;
   animation-duration: 3.71ms;
@@ -225,16 +226,16 @@ a:visited:hover {
   }
 
   50% {
-    transform: scale3d(1.3, 1.5, 3);
-    opacity: 86%;
+    transform: scale3d(1.15, 1.15, 3);
+    opacity: 80%;
     text-shadow: -.5px .5px black;
   }
 
-  100% {
-    transform: scale3d(1, 1, 1);
-    opacity: 42%;
+  96% {
+    transform: scale3d(1, 1, -11);
+    opacity: 37%;
     text-shadow: -.25px .25px black;
-    transform-origin: 50% 70%;
+    transform-origin: 50% 73%;
 
   }
 }
