@@ -12,7 +12,7 @@ const Tour = () => {
                         <thead>
                             <tr>
                                 <th className="th">date</th>
-                                <th className="th">location</th>
+                                <th className="th">venue</th>
                                 <th className="th">city</th>
                                 <th className="th">tickets</th>
                                 <th className="th">more info</th>
