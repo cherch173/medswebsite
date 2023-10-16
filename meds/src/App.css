@@ -439,11 +439,11 @@ table {
 .onSaleButton:hover {
   transform: scale(103%);
   transition: ease-in 173ms;
-  border: 1px solid rgba(17, 17, 17, .33);
-  color: whitesmoke;
-  background-color: rgba(119, 185, 148, .86);
-  filter: drop-shadow(0 0 1vmin rgb(119, 185, 148));
-
+  border: .5px solid rgb(119, 185, 148);
+  color: rgb(17, 17, 17);
+  background-color: whitesmoke;
+  opacity: 100%;
+  filter: drop-shadow(0 0 2vmin rgb(119, 185, 148));
 }
 
 .viewAllButton {
