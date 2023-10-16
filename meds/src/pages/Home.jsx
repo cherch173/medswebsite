@@ -3,6 +3,7 @@ import { useRef } from 'react'
 import { Link } from 'react-router-dom'
 import Tour from './Tour'
 import Photos from '../components/Photos'
+import News from '../components/News'
 import Footer from '../components/Footer'
 
 const Home = () => {
@@ -27,6 +28,8 @@ const Home = () => {
             <h1 className="medsText">meds</h1>
             <button className="button" onClick={scrollDown}>beam down</button>
             <br />
+            <br />
+            <News />
             <br />
             <Tour />
             <br />
