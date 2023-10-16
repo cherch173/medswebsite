@@ -414,7 +414,7 @@ table {
 }
 
 .button:hover {
-  transform: scale(105%);
+  transform: scale(103%);
   transition: ease-in 173ms;
   border: .5px solid rgb(119, 185, 148);
   color: rgb(17, 17, 17);
@@ -426,9 +426,9 @@ table {
 .onSaleButton {
   font-size: 1.5vmin;
   border-radius: 1.73vmin;
-  background-color: whitesmoke;
-  color: rgb(17, 17, 17);
-  border: 1px solid rgb(119, 185, 148);
+  background-color: rgb(119, 185, 148);
+  color: whitesmoke;
+  border: 1px solid transparent;
   cursor: pointer;
   width: fit-content;
   height: fit-content;
@@ -437,7 +437,7 @@ table {
 }
 
 .onSaleButton:hover {
-  transform: scale(105%);
+  transform: scale(103%);
   transition: ease-in 173ms;
   border: 1px solid rgba(17, 17, 17, .33);
   color: whitesmoke;
