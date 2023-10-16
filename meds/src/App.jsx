@@ -6,6 +6,7 @@ import Bio from './pages/Bio'
 import Merch from './pages/Merch'
 import Nav from './components/Nav'
 import Contact from './pages/Contact'
+import News from './components/News'
 import Footer from './components/Footer'
 import './App.css'
 
@@ -25,6 +26,7 @@ function App() {
           <Route path="/tour" element={<Tour />} />
           <Route path="/bio" element={<Bio />} />
           <Route path="/merch" element={<Merch />} />
+          <Route path="/news" element={<News />} />
           <Route path="/contact" element={<Contact />} />
         </Routes>
       </main>
