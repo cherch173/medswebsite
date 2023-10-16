@@ -23,7 +23,7 @@ const Tour = () => {
                                 <td>10.27.2023</td>
                                 <td> The Gutter
                                     <br />
-                                    [🎃 set as Gorillaz] 
+                                    🎃 set as <i>Gorillaz</i>
                                 </td>
                                 <td>Brooklyn, NY</td>
                                 <td className="td">
