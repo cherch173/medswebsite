@@ -33,7 +33,9 @@ const News = () => {
                 </div>
                 <br />
                 <Link target="_blank" to="https://wfuv.org/options">
-                    <button className="button">DEBUT on WFUV (90.7FM in NYC) - Oct 20th at 12pm EST</button>
+                    <button className="button">DEBUT on WFUV (90.7FM in NYC)
+                    <br />
+                    Oct 20th at 12pm EST</button>
                 </Link>
             </div>
 
