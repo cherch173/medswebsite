@@ -14,7 +14,7 @@ const SocialNav = () => {
                 <Link className="navA" to="https://www.youtube.com/@Meds-Official" target="_blank">
                     <img className="socialImage" src="https://cdn.imgbin.com/17/6/19/imgbin-youtube-logo-internet-marketing-subscribe-youtube-logo-ZStYAQskpiCPL1pGwgsrnF1Tj.jpg" alt='youtubeImage' />
                 </Link>
-                <Link className="navA" to="https://music.apple.com/album/1709693366" target="_blank">
+                <Link className="navA" to=" https://music.apple.com/artist/1709653161" target="_blank">
                     <img className="socialImage" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc152WfP3902WyyFYLV8RPbh7KopGL7UqxUAlP7lQYNggPYu9Nk5f80M-ieSYeUZ73qx0&usqp=CAU" alt='AppleMusicImage_Meds' />
                 </Link>
                 <Link className="navA" to="https://open.spotify.com/artist/1ZS6JkgfS2sUjAnP9SrK0d" target="_blank">
