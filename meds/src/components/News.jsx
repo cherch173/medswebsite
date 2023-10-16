@@ -32,7 +32,7 @@ const News = () => {
                     </Link>
                 </div>
                 <br />
-                <Link to="https://wfuv.org/options">
+                <Link target="_blank" to="https://wfuv.org/options">
                     <button className="button">DEBUT on WFUV (90.7FM in NYC)</button>
                 </Link>
             </div>
