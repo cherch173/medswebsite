@@ -89,6 +89,12 @@ a {
   filter: will-change;
   perspective: 1000px;
   font-size: 1.73vmin;
+  font-weight: bolder;
+  color: rgb(119, 185, 148);
+}
+
+.newsA:visited {
+  color: rgb(119, 185, 148);
 }
 
 .newsA:hover {
@@ -99,6 +105,8 @@ a {
   animation-direction: alternate;
   animation-iteration-count: infinite;
   animation-timing-function: ease;
+  color: rgb(158, 220, 185);
+
 }
 
 a:hover {
@@ -482,7 +490,7 @@ table {
 
   a {
     font-size: 3vmin;
-    margin: 2vmin;
+    /* margin: 2vmin; */
   }
 
   .card {
