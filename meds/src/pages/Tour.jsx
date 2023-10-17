@@ -43,7 +43,7 @@ const Tour = () => {
                                 </td>
                                 <td>Brooklyn, NY</td>
                                 <td className="td">
-                                    <Link target="_blank" to="https://www.ourwickedlady.com/">
+                                    <Link target="_blank" to="https://link.dice.fm/BnuRRnQEYDb">
                                         <button className="onSaleButton">on sale</button>
                                     </Link>
                                 </td>
