@@ -48,7 +48,7 @@ const Tour = () => {
                                     </Link>
                                 </td>
                                 <td>
-                                    <Link target="_blank" to="https://www.instagram.com/ourwickedlady">
+                                    <Link target="_blank" to="https://www.ourwickedlady.com/">
                                         <button className="onSaleButton">details</button>
                                     </Link>
                                 </td>
