@@ -12,7 +12,7 @@ const News = () => {
                 <h3 className="headerText">News</h3>
                 <h4>Debut Single <i> "An Unexpected Visit to the Isabella Stewart Gardner Museum"</i>
                     <br />
-                    drops Friday October 20th, 2023 on all platforms
+                    now available on all platforms
                 </h4>
                 <br />
                 <Link className="Link" to="https://open.spotify.com/artist/1ZS6JkgfS2sUjAnP9SrK0d" target="blank">
@@ -20,7 +20,7 @@ const News = () => {
                 </Link>
                 <figcaption className="captionA">© {getYear()} Ana Asnes Becker, all rights reserved.</figcaption>
                 <br />
-                <p className="bioText">On Friday October 20th, 2023 our debut single<span className="boldBioText"><i>"An Unexpected Visit to the Isabella Stewart Gardner Museum"</i></span> will be released worldwide on all digital media outlets.</p>
+                <p className="bioText">On Friday October 20th, 2023 our debut single<span className="boldBioText"><i>"An Unexpected Visit to the Isabella Stewart Gardner Museum"</i></span> was be released worldwide on all digital media outlets.</p>
                 <p>The single was produced and engineered by<span className="boldBioText">Jeff Berner</span>(<i>Psychic TV, Catty, Shilpa Ray)</i> at Studio G in Brooklyn, NY and was mastered by Carl Saff at Saff Mastering.</p>
                 <p><span className="boldBioText">"<i>An Unexpected Visit to the Isabella Stewart Gardner Museum</i>"</span>will also make its terrestrial radio debut on <a className="newsA" href="https://wfuv.org/options" target="_blank">WFUV (90.7FM in NYC)</a> on October 20th at 12pm EST courtesy of
                     <a className="newsA" href="https://www.instagram.com/actionali" target="_blank"> Alisa Ali.</a> Click the link below to tune in from anywhere there is bandwidth.</p>
