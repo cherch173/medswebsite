@@ -259,7 +259,7 @@ a:visited:hover {
 
 @keyframes pulse {
   0% {
-    transform: scale3d(.3, .3, .1);
+    transform: scale3d(.173, .173, .1);
     opacity: 42%;
     text-shadow: -.25px .25px black;
     transform-origin: 50% 66%;
@@ -272,7 +272,7 @@ a:visited:hover {
   }
 
   86% {
-    transform: scale3d(1, 1, 12);
+    transform: scale3d(1, 1, 13.7);
     opacity: 37%;
     text-shadow: -.25px .25px black;
     transform-origin: 50% 73%;
