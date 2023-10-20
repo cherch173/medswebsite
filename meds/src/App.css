@@ -270,14 +270,14 @@ a:visited:hover {
 
 @keyframes pulse {
   0% {
-    transform: scale3d(.173, .173, .1);
+    transform: scale3d(.73, .73, .1);
     opacity: 42%;
     text-shadow: -.25px .25px black;
     transform-origin: 50% 66%;
   }
 
   50% {
-    transform: scale3d(1.17, 1.2, 3);
+    transform: scale3d(1.17, 1.17, 3);
     opacity: 73%;
     text-shadow: -.5px .5px black;
   }
