@@ -487,7 +487,7 @@ table {
   bottom: 0cap;
 }
 
-@media (max-width: 480px) {
+@media (max-width: 680px) {
   /* .burger {
     display: fixed;
     padding-top: 1vmin;
@@ -501,7 +501,6 @@ table {
 
   a {
     font-size: 3vmin;
-    /* margin: 2vmin; */
   }
 
   .card {
@@ -515,6 +514,16 @@ table {
 
   .contactA {
     font-size: 2.5vmin;
+  }
+
+  .releaseImage {
+    width: 70vmin;
+    min-height: 70vmin;
+  }
+
+  .videoYT {
+    width: 70vmin;
+    height: fit-content;
   }
 
   p {
