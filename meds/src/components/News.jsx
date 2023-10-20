@@ -44,10 +44,8 @@ const News = () => {
                     </Link>
                 </div>
                 <br />
-                <Link target="_blank" to="https://wfuv.org/options">
-                    <button className="button">DEBUT on WFUV (90.7FM in NYC)
-                        <br />
-                        Oct 20th at 12pm EST</button>
+                <Link target="_blank" to="https://www.instagram.com/stories/highlights/17926111334777584/">
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/3vRHr5_SaIk?si=jw6SDZuoZivxVqaC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                 </Link>
             </div>
 
