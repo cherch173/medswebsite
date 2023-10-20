@@ -32,7 +32,7 @@ const News = () => {
                 <p>
                     <span className="boldBioText">"<i>An Unexpected Visit to the Isabella Stewart Gardner Museum</i>"</span>
                     will also make its terrestrial radio debut on
-                    <a className="newsA" href="https://wfuv.org/options" target="_blank">WFUV (90.7FM in NYC)</a> on October 20th at 12pm EST courtesy of
+                    <a className="newsA" href="https://wfuv.org/options" target="_blank">WFUV (90.7FM in NYC)</a> on Friday October 20th at 12pm EST courtesy of
                     <a className="newsA" href="https://www.instagram.com/actionali" target="_blank"> Alisa Ali.</a>
                     Click the link below to tune in from anywhere there is bandwidth.</p>
                 <div className="socialNav">
