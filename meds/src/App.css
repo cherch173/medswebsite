@@ -229,6 +229,17 @@ a:visited:hover {
   border: 1px solid rgba(119, 185, 148, .42);
 }
 
+.videoYT {
+  border-radius: 1vmin;
+  filter: will-change;
+}
+
+.videoYT:hover {
+  transition: 142ms ease-in-out;
+  filter: drop-shadow(0 0 .5vmin rgb(119, 185, 148));
+
+}
+
 .headerText {
   font-family: 'Rubik Glitch', cursive;
   font-size: 2.5vmin;
