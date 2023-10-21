@@ -233,12 +233,13 @@ a:visited:hover {
   border-radius: 1vmin;
   border: 1px solid transparent;
   filter: will-change;
+  opacity: 95%;
 }
 
 .videoYT:hover {
   transition: 142ms ease-in-out;
   filter: drop-shadow(0 0 .5vmin rgb(119, 185, 148));
-
+  opacity: 100%;
 }
 
 .headerText {
