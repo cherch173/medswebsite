@@ -43,15 +43,18 @@ const News = () => {
                     <Link className="navA" to="https://music.apple.com/album/1709693366" target="_blank">
                         <img className="socialImage" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc152WfP3902WyyFYLV8RPbh7KopGL7UqxUAlP7lQYNggPYu9Nk5f80M-ieSYeUZ73qx0&usqp=CAU" alt='Meds_AppleMusic' />
                     </Link>
-                    <Link className="navA" to="https://www.pandora.com/artist/meds/an-unexpected-visit-to-the-isabella-stewart-gardner-museum/ALJ4vkjz9ZjvjPg" target="_blank">
-                        <img className="socialImage" src="https://e7.pngegg.com/pngimages/228/963/png-clipart-pandora-logo-music-genome-project-internet-radio-pandora-miscellaneous-blue.png" alt='Meds_Pandora' />
-                    </Link>
                     <Link className="navA" to="https://listen.tidal.com/album/319140743/track/319140744" target="_blank">
                         <img className="socialImage" src="https://www.exchangewire.com/wp-content/uploads/2021/03/tidal-logo-300x300.jpg" alt='Meds_Tidal' />
                     </Link>
+                    <Link className="navA" to="https://www.pandora.com/artist/meds/an-unexpected-visit-to-the-isabella-stewart-gardner-museum/ALJ4vkjz9ZjvjPg" target="_blank">
+                        <img className="socialImage" src="https://e7.pngegg.com/pngimages/228/963/png-clipart-pandora-logo-music-genome-project-internet-radio-pandora-miscellaneous-blue.png" alt='Meds_Pandora' />
+                    </Link>
+                    <Link className="navA" to="https://music.youtube.com/watch?v=aj5WFi898ow&si=5uYIJmcnMOTAJ7qq" target="_blank">
+                        <img className="socialImage" src="https://cdn.jim-nielsen.com/watchos/512/youtube-music-2021-06-14.png" alt='Meds_YoutubeMusic' />
+                    </Link>
                 </div>
                 <br />
-                <iframe className="videoYT" width="760" height="420" src="https://www.youtube.com/embed/3vRHr5_SaIk?si=jw6SDZuoZivxVqaC" title="YouTube video player"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
+                <iframe className="videoYT" width="760" height="420" src="https://www.youtube.com/embed/3vRHr5_SaIk?si=jw6SDZuoZivxVqaC" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
             </div>
 
         </div>
