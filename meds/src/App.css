@@ -523,6 +523,10 @@ table {
     min-height: 70vmin;
   }
 
+  .socialImage {
+    margin: auto;
+  }
+
   .videoYT {
     width: 70vmin;
     height: fit-content;
