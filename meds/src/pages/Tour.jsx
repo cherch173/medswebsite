@@ -53,6 +53,22 @@ const Tour = () => {
                                     </Link>
                                 </td>
                             </tr>
+                            <tr>
+                                <td>12.03.2023</td>
+                                <td>Sleepwalk
+                                </td>
+                                <td>Brooklyn, NY</td>
+                                <td className="td">
+                                    <Link target="_blank" to="https://www.sleepwalk.nyc">
+                                        <button className="onSaleButton">on sale</button>
+                                    </Link>
+                                </td>
+                                <td>
+                                    <Link target="_blank" to="https://www.sleepwalk.nyc/">
+                                        <button className="onSaleButton">details</button>
+                                    </Link>
+                                </td>
+                            </tr>
                         </tbody>
                     </table>
                 </div>
