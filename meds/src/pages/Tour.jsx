@@ -20,24 +20,6 @@ const Tour = () => {
                         </thead>
                         <tbody>
                             <tr>
-                                <td>10.27.2023</td>
-                                <td> The Gutter
-                                    <br />
-                                    🎃 set as <i>Gorillaz</i>
-                                </td>
-                                <td>Brooklyn, NY</td>
-                                <td className="td">
-                                    <Link target="_blank" to="https://www.instagram.com/gutterbar/">
-                                        <button className="onSaleButton">on sale</button>
-                                    </Link>
-                                </td>
-                                <td>
-                                    <Link target="_blank" to="https://www.thegutterbarles.com/williamsburg">
-                                        <button className="onSaleButton">details</button>
-                                    </Link>
-                                </td>
-                            </tr>
-                            <tr>
                                 <td>11.05.2023</td>
                                 <td>Our Wicked Lady
                                 </td>
@@ -53,7 +35,7 @@ const Tour = () => {
                                     </Link>
                                 </td>
                             </tr>
-                            <tr>
+                            {/* <tr>
                                 <td>12.03.2023</td>
                                 <td>Sleepwalk
                                 </td>
@@ -68,7 +50,7 @@ const Tour = () => {
                                         <button className="onSaleButton">details</button>
                                     </Link>
                                 </td>
-                            </tr>
+                            </tr> */}
                         </tbody>
                     </table>
                 </div>
