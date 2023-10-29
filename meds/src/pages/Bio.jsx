@@ -35,11 +35,11 @@ const Bio = () => {
                             Night (Volume 1)
                         </i>
                     </strong>
-                    : is a short vignette of weaving, ornate compositions themed around mental health advocacy.<strong className="boldBioText">Meds</strong>sonically reside somewhere between the psychedelia of <i>Spiritualized and TV On the Radio </i> and the indie punk joie de vivre of
+                    : is a short vignette of weaving, ornate compositions themed around mental health advocacy. Sonically,<strong className="boldBioText">Meds</strong>reside somewhere between the psychedelia of <i>Spiritualized and TV On the Radio </i>yet retain the indie punk joie de vivre of
                     <i>
-                        The Replacements;&nbsp;
+                        &nbsp;The Replacements;&nbsp;
                     </i>
-                     Cherch’s smokey vocal delivery sizzles with a crisp nonchalance just like Westerberg’s. More fascinatingly, the juxtaposition of 808s and subharmonics across his guitar driven indie rock create an intoxicating and unique sound that elusively blurs the lines between genres — revealing a 90’s kid finally comfortable in their own skin: equal parts
+                     Cherch’s smokey vocal delivery sizzles with a crisp nonchalance just like Paul Westerberg’s. More fascinatingly, the juxtaposition of 808s and subharmonics across his guitar driven indie rock create an intoxicating and unique sound that elusively blurs the lines between genres — revealing a 90’s kid finally comfortable in their own skin: equal parts
                     <i>
                         &nbsp;OK Computer
                     </i>
