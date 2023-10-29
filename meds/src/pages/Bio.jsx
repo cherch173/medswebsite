@@ -37,11 +37,19 @@ const Bio = () => {
                     </strong>
                     : is a short vignette of weaving, ornate compositions themed around mental health advocacy.<strong className="boldBioText">Meds</strong>sonically reside somewhere between the psychedelia of <i>Spiritualized and TV On the Radio </i> and the indie punk joie de vivre of
                     <i>
-                        The Replacements, The Cure and The War on Drugs.
+                        The Replacements;&nbsp;
+                    </i>
+                     Cherch’s smokey vocal delivery sizzles with a crisp nonchalance just like Westerberg’s. More fascinatingly, the juxtaposition of 808s and subharmonics across his guitar driven indie rock create an intoxicating and unique sound that elusively blurs the lines between genres — revealing a 90’s kid finally comfortable in their own skin: equal parts
+                    <i>
+                        &nbsp;OK Computer
+                    </i>
+                    &nbsp;and  
+                    <i>
+                        &nbsp;Aquemini.
                     </i>
                 </p>
                 <p>
-                    The first single, “An Unexpected Visit to the Isabella Stewart Gardner Museum,” will be available on all digital streaming platforms worldwide on October 20, 2023.
+                    The first single, “An Unexpected Visit to the Isabella Stewart Gardner Museum,” was premiered by<span className="boldBioText">WFUV (90.7 FM)</span>and released worldwide on all platforms on October 20, 2023.
                 </p>
                 <br />
                 <p>
