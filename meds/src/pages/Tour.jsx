@@ -35,8 +35,8 @@ const Tour = () => {
                                     </Link>
                                 </td>
                             </tr>
-                            {/* <tr>
-                                <td>12.03.2023</td>
+                            <tr>
+                                <td>01.14.2023</td>
                                 <td>Sleepwalk
                                 </td>
                                 <td>Brooklyn, NY</td>
@@ -50,7 +50,7 @@ const Tour = () => {
                                         <button className="onSaleButton">details</button>
                                     </Link>
                                 </td>
-                            </tr> */}
+                            </tr>
                         </tbody>
                     </table>
                 </div>
