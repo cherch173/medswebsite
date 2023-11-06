@@ -20,22 +20,6 @@ const Tour = () => {
                         </thead>
                         <tbody>
                             <tr>
-                                <td>11.05.2023</td>
-                                <td>Our Wicked Lady
-                                </td>
-                                <td>Brooklyn, NY</td>
-                                <td className="td">
-                                    <Link target="_blank" to="https://link.dice.fm/BnuRRnQEYDb">
-                                        <button className="onSaleButton">on sale</button>
-                                    </Link>
-                                </td>
-                                <td>
-                                    <Link target="_blank" to="https://www.ourwickedlady.com/">
-                                        <button className="onSaleButton">details</button>
-                                    </Link>
-                                </td>
-                            </tr>
-                            <tr>
                                 <td>01.14.2023</td>
                                 <td>Sleepwalk
                                 </td>
