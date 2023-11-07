@@ -528,6 +528,8 @@ table {
   .videoYT {
     width: 70vmin;
     height: fit-content;
+    border-radius: 12px;
+    border: transparent;
   }
 
   p {
