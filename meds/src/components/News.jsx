@@ -54,7 +54,9 @@ const News = () => {
                     </Link>
                 </div>
                 <br />
-                <iframe className="videoYT" width="760" height="420" src="https://www.youtube.com/embed/3vRHr5_SaIk?si=jw6SDZuoZivxVqaC" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
+                <iframe className="videoYT" width="760" height="420" src="https://www.youtube.com/embed/3vRHr5_SaIk?si=jw6SDZuoZivxVqaC" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;" allowFullScreen></iframe>
+                <br />
+                <iframe src="https://open.spotify.com/embed/artist/1ZS6JkgfS2sUjAnP9SrK0d?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
             </div>
 
         </div>
