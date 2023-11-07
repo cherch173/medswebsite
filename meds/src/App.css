@@ -240,6 +240,19 @@ a:visited:hover {
   opacity: 100%;
 }
 
+.spotifyPlayer {
+  border-radius: 12px;
+  border: 1px solid transparent;
+  filter: will-change;
+  opacity: 95%;
+}
+
+.spotifyPlayer:hover {
+  transition: 142ms ease-in-out;
+  filter: drop-shadow(0 0 .5vmin rgb(119, 185, 148));
+  opacity: 100%;
+}
+
 .headerText {
   font-family: 'Rubik Glitch', cursive;
   font-size: 2.5vmin;
@@ -526,7 +539,7 @@ table {
   }
 
   .videoYT {
-    width: 70vmin;
+    width: 100%;
     height: fit-content;
     border-radius: 12px;
     border: transparent;
