@@ -7,6 +7,7 @@ import Merch from './pages/Merch'
 import Nav from './components/Nav'
 import Contact from './pages/Contact'
 import News from './components/News'
+import PageNotFound from './pages/PageNotFound'
 import Footer from './components/Footer'
 import './App.css'
 
@@ -28,6 +29,7 @@ function App() {
           <Route path="/merch" element={<Merch />} />
           <Route path="/news" element={<News />} />
           <Route path="/contact" element={<Contact />} />
+          <Route path="*" element={<PageNotFound/>} />
         </Routes>
       </main>
       {/* <Footer /> */}
