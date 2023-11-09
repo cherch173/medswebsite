@@ -32,7 +32,6 @@ function App() {
           <Route path="*" element={<PageNotFound/>} />
         </Routes>
       </main>
-      {/* <Footer /> */}
     </div>
   )
 }
