@@ -26,7 +26,7 @@ const News = () => {
                 </p>
                 <p>The single was produced and engineered by
                     <span className="boldBioText">Jeff Berner</span>
-                    (<i>Psychic TV, Catty, Shilpa Ray)</i>
+                    (<i>Psychic TV, Catty, Shilpa Ray)&nbsp;</i>
                     at Studio G in Brooklyn, NY and was mastered by Carl Saff at Saff Mastering.
                 </p>
                 <p>
