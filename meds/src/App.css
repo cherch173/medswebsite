@@ -329,7 +329,7 @@ figcaption {
   flex-direction: column;
   padding: 5vmin;
   margin: 3vmin;
-  border-radius: 5px;
+  border-radius: 12px;
   border: 1px solid rgb(119, 185, 148);
   background-color: rgba(49, 53, 49, 0.73);
   background-image: url('/IssaTeaserSquareNoText.gif');
