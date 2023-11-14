@@ -20,17 +20,17 @@ const Tour = () => {
                         </thead>
                         <tbody>
                             <tr>
-                                <td>01.14.2023</td>
-                                <td>Sleepwalk
+                                <td>FRI JAN 05, 2023</td>
+                                <td>Alphaville
                                 </td>
                                 <td>Brooklyn, NY</td>
                                 <td className="td">
-                                    <Link target="_blank" to="https://www.sleepwalk.nyc">
-                                        <button className="onSaleButton">on sale</button>
+                                    <Link target="_blank" to="https://www.alphavillebk.com/">
+                                        <button className="onSaleButton">on sale (tba)</button>
                                     </Link>
                                 </td>
                                 <td>
-                                    <Link target="_blank" to="https://www.sleepwalk.nyc/">
+                                    <Link target="_blank" to="https://www.instagram.com/alphavillebk">
                                         <button className="onSaleButton">details</button>
                                     </Link>
                                 </td>
