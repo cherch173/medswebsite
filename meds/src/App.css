@@ -549,6 +549,8 @@ table {
     width: 69vmin;
     text-size-adjust: 75%;
     height: 45vh;
+    overflow: auto;
+    overflow-anchor: auto;
   }
 
   .card {
