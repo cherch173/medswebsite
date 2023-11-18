@@ -38,17 +38,17 @@ const News = () => {
                 <figcaption className="captionA">© {getYear()} Ana Asnes Becker, all rights reserved.</figcaption>
                 <br />
                 <p className="bioText">On Friday October 20th, 2023 our debut single
-                    <span className="boldBioText"><i>"An Unexpected Visit to the Isabella Stewart Gardner Museum"</i></span>
+                    <span className="boldBioText"><i>&nbsp;"An Unexpected Visit to the Isabella Stewart Gardner Museum"&nbsp;</i></span>
                     was released worldwide.
                 </p>
                 <p>The single was produced and engineered by
-                    <span className="boldBioText">Jeff Berner</span>
+                    <span className="boldBioText">&nbsp;Jeff Berner&nbsp;</span>
                     (<i>Psychic TV, Catty, Shilpa Ray)&nbsp;</i>
                     at Studio G in Brooklyn, NY and was mastered by Carl Saff at Saff Mastering.
                 </p>
                 <p>
                     In addition,
-                    <span className="boldBioText">"<i>An Unexpected Visit to the Isabella Stewart Gardner Museum</i>"</span>
+                    <span className="boldBioText">&nbsp;"<i>An Unexpected Visit to the Isabella Stewart Gardner Museum</i>"&nbsp;</span>
                     made its (extra)terrestrial radio debut on
                     <a className="newsA" href="https://wfuv.org/options" target="_blank"> WFUV (90.7FM in NYC)</a> on Friday October 20th at 12pm EST courtesy of
                     <a className="newsA" href="https://www.instagram.com/actionali" target="_blank"> Alisa Ali. </a>
