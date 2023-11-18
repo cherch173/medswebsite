@@ -151,6 +151,7 @@ a:visited:hover {
 }
 
 .bandA {
+  font-size: 2.75vmin;
   color: rgb(119, 185, 148);
   font-weight: bold;
   text-shadow: -.25px, .25px whitesmoke, .5px .5px black;
@@ -258,16 +259,16 @@ a:visited:hover {
 
 .headerText {
   font-family: 'Rubik Glitch', cursive;
-  font-size: 2.5vmin;
+  font-size: 2.75vmin;
   text-shadow: -.15px .15px black, -.25px, .25px whitesmoke, .5px .5px black;
   opacity: 86%;
 }
 
 .newsHeaderText {
   font-size: 1.73vmin;
-  text-shadow: -.15px .15px black, -.25px, .25px whitesmoke, .5px .5px black;
+  text-shadow: -.15px .15px black, -.25px, .25px whitesmoke, -.35px, .35px rgb(158, 220, 185), .5px .5px black;
   opacity: 86%;
-  color: rgb(158, 220, 185);
+  color: whitesmoke;
 }
 
 .medsText {
@@ -325,8 +326,6 @@ a:visited:hover {
 .boldBioText {
   color: rgb(119, 185, 148);
   font-weight: bold;
-  margin-right: .5vmin;
-  margin-left: .5vmin;
   text-shadow: -.25px, .25px whitesmoke, .5px .5px black;
 }
 
@@ -552,11 +551,21 @@ button {
   }
 
   .newsHeaderText {
-    font-size: 3.33vmin;
+    font-size: 3.37vmin;
+    font-weight: bolder;
+  }
+
+  .newsA {
+    font-size: 2.75vmin;
+  }
+
+  .bandA {
+    font-size: 2.75vmin;
   }
 
   p {
-    font-size: 2vmin;
+    font-size: 2.75vmin;
+    margin: 2vmin;
   }
 
   .news{
@@ -597,11 +606,6 @@ button {
     height: fit-content;
     border-radius: 12px;
     border: transparent;
-  }
-
-  p {
-    margin-left: 1vmin;
-    margin-right: 1vmin;
   }
 
   .th {
