@@ -12,16 +12,16 @@ const Bio = () => {
             <br />
             <div className="bioTextCard">
                 <p>
-                    <strong className="boldBioText">Meds</strong>
+                    <strong className="boldBioText">Meds&nbsp;</strong>
                     began as an experiment.
                 </p>
                 <p>
                     In an effort to compose in more avant garde theatres, Brooklyn based multi-instrumentalist
-                    <strong className="boldBioText">Cherch</strong>(Brian Cherchiglia) went in.
+                    <strong className="boldBioText">&nbsp;Cherch&nbsp;</strong>(Brian Cherchiglia) went in.
                 </p>
                 <p>
                     <strong className="boldBioText">
-                        Cherch
+                        Cherch&nbsp;
                     </strong>
                     sought to combine his love of hip-hop production elements with his notorious guitar work; so the
                     <i> New York Times & Village Voice </i> heralded composer enlisted several of his best collaborators (featuring members of
@@ -40,8 +40,8 @@ const Bio = () => {
                         </i>
                     </strong>
                     : is a short vignette of weaving, ornate compositions themed around mental health advocacy. Sonically,
-                    <strong className="boldBioText">Meds</strong>
-                    reside somewhere between the psychedelia of 
+                    <strong className="boldBioText">&nbsp;Meds</strong>
+                    &nbsp;reside somewhere between the psychedelia of 
                     <i>Spiritualized and TV On the Radio </i>
                     yet retain the indie punk joie de vivre of
                     <i>
@@ -59,7 +59,9 @@ const Bio = () => {
                     </i>
                 </p>
                 <p>
-                    The first single, “An Unexpected Visit to the Isabella Stewart Gardner Museum,” was premiered by<span className="boldBioText">WFUV (90.7 FM)</span>and released worldwide on all platforms on October 20, 2023.
+                    The first single, “An Unexpected Visit to the Isabella Stewart Gardner Museum,” was premiered by
+                    <span className="boldBioText">&nbsp;WFUV (90.7 FM)&nbsp;</span>
+                    and released worldwide on all platforms on October 20, 2023.
                 </p>
                 <br />
                 <p>
@@ -73,22 +75,17 @@ const Bio = () => {
                 </p>
                 <p>
                     <Link to="http://www.instagram.com/medsanight" target="_blank">
-                        <label className="bandA" htmlFor="band">Cherch -</label>
+                        <label className="bandA" htmlFor="band">Cherch -&nbsp;</label>
                     </Link>
                     Guitar, Lead Vocals, 808
                     <br />
                     <Link to="http://www.instagram.com/thebkbuffalo" target="_blank">
-                        <label className="bandA" htmlFor="band">Evan Berg -</label>
+                        <label className="bandA" htmlFor="band">Evan Berg -&nbsp;</label>
                     </Link>
                     Drums, Guitar, 808, Aux Perc
                     <br />
-                    {/* <Link to="http://www.instagram.com/chrisurriola" target="_blank">
-                        <label className="bandA" htmlFor="band">Chris Urriola -</label>
-                    </Link>
-                    Bass, Vocals, Synthesis, Subs
-                    <br /> */}
                     <Link to="http://www.instagram.com/kol.ker" target="_blank">
-                        <label className="bandA" htmlFor="band">Jeremy Kolker -</label>
+                        <label className="bandA" htmlFor="band">Jeremy Kolker -&nbsp;</label>
                     </Link>
                     Drums, Vocals, 808, Aux Perc
                     <br />
