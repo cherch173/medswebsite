@@ -25,6 +25,10 @@ const News = () => {
                     </iframe>
                 </div>
                 <br />
+                <Link target="_blank" to="https://thedelimag.com/meds-drop-debut-single-on-an-unexpected-visit-with-mental-health-advocacy-as-their-prime-directive/">
+                <button className="button">read more</button>
+                </Link>
+                <br />
                 <br />
                 <div className="news">
                 <h4 className="newsHeaderText">Debut Single <i> "An Unexpected Visit to the Isabella Stewart Gardner Museum"</i>
