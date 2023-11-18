@@ -25,7 +25,7 @@ const Bio = () => {
                     </strong>
                     sought to combine his love of hip-hop production elements with his notorious guitar work; so the
                     <i> New York Times & Village Voice </i> heralded composer enlisted several of his best collaborators (featuring members of
-                    <i>The Bottom Dollars, God Tiny, Deathrow Tull, Catty</i>
+                    <i>&nbsp;The Bottom Dollars, God Tiny, Deathrow Tull, Catty&nbsp;</i>
                     and more) and entered the studio with world-renowned producer Jeff Berner (<i>Psychic TV, Shilpa Ray</i>), resulting in the debut recording
                     <strong className="boldText">
                         <i>
@@ -42,21 +42,18 @@ const Bio = () => {
                     : is a short vignette of weaving, ornate compositions themed around mental health advocacy. Sonically,
                     <strong className="boldBioText">&nbsp;Meds</strong>
                     &nbsp;reside somewhere between the psychedelia of 
-                    <i>Spiritualized and TV On the Radio </i>
+                    <i>&nbsp;Spiritualized and TV On the Radio </i>
                     yet retain the indie punk joie de vivre of
                     <i>
                         &nbsp;The Replacements;&nbsp;
                     </i>
-                    Cherch’s smokey vocal delivery sizzles with a crisp nonchalance just like Paul Westerberg’s. 
+                    Cherch’s smokey vocal delivery sizzles with a crisp nonchalance just like Paul Westerberg’s.
+                    </p>
+                    <p> 
                     More fascinatingly, the juxtaposition of 808s and subharmonics across his guitar driven indie rock create an intoxicating and unique sound that elusively blurs the lines between genres — 
                     revealing a 90’s kid finally comfortable in their own skin: equal parts
-                    <i>
-                        &nbsp;OK Computer
-                    </i>
-                    &nbsp;and
-                    <i>
-                        &nbsp;Aquemini.
-                    </i>
+                    <i>&nbsp;OK Computer</i>&nbsp;and
+                    <i>&nbsp;Aquemini</i> and completely ok with that.
                 </p>
                 <p>
                     The first single, “An Unexpected Visit to the Isabella Stewart Gardner Museum,” was premiered by
