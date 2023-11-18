@@ -267,6 +267,7 @@ a:visited:hover {
   font-size: 1.73vmin;
   text-shadow: -.15px .15px black, -.25px, .25px whitesmoke, .5px .5px black;
   opacity: 86%;
+  color: rgb(158, 220, 185);
 }
 
 .medsText {
@@ -449,6 +450,10 @@ table {
   font-size: 1.37vmin;
 }
 
+button {
+  font-weight: bolder;
+}
+
 .button {
   border-radius: 1.73vmin;
   background-color: rgb(119, 185, 148);
@@ -540,6 +545,18 @@ table {
 
   a {
     font-size: 3vmin;
+  }
+
+  .headerText {
+    font-size: 4vmin;
+  }
+
+  .newsHeaderText {
+    font-size: 3.33vmin;
+  }
+
+  p {
+    font-size: 2vmin;
   }
 
   .news{

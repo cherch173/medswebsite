@@ -10,7 +10,7 @@ const News = () => {
         <div>
             <div className="card">
                 <h3 className="headerText">News</h3>
-                <h4 className="newsHeaderText">Meds featured + an interview with Cherch in <i>The Deli Magazine</i></h4>
+                <h4 className="newsHeaderText">Meds featured + an Interview with Cherch in <i>The Deli Magazine</i></h4>
                 <br />
                 <div className="news">
                     <iframe
