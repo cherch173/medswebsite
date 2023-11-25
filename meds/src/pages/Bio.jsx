@@ -67,7 +67,7 @@ const Bio = () => {
                 <br />
                 <p>
                     <strong className="medsText">
-                        Meds&nbsb;
+                        Meds
                     </strong>
                     <br />
                     <br />
@@ -94,7 +94,7 @@ const Bio = () => {
                 <br />
                 <div className="bioCard">
                     <p>
-                        <span className="boldBioText">Meds</span>are endorsed by:
+                        <span className="boldBioText">Meds</span>&nbsp;are endorsed by:
                         <br />
                         <br />
                         <Link to="https://www.gibson.com" target="_blank" className="contactA" >Gibson Guitars</Link>
