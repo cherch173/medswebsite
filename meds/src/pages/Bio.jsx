@@ -67,7 +67,7 @@ const Bio = () => {
                 <br />
                 <p>
                     <strong className="medsText">
-                        Meds
+                        Meds&nbsb;
                     </strong>
                     <br />
                     <br />
