@@ -41,16 +41,16 @@ const Bio = () => {
                     </strong>
                     : is a short vignette of weaving, ornate compositions themed around mental health advocacy. Sonically,
                     <strong className="boldBioText">&nbsp;Meds</strong>
-                    &nbsp;reside somewhere between the psychedelia of 
+                    &nbsp;reside somewhere between the psychedelia of
                     <i>&nbsp;Spiritualized and TV On the Radio </i>
                     yet retain the indie punk joie de vivre of
                     <i>
                         &nbsp;The Replacements;&nbsp;
                     </i>
                     Cherch’s smokey vocal delivery sizzles with a crisp nonchalance just like Paul Westerberg’s.
-                    </p>
-                    <p> 
-                    More fascinatingly, the juxtaposition of 808s and subharmonics across his guitar driven indie rock create an intoxicating and unique sound that elusively blurs the lines between genres — 
+                </p>
+                <p>
+                    More fascinatingly, the juxtaposition of 808s and subharmonics across his guitar driven indie rock create an intoxicating and unique sound that elusively blurs the lines between genres —
                     revealing a 90’s kid finally comfortable in their own skin: equal parts
                     <i>&nbsp;OK Computer</i>&nbsp;and
                     <i>&nbsp;Aquemini</i> and completely ok with that.
@@ -59,6 +59,10 @@ const Bio = () => {
                     The first single, “An Unexpected Visit to the Isabella Stewart Gardner Museum,” was premiered by
                     <span className="boldBioText">&nbsp;WFUV (90.7 FM)&nbsp;</span>
                     and released worldwide on all platforms on October 20, 2023.
+                </p>
+                <br />
+                <p>
+                    "A big sonic comfort blanket" - Jason Lee,<i>&nbsp;The Deli</i>
                 </p>
                 <br />
                 <p>
