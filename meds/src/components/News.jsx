@@ -1,4 +1,5 @@
 import React from 'react'
+import isabellaCover from '/meds_gardner2.jpg'
 import { Link } from 'react-router-dom'
 
 const News = () => {
@@ -37,7 +38,7 @@ const News = () => {
                 </h4>
                 <br />
                 <Link className="Link" to="https://open.spotify.com/artist/1ZS6JkgfS2sUjAnP9SrK0d" target="blank">
-                    <img className="releaseImage" src="/meds_gardner2.jpg" alt="MedsSpotifyIsabella" />
+                    <img className="releaseImage" src={isabellaCover} alt="MedsSpotifyIsabella" />
                 </Link>
                 <figcaption className="captionA">© {getYear()} Ana Asnes Becker, all rights reserved.</figcaption>
                 <br />
