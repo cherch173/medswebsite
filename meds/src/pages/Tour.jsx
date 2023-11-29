@@ -4,7 +4,6 @@ import { Link } from 'react-router-dom'
 const Tour = () => {
     return (
         <div>
-
             <div className="card">
                 <h1 className="headerText">Tour Dates</h1>
                 <div className="tourCard">
@@ -31,6 +30,22 @@ const Tour = () => {
                                 </td>
                                 <td>
                                     <Link target="_blank" to="https://www.instagram.com/alphavillebk">
+                                        <button className="onSaleButton">details</button>
+                                    </Link>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>TUE JAN 30, 2023</td>
+                                <td>Sleepwalk
+                                </td>
+                                <td>Brooklyn, NY</td>
+                                <td className="td">
+                                    <Link target="_blank" to="https://www.sleepwalk.nyc/">
+                                        <button className="onSaleButton">on sale</button>
+                                    </Link>
+                                </td>
+                                <td>
+                                    <Link target="_blank" to="https://www.instagram.com/sleepwalk_nyc">
                                         <button className="onSaleButton">details</button>
                                     </Link>
                                 </td>
