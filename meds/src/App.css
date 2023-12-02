@@ -342,6 +342,7 @@ figcaption {
   width: 69vw;
   border-radius: 10px;
   filter: will-change;
+  max-width: 69vw;
 }
 
 .article:hover {
