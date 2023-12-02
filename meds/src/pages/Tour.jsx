@@ -14,29 +14,29 @@ const Tour = () => {
                                 <th className="th">venue</th>
                                 <th className="th">city</th>
                                 <th className="th">tickets</th>
-                                <th className="th">more info</th>
+                                <th className="th">with</th>
                             </tr>
                         </thead>
                         <tbody>
                             <tr>
-                                <td>FRI JAN 05, 2023</td>
-                                <td>Alphaville
+                                <td>FRI JAN 05, 2024</td>
+                                <td>
+                                    <p className="venueTD">Alphaville</p>
                                 </td>
                                 <td>Brooklyn, NY</td>
                                 <td className="td">
                                     <Link target="_blank" to="https://www.alphavillebk.com/">
-                                        <button className="onSaleButton">on sale (tba)</button>
+                                        <button className="onSaleButton">on sale</button>
                                     </Link>
                                 </td>
                                 <td>
-                                    <Link target="_blank" to="https://www.instagram.com/alphavillebk">
-                                        <button className="onSaleButton">details</button>
-                                    </Link>
+                                    Cold Sugar + TBA
                                 </td>
                             </tr>
                             <tr>
                                 <td>TUE JAN 30, 2023</td>
-                                <td>Sleepwalk
+                                <td>
+                                    <p className="venueTD">Sleepwalk</p>
                                 </td>
                                 <td>Brooklyn, NY</td>
                                 <td className="td">
@@ -45,9 +45,7 @@ const Tour = () => {
                                     </Link>
                                 </td>
                                 <td>
-                                    <Link target="_blank" to="https://www.instagram.com/sleepwalk_nyc">
-                                        <button className="onSaleButton">details</button>
-                                    </Link>
+                                    Nite Music + TBA
                                 </td>
                             </tr>
                         </tbody>

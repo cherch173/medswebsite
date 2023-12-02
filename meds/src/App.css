@@ -626,11 +626,16 @@ button {
   }
 
   .onSaleButton {
-    width: fit-content;
+    max-width: fit-content;
     height: fit-content;
   }
 
   .bandA {
+    font-size: 2vmin;
+  }
+  
+
+  .venueTD {
     font-size: 2vmin;
   }
 
