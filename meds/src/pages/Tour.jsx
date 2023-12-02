@@ -23,9 +23,9 @@ const Tour = () => {
                                 <td>
                                     <p className="venueTD">Alphaville</p>
                                 </td>
-                                <td>Brooklyn, NY</td>
+                                <td>&nbsp;Brooklyn, NY&nbsp;</td>
                                 <td>
-                                    Cold Sugar + TBA
+                                    <i>&nbsp;Cold Sugar + TBA&nbsp;</i>
                                 </td>
                                 <td className="td">
                                     <Link target="_blank" to="https://www.alphavillebk.com/">
@@ -38,9 +38,9 @@ const Tour = () => {
                                 <td>
                                     <p className="venueTD">Sleepwalk</p>
                                 </td>
-                                <td>Brooklyn, NY</td>
+                                <td>&nbsp;Brooklyn, NY&nbsp;</td>
                                 <td>
-                                    Nite Music + TBA
+                                    <i>&nbsp;Nite Music & TBA&nbsp;</i>
                                 </td>
                                 <td className="td">
                                     <Link target="_blank" to="https://www.sleepwalk.nyc/">
