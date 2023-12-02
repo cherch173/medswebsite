@@ -13,8 +13,8 @@ const Tour = () => {
                                 <th className="th">date</th>
                                 <th className="th">venue</th>
                                 <th className="th">city</th>
-                                <th className="th">tickets</th>
                                 <th className="th">with</th>
+                                <th className="th">tickets</th>
                             </tr>
                         </thead>
                         <tbody>
@@ -24,28 +24,28 @@ const Tour = () => {
                                     <p className="venueTD">Alphaville</p>
                                 </td>
                                 <td>Brooklyn, NY</td>
+                                <td>
+                                    Cold Sugar + TBA
+                                </td>
                                 <td className="td">
                                     <Link target="_blank" to="https://www.alphavillebk.com/">
                                         <button className="onSaleButton">on sale</button>
                                     </Link>
                                 </td>
-                                <td>
-                                    Cold Sugar + TBA
-                                </td>
                             </tr>
                             <tr>
-                                <td>TUE JAN 30, 2023</td>
+                                <td>TUE JAN 30, 2024</td>
                                 <td>
                                     <p className="venueTD">Sleepwalk</p>
                                 </td>
                                 <td>Brooklyn, NY</td>
+                                <td>
+                                    Nite Music + TBA
+                                </td>
                                 <td className="td">
                                     <Link target="_blank" to="https://www.sleepwalk.nyc/">
                                         <button className="onSaleButton">on sale</button>
                                     </Link>
-                                </td>
-                                <td>
-                                    Nite Music + TBA
                                 </td>
                             </tr>
                         </tbody>
