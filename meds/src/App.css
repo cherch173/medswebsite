@@ -478,6 +478,32 @@ button {
   filter: drop-shadow(0 0 2vmin rgb(119, 185, 148));
 }
 
+.contactButton {
+  border-radius: 1.73vmin;
+  background-color: whitesmoke;
+  color: rgb(119, 185, 148);
+  border: 1px solid rgb(119, 185, 148);
+  cursor: pointer;
+  height: fit-content;
+  width: 14vmin;
+  font-size: 2vmin;
+  opacity: 90%;
+  padding: .75vmin;
+  filter: will-change;
+  margin: 3vmin;
+  font-weight: bolder;
+}
+
+.contactButton:hover {
+  transform: scale(103%);
+  transition: ease-in 173ms;
+  border: .5px solid rgb(119, 185, 148);
+  color: whitesmoke;
+  background-color: rgb(119, 185, 148);
+  opacity: 100%;
+  filter: drop-shadow(0 0 2vmin rgb(119, 185, 148));
+}
+
 .onSaleButton {
   font-size: 1.5vmin;
   border-radius: 1.73vmin;
@@ -487,6 +513,7 @@ button {
   cursor: pointer;
   width: fit-content;
   height: fit-content;
+  font-weight: bolder;
   padding: .75vmin;
   filter: will-change;
 }
@@ -506,13 +533,14 @@ button {
   padding: .75vmin;
   height: fit-content;
   width: fit-content;
-  font-size: 1.5vmin;
+  font-size: 1.73vmin;
   border-radius: 1.73vmin;
   background-color: rgba(119, 185, 148);
   color: whitesmoke;
   border: 1px solid transparent;
   cursor: pointer;
   filter: will-change;
+  font-weight: bolder;
 }
 
 .viewAllButton:hover {
@@ -544,7 +572,7 @@ button {
   }
 
   a {
-    font-size: 3vmin;
+    font-size: 3.17vmin;
   }
 
   .headerText {
@@ -614,30 +642,38 @@ button {
     font-size: auto;
   }
 
-  .td {
-    width: fit-content;
+  td {
+    min-width: fit-content;
     min-height: fit-content;
-    font-size: 73%;
+    font-size: 2vmin;
+    /* display: inline-flexbox; */
   }
 
   .button {
     font-size: 2.5vmin;
     height: fit-content;
     width: fit-content;
+    font-weight: bolder;
   }
 
   .onSaleButton {
-    max-width: fit-content;
+    width: 8vmin;
     height: fit-content;
+    font-size: fit-content;
+    font-weight: bolder;
   }
 
-  .bandA {
-    font-size: 2vmin;
+  .viewAllButton {
+    font-weight: bolder;
+    font-size: 2.5vmin;
+  }
+
+  .contactButton {
+    font-size: 2.5vmin;
   }
   
-
   .venueTD {
-    font-size: 2vmin;
+    font-size: 1.86vmin;
   }
 
   .footerLink {

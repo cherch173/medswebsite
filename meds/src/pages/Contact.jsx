@@ -11,22 +11,19 @@ const Contact = () => {
             <div className="bioCard">
                 <br />
                 <Link to="mailto:booking@medsmusic.com" target="_blank">
-                    <button className='button'>booking</button>    
+                    <button className='contactButton'>booking</button>    
+                </Link>
+                
+                <Link to="mailto:mmmedddsss@gmail.com" target="_blank">
+                    <button className='contactButton'>press</button>    
                 </Link>
                 <br />
                 <br />
                 <Link to="mailto:mmmedddsss@gmail.com" target="_blank">
-                    <button className='button'>press</button>    
+                    <button className='contactButton'>sync</button>    
                 </Link>
-                <br />
-                <br />
                 <Link to="mailto:mmmedddsss@gmail.com" target="_blank">
-                    <button className='button'>sync</button>    
-                </Link>
-                <br />
-                <br />
-                <Link to="mailto:mmmedddsss@gmail.com" target="_blank">
-                    <button className='button'>other</button>    
+                    <button className='contactButton'>other</button>    
                 </Link>
                 <br />
                 <br />
