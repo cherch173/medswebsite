@@ -166,12 +166,15 @@ a:visited:hover {
 
 .supportA {
   color: rgb(158, 220, 185);
+  text-shadow: -.5px, .5px whitesmoke, -.75px, .75px rgb(119, 185, 148), .1px .1px black;
   font-size: 100%;
   filter: will-change;
 }
 
 .supportA:visited {
   color: rgb(158, 220, 185);
+  text-shadow: -.5px, .5px whitesmoke, -.75px, .75px rgb(119, 185, 148), .1px .1px black;
+
 }
 
 .supportA:hover {
@@ -617,8 +620,10 @@ button {
   }
 
   .supportA {
-    font-size: 86%;
+    font-size: 110%;
     width: 100%;
+    text-shadow: -.5px, .5px whitesmoke, -.75px, .75px rgb(119, 185, 148), .1px .1px black;
+
   }
 
   p {
@@ -681,6 +686,8 @@ button {
     min-width: 1vmin;
     min-height: fit-content;
     font-size: 2vmin;
+    text-shadow: -.5px, .5px whitesmoke, -.75px, .75px rgb(119, 185, 148), .1px .1px black;
+
   }
 
   .button {

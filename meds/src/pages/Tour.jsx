@@ -35,12 +35,12 @@ const Tour = () => {
                                 </td>
                                 <td className="td">
                                     <i>
-                                        <Link className="supportA" target="_blank" to="https://open.spotify.com/artist/2AUvhMfDlJMpAyPIHy9i8a?si=cc-L5MYNSouzb22zZg5D6w">
-                                            Cold Sugar
-                                        </Link>
-                                        <br />
                                         <Link className="supportA" target="_blank" to="https://open.spotify.com/artist/20u1eNEFrgn9XCwUGuBNt9?si=HysKacO6QIeVijRbyMB4Qg">
                                             Brunch (Burlington, VT)
+                                        </Link>
+                                        <br />
+                                        <Link className="supportA" target="_blank" to="https://open.spotify.com/artist/2AUvhMfDlJMpAyPIHy9i8a?si=cc-L5MYNSouzb22zZg5D6w">
+                                            Cold Sugar
                                         </Link>
                                         <br />
                                         <Link className="supportA" target="_blank" to="http://www.instagram.com/alphavillebk">
