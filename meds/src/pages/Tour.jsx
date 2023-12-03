@@ -72,13 +72,12 @@ const Tour = () => {
                                 </td>
                                 <td className="td">
                                     <i>
-                                    <Link className="supportA" target="_blank" to="https://open.spotify.com/artist/3kQ55Rw5xE19eiAV3hLROi?si=KhsxCIZmSTGMp4nfZw6kZg">
+                                        <Link className="supportA" target="_blank" to="https://open.spotify.com/artist/3kQ55Rw5xE19eiAV3hLROi?si=KhsxCIZmSTGMp4nfZw6kZg">
                                             Nite Music
                                         </Link>
                                         <br />
                                         & TBA
                                     </i>
-
                                 </td>
                                 <td className="td">
                                     <Link target="_blank" to="https://www.sleepwalk.nyc/">
