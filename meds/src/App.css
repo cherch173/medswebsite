@@ -167,6 +167,7 @@ a:visited:hover {
 .supportA {
   color: rgb(158, 220, 185);
   font-size: 100%;
+  filter: will-change;
 }
 
 .supportA:visited {
@@ -175,10 +176,14 @@ a:visited:hover {
 
 .supportA:hover {
   color: whitesmoke;
+  transition: 142ms ease-in-out;
+  filter: drop-shadow(0 0 .5vmin rgb(119, 185, 148));
 }
 
 .supportA:visited:hover {
   color: whitesmoke;
+  transition: 142ms ease-in-out;
+  filter: drop-shadow(0 0 .5vmin rgb(119, 185, 148));
 }
 
 .footerLink {
@@ -237,6 +242,7 @@ a:visited:hover {
   margin: 1vmin;
   opacity: 86%;
   filter: will-change;
+  max-width: 100%;
 }
 
 .releaseImage:hover {
@@ -251,6 +257,7 @@ a:visited:hover {
   filter: will-change;
   opacity: 95%;
   width: 69vw;
+  max-width: 100%;
 }
 
 .videoYT:hover {
@@ -357,9 +364,9 @@ figcaption {
 .article {
   height: 66vh;
   width: 69vw;
+  max-width: 100%;
   border-radius: 10px;
   filter: will-change;
-  max-width: 69vw;
 }
 
 .article:hover {
