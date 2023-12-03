@@ -30,7 +30,12 @@ const Tour = () => {
                                     Brooklyn, NY
                                 </td>
                                 <td className="td">
-                                    <i>Cold Sugar + TBA</i>
+                                    <i>Cold Sugar
+                                        <br />
+                                        Brunch (Burlington, VT)
+                                        <br />
+                                         The Alphaville All-Stars</i>
+                                        <br />
                                 </td>
                                 <td className="td">
                                     <Link target="_blank" to="https://www.alphavillebk.com/">
@@ -50,7 +55,9 @@ const Tour = () => {
                                     Brooklyn, NY
                                 </td>
                                 <td className="td">
-                                    <i>&nbsp;Nite Music + TBA&nbsp;</i>
+                                    <i>&nbsp;Nite Music 
+                                        <br />
+                                        + TBA&nbsp;</i>
 
                                 </td>
                                 <td className="td">
