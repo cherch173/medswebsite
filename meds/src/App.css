@@ -164,6 +164,23 @@ a:visited:hover {
   cursor: pointer;
 }
 
+.supportA {
+  color: rgb(158, 220, 185);
+  font-size: 100%;
+}
+
+.supportA:visited {
+  color: rgb(158, 220, 185);
+}
+
+.supportA:hover {
+  color: whitesmoke;
+}
+
+.supportA:visited:hover {
+  color: whitesmoke;
+}
+
 .footerLink {
   font-size: 2vmin;
   margin: 1vmin;
