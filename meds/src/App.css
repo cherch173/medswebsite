@@ -616,6 +616,11 @@ button {
     font-size: 2.75vmin;
   }
 
+  .supportA {
+    font-size: 86%;
+    width: 100%;
+  }
+
   p {
     font-size: 2.75vmin;
     margin: 2vmin;
