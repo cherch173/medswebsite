@@ -18,18 +18,19 @@ const Tour = () => {
                             </tr>
                         </thead>
                         <tbody>
+                            <br />
                             <tr>
-                                <td>FRI JAN 05, 2024</td>
+                                <td className="td">
+                                    FRI JAN 05, 2024
+                                </td>
                                 <td>
                                     <p className="venueTD">Alphaville</p>
                                 </td>
-                                <td>
+                                <td className="td">
                                     Brooklyn, NY
                                 </td>
-                                <td>
-                                    <p className="td">
-                                        <i>Cold Sugar + TBA</i>
-                                    </p>
+                                <td className="td">
+                                    <i>Cold Sugar + TBA</i>
                                 </td>
                                 <td className="td">
                                     <Link target="_blank" to="https://www.alphavillebk.com/">
@@ -37,18 +38,20 @@ const Tour = () => {
                                     </Link>
                                 </td>
                             </tr>
+                            <br />
                             <tr>
-                                <td>TUE JAN 30, 2024</td>
+                                <td className="td">
+                                    TUE JAN 30, 2024
+                                    </td>
                                 <td>
                                     <p className="venueTD">Sleepwalk</p>
                                 </td>
-                                <td>
+                                <td className="td">
                                     Brooklyn, NY
                                 </td>
-                                <td>
-                                    <p className="td">
-                                        <i>&nbsp;Nite Music + TBA&nbsp;</i>
-                                    </p>
+                                <td className="td">
+                                    <i>&nbsp;Nite Music + TBA&nbsp;</i>
+
                                 </td>
                                 <td className="td">
                                     <Link target="_blank" to="https://www.sleepwalk.nyc/">

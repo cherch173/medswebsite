@@ -637,16 +637,20 @@ button {
     border: transparent;
   }
 
+  table {
+    margin: .5vmin;
+    padding: .5vmin;
+  }
+
   .th {
     width: fit-content;
     font-size: auto;
   }
 
   td {
-    min-width: fit-content;
+    min-width: 1vmin;
     min-height: fit-content;
     font-size: 2vmin;
-    /* display: inline-flexbox; */
   }
 
   .button {
@@ -673,7 +677,7 @@ button {
   }
   
   .venueTD {
-    font-size: 1.86vmin;
+    font-size: 1.73vmin;
   }
 
   .footerLink {
