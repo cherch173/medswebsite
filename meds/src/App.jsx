@@ -1,4 +1,4 @@
-import { useState, useRef, useEffect } from 'react'
+import { useState, useEffect } from 'react'
 import { Route, Routes, useLocation } from 'react-router-dom'
 import ReactGA from 'react-ga'
 import Home from './pages/Home'
