@@ -57,7 +57,7 @@ const Tour = () => {
                                 </td>
                             </tr>
                             <br />
-                            <tr>
+                            {/* <tr>
                                 <td className="td">
                                     TUE JAN 30, 2024
                                 </td>
@@ -85,7 +85,7 @@ const Tour = () => {
                                         <button className="onSaleButton">on sale</button>
                                     </Link>
                                 </td>
-                            </tr>
+                            </tr> */}
                         </tbody>
                     </table>
                 </div>
