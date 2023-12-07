@@ -260,7 +260,7 @@ a:visited:hover {
   filter: will-change;
   opacity: 95%;
   width: 69vw;
-  max-width: 100%;
+  max-width: 80%;
 }
 
 .videoYT:hover {
@@ -276,7 +276,7 @@ a:visited:hover {
   opacity: 95%;
   width: 69vw;
   height: 352px;
-  max-width: 100%;
+  max-width: 80%;
 }
 
 .spotifyPlayer:hover {
@@ -293,10 +293,10 @@ a:visited:hover {
 }
 
 .newsHeaderText {
-  font-size: 1.73vmin;
+  font-size: 2.25vmin;
+  color: whitesmÍoke;
   text-shadow: -.15px .15px black, -.25px, .25px whitesmoke, -.35px, .35px rgb(158, 220, 185), .5px .5px black;
-  opacity: 86%;
-  color: whitesmoke;
+  opacity: 90%;
 }
 
 .medsText {
@@ -362,13 +362,25 @@ figcaption {
 }
 
 .news {
-  margin-bottom: 3vmin;
+  margin: 1vmin;
+  padding: 3vmin;
+  border: 1px solid rgb(158, 220, 185);
+  background-color: rgb(13, 13, 13);
+  opacity: 73%;
+  border-radius: 10px;
+  filter: will-change;
+}
+
+.news:hover {
+  transition: 142ms ease-in-out;
+  filter: drop-shadow(0 0 .5vmin rgb(119, 185, 148));
+  opacity: 92%;
 }
 
 .article {
   height: 66vh;
   width: 69vw;
-  max-width: 100%;
+  max-width: 80%;
   border-radius: 10px;
   filter: will-change;
 }
@@ -454,8 +466,9 @@ figcaption {
 }
 
 p {
-  margin-left: 8vmin;
-  margin-right: 8vmin;
+  margin-left: 10vmin;
+  margin-right: 10vmin;
+  justify-self: center;
 }
 
 table {
