@@ -341,13 +341,6 @@ a:visited:hover {
     transform-origin: 50% 73%;
 
   }
-
-  100% {
-    transform: scale3d(.86, .1, .37);
-    opacity: 50%;
-    text-shadow: -.35px .35px black;
-    transform-origin: 50% 25%;
-  }
 }
 
 .boldText {
