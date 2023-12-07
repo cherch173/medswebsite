@@ -11,7 +11,9 @@ const News = () => {
             <div>
                 <h1 className="headerText">News</h1>
                 <div className="card">
-                    <h4 className="newsHeaderText">New Single "30 FOR 30" drops January 5th, 2024</h4>
+                    <h4 className="newsHeaderText">New Single <span className="boldText">"30 FOR 30"</span>
+                    <br />
+                    drops January 5th, 2024</h4>
                     <p>Dec 7, 2023</p>
                     <br />
                     <Link target="_blank" to="https://distrokid.com/hyperfollow/meds7/30-for-30-2">
@@ -55,7 +57,9 @@ const News = () => {
                 </div>
                 <br />
                 <div className="card">
-                    <h4 className="newsHeaderText">Meds featured + an Interview with Cherch in <i>The Deli Magazine</i></h4>
+                    <h4 className="newsHeaderText">Meds Featured + an Interview 
+                    <br />
+                    with Cherch in <i>The Deli Magazine</i></h4>
                     <p>Nov 17, 2023</p>
                     <br />
                     <iframe
