@@ -27,9 +27,9 @@ const News = () => {
                     </p>
                     <p>
                         <a target="-_blank" className="newsA" href="https://distrokid.com/hyperfollow/meds7/30-for-30-2">30 for 30&nbsp;</a>
-                        was produced by&nbsp;
+                        was produced and mixed by&nbsp;
                         <a target="-_blank" className="newsA" href="https://distrokid.com/hyperfollow/meds7/30-for-30-2">Jeff Berner&nbsp;</a>
-                        at <span className="boldText">Studio G (Brooklyn, NY)&nbsp;</span>and was performed by:
+                        at <span className="boldText">Studio G&nbsp;</span>(Brooklyn, NY) and was performed by:
                         <br />
                         <br />
                         Cherch (music & lyrics, vocals, guitars) 
