@@ -78,7 +78,6 @@ const News = () => {
                     </Link>
                 </div>
                 <br />
-                <br />
                 <div className="card">
                     <h4 className="newsHeaderText">Debut Single <i> "An Unexpected Visit to the Isabella Stewart Gardner Museum"</i>
                         <br />
