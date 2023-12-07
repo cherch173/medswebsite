@@ -1,5 +1,6 @@
 import React from 'react'
 import isabellaCover from '/meds_gardner2.jpg'
+import thirtyCover from '/30for30_Meds_v4.jpg'
 import { Link } from 'react-router-dom'
 
 const News = () => {
@@ -16,8 +17,8 @@ const News = () => {
                     drops January 5th, 2024</h4>
                     <p>Dec 7, 2023</p>
                     <br />
-                    <Link target="_blank" to="https://distrokid.com/hyperfollow/meds7/30-for-30-2">
-                        <img className="releaseImage" src="https://f4.bcbits.com/img/a1313842060_16.jpg" alt="meds_30for30_image" />
+                    <Link className="" target="_blank" to="https://distrokid.com/hyperfollow/meds7/30-for-30-2">
+                        <img className="releaseImage" src={thirtyCover} alt="meds_30for30_image" />
                     </Link>
                     <p>
                         We're proud to announce the release of the next single off of
