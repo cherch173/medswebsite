@@ -4,8 +4,8 @@ import { Link } from 'react-router-dom'
 const Tour = () => {
     return (
         <div>
+            <h1 className="headerText">Tour Dates</h1>
             <div className="card">
-                <h1 className="headerText">Tour Dates</h1>
                 <div className="tourCard">
                     <table>
                         <thead>

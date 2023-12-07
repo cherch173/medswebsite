@@ -71,7 +71,7 @@ a {
 .navA {
   margin: 2.75vmin;
   filter: will-change;
-  perspective: 1000px;
+  perspective: 10000px;
 }
 
 .navA:hover {
@@ -86,7 +86,7 @@ a {
 
 .newsA {
   filter: will-change;
-  perspective: 1000px;
+  perspective: 2000px;
   font-size: 1.73vmin;
   font-weight: bolder;
   color: rgb(119, 185, 148);
