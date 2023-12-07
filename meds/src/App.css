@@ -224,7 +224,7 @@ a:visited:hover {
 }
 
 .medsImage {
-  max-width: 69vmin;
+  max-width: 75vmin;
   max-height: 50vmin;
   border-radius: 10px;
   margin: 1vmin;
@@ -232,10 +232,9 @@ a:visited:hover {
 }
 
 .medsImage:hover {
-  transform: scale(102%);
-  transition: ease-in 173ms;
+  transform: scale(101%);
+  transition: ease-in 142ms;
   opacity: 95%;
-  border: 1px solid rgba(119, 185, 148, .42);
 }
 
 .releaseImage {
@@ -341,12 +340,17 @@ a:visited:hover {
     transform-origin: 50% 73%;
 
   }
+
+  100% {
+    transform: scale3d(.86, .1, .37);
+    opacity: 50%;
+    text-shadow: -.35px .35px black;
+    transform-origin: 50% 25%;
+  }
 }
 
 .boldText {
   font-weight: bold;
-  margin-right: .5vmin;
-  margin-left: .5vmin;
   text-shadow: -.25px, .25px whitesmoke, .5px .5px black;
   opacity: 86%;
 }

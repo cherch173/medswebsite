@@ -29,17 +29,17 @@ const Bio = () => {
                     and more) and entered the studio with world-renowned producer Jeff Berner (<i>Psychic TV, Shilpa Ray</i>), resulting in the debut recording
                     <strong className="boldText">
                         <i>
-                            Night (Volume 1).
+                            &nbsp;Night (Volume 1).
                         </i>
                     </strong>
                 </p>
                 <p>
                     <strong >
                         <i>
-                            Night (Volume 1)
+                            Night (Volume 1):
                         </i>
                     </strong>
-                    : is a short vignette of weaving, ornate compositions themed around mental health advocacy. Sonically,
+                    &nbsp;is a short vignette of weaving, ornate compositions themed around mental health advocacy. Sonically,
                     <strong className="boldBioText">&nbsp;Meds</strong>
                     &nbsp;reside somewhere between the psychedelia of
                     <i>&nbsp;Spiritualized and TV On the Radio </i>
@@ -50,8 +50,8 @@ const Bio = () => {
                     Cherch’s smokey vocal delivery sizzles with a crisp nonchalance just like Paul Westerberg’s.
                 </p>
                 <p>
-                    More fascinatingly, the juxtaposition of 808s and subharmonics across his guitar driven indie rock create an intoxicating and unique sound that elusively blurs the lines between genres —
-                    revealing a 90’s kid finally comfortable in their own skin: equal parts
+                    More fascinatingly, the juxtaposition of 808s and subharmonics across his guitar driven indie rock create an intoxicating and unique sound that elusively blurs the lines between genres,
+                    revealing a 90’s kid finally comfortable in their own skin; equal parts
                     <i>&nbsp;OK Computer</i>&nbsp;and
                     <i>&nbsp;Aquemini</i> and completely ok with that.
                 </p>
