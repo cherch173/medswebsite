@@ -8,9 +8,52 @@ const News = () => {
     }
 
     return (
-        <>
-            <div className="">
+            <div>
                 <h1 className="headerText">News</h1>
+                <div className="card">
+                    <h4 className="newsHeaderText">New Single "30 FOR 30" drops January 5th, 2024</h4>
+                    <p>Dec 7, 2023</p>
+                    <br />
+                    <Link target="_blank" to="https://distrokid.com/hyperfollow/meds7/30-for-30-2">
+                        <img className="releaseImage" src="https://f4.bcbits.com/img/a1313842060_16.jpg" alt="meds_30for30_image" />
+                    </Link>
+                    <p>
+                        We're proud to announce the release of the next single off of
+                        <i>&nbsp;Night: (Volume 1):&nbsp;</i>
+                        <a target="_blank" className="newsA" href="https://distrokid.com/hyperfollow/meds7/30-for-30-2">30 for 30&nbsp;</a>
+                        due out <span className="boldText">January 5, 2024.</span>
+                    </p>
+                    <p>
+                        <a target="-_blank" className="newsA" href="https://distrokid.com/hyperfollow/meds7/30-for-30-2">30 for 30&nbsp;</a>
+                        was produced by&nbsp;
+                        <a target="-_blank" className="newsA" href="https://distrokid.com/hyperfollow/meds7/30-for-30-2">Jeff Berner&nbsp;</a>
+                        at <span className="boldText">Studio G (Brooklyn, NY)&nbsp;</span>and was performed by:
+                        <br />
+                        <br />
+                        Cherch (music & lyrics, vocals, guitars) 
+                        <br />
+                        Evan Berg (drums, 808s)
+                        <br />
+                        Jeff Berner (rhodes, subs)
+                        <br />
+                        Jeremy Kolker (backing vocals)
+                        <br />
+                        Sean Spada (mellotron)
+                        <br />
+                        Chris Urriola (bass, backing vocals)
+                        <br />
+                    </p>
+                    <p>
+                        To <span className="boldText">pre save&nbsp;</span>
+                        <a target="-_blank" className="newsA" href="https://distrokid.com/hyperfollow/meds7/30-for-30-2">30 for 30&nbsp;</a>
+                        just click the button below
+                    </p>
+                    <br />
+                    <Link target="_blank" to="https://distrokid.com/hyperfollow/meds7/30-for-30-2">
+                    <button className="button">pre save</button>
+                    </Link>
+                </div>
+                <br />
                 <div className="card">
                     <h4 className="newsHeaderText">Meds featured + an Interview with Cherch in <i>The Deli Magazine</i></h4>
                     <p>Nov 17, 2023</p>
@@ -104,7 +147,6 @@ const News = () => {
                     <br />
                 </div>
             </div>
-        </>
     )
 }
 
