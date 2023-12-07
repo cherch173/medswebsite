@@ -293,9 +293,10 @@ a:visited:hover {
 
 .newsHeaderText {
   font-size: 2.25vmin;
-  color: whitesmÍoke;
+  color: whitesmoke;
   text-shadow: -.15px .15px black, -.25px, .25px whitesmoke, -.35px, .35px rgb(158, 220, 185), .5px .5px black;
   opacity: 90%;
+  margin: 1vmin;
 }
 
 .medsText {
