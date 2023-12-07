@@ -8,9 +8,9 @@ const News = () => {
     }
 
     return (
-        <div>
+        <>
             <div className="">
-                <h3 className="headerText">News</h3>
+                <h1 className="headerText">News</h1>
                 <div className="card">
                     <h4 className="newsHeaderText">Meds featured + an Interview with Cherch in <i>The Deli Magazine</i></h4>
                     <p>Nov 17, 2023</p>
@@ -104,7 +104,7 @@ const News = () => {
                     <br />
                 </div>
             </div>
-        </div>
+        </>
     )
 }
 
