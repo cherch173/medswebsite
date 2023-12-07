@@ -276,6 +276,7 @@ a:visited:hover {
   opacity: 95%;
   width: 69vw;
   height: 352px;
+  max-width: 100%;
 }
 
 .spotifyPlayer:hover {
