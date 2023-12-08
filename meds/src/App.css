@@ -194,6 +194,87 @@ a:visited:hover {
   margin: 1vmin;
 }
 
+.card {
+  display: flex;
+  flex-direction: column;
+  padding: 5vmin;
+  margin: 3vmin;
+  border-radius: 10px;
+  border: 1px solid rgb(119, 185, 148);
+  background-color: rgba(49, 53, 49, 0.73);
+  background-image: url('/public/Meds_30for30_fractalVert.gif');
+  background-position: center;
+  background-size: cover;
+  background-blend-mode: soft-light;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.5vmin;
+  opacity: 86%;
+  box-shadow: 0px 0px 2px 2px rgba(119, 185, 148, .73);
+}
+
+.card:hover {
+  opacity: 100%;
+  cursor: pointer;
+  box-shadow: 0px 0px 4px 4px rgba(119, 185, 148, .73);
+  transition: ease-in 142ms;
+  background-color: rgba(49, 53, 49, 0.73);
+}
+
+.tourCard {
+  padding: 3vmin;
+  margin: 1vmin;
+  border-radius: 5px;
+  border: 1px solid whitesmoke;
+  border: 1px solid rgb(119, 185, 148);
+  background-color: rgba(17, 17, 17, .55);
+  box-shadow: 0px 0px 1px 1px rgba(119, 185, 148, .73);
+}
+
+.tourCard:hover {
+  background-color: rgba(49, 53, 49, 0.73);
+  transition: ease-in 142ms;
+  box-shadow: 0px 0px 2px 2px rgba(119, 185, 148, .73);
+}
+
+.bioCard {
+  padding-top: 3vmin;
+  padding-bottom: 3vmin;
+  margin: 1vmin;
+  margin-left: 15vmin;
+  margin-right: 15vmin;
+  border-radius: 5px;
+  border: 1px solid whitesmoke;
+  border: 1px solid rgb(119, 185, 148);
+  background-color: rgba(17, 17, 17, .55);
+  background-image: url('/IssaTeaserSquareNoText.gif');
+  background-size: cover;
+  background-position: center;
+  opacity: 85%;
+  box-shadow: 0px 0px 1px 1px rgba(119, 185, 148, .73);
+}
+
+.bioTextCard {
+  padding-top: 3vmin;
+  padding-bottom: 3vmin;
+  margin: 1vmin;
+  margin-left: 11vmin;
+  margin-right: 11vmin;
+}
+
+.bioCard:hover {
+  background-color: rgba(49, 53, 49, 0.73);
+  transition: ease-in 173ms;
+  box-shadow: 0px 0px 2px 2px rgba(119, 185, 148, .73);
+  opacity: 100%;
+}
+
+p {
+  margin-left: 10vmin;
+  margin-right: 10vmin;
+  justify-self: center;
+}
+
 .bandImage {
   max-width: 73vmin;
   border-radius: 10px;
@@ -388,86 +469,6 @@ figcaption {
   opacity: 100%;
 }
 
-.card {
-  display: flex;
-  flex-direction: column;
-  padding: 5vmin;
-  margin: 3vmin;
-  border-radius: 10px;
-  border: 1px solid rgb(119, 185, 148);
-  background-color: rgba(49, 53, 49, 0.73);
-  background-image: url('/IssaTeaserSquareNoText.gif');
-  background-position: center;
-  background-size: cover;
-  justify-content: center;
-  align-items: center;
-  font-size: 1.5vmin;
-  opacity: 86%;
-  box-shadow: 0px 0px 2px 2px rgba(119, 185, 148, .73);
-}
-
-.card:hover {
-  opacity: 100%;
-  cursor: pointer;
-  box-shadow: 0px 0px 4px 4px rgba(119, 185, 148, .73);
-  transition: ease-in 173ms;
-  background-color: rgba(49, 53, 49, 0.73);
-}
-
-.tourCard {
-  padding: 3vmin;
-  margin: 1vmin;
-  border-radius: 5px;
-  border: 1px solid whitesmoke;
-  border: 1px solid rgb(119, 185, 148);
-  background-color: rgba(17, 17, 17, .55);
-  box-shadow: 0px 0px 1px 1px rgba(119, 185, 148, .73);
-}
-
-.tourCard:hover {
-  background-color: rgba(49, 53, 49, 0.73);
-  transition: ease-in 173ms;
-  box-shadow: 0px 0px 2px 2px rgba(119, 185, 148, .73);
-}
-
-.bioCard {
-  padding-top: 3vmin;
-  padding-bottom: 3vmin;
-  margin: 1vmin;
-  margin-left: 15vmin;
-  margin-right: 15vmin;
-  border-radius: 5px;
-  border: 1px solid whitesmoke;
-  border: 1px solid rgb(119, 185, 148);
-  background-color: rgba(17, 17, 17, .55);
-  background-image: url('/IssaTeaserSquareNoText.gif');
-  background-size: cover;
-  background-position: center;
-  opacity: 85%;
-  box-shadow: 0px 0px 1px 1px rgba(119, 185, 148, .73);
-}
-
-.bioTextCard {
-  padding-top: 3vmin;
-  padding-bottom: 3vmin;
-  margin: 1vmin;
-  margin-left: 11vmin;
-  margin-right: 11vmin;
-}
-
-.bioCard:hover {
-  background-color: rgba(49, 53, 49, 0.73);
-  transition: ease-in 173ms;
-  box-shadow: 0px 0px 2px 2px rgba(119, 185, 148, .73);
-  opacity: 100%;
-}
-
-p {
-  margin-left: 10vmin;
-  margin-right: 10vmin;
-  justify-self: center;
-}
-
 table {
   margin: 2vmin;
 }
@@ -598,6 +599,11 @@ button {
 }
 
 @media (max-width: 680px) {
+  body {
+    background-image: url('/Meds_30for30_fractalVert.gif');
+    background-blend-mode: soft-light;
+    background-size: cover;
+  }
   /* .burger {
     display: fixed;
     padding-top: 1vmin;
@@ -653,11 +659,11 @@ button {
     overflow-anchor: auto;
     max-width: 100%;
     zoom: fixed;
-    min-zoom: 125%;
+    min-zoom: 100%;
     scroll-behavior: smooth;
-    scroll-snap-type: mandatory;
-    scroll-snap-align: center;
-    scroll-timeline: none y;
+    /* scroll-snap-type: mandatory; */
+    /* scroll-snap-align: center; */
+    scroll-timeline: y;
     scroll-timeline-axis: y;
     scroll-timeline-axis: vertical;
   }
@@ -687,7 +693,12 @@ button {
   .videoYT {
     width: 100%;
     height: fit-content;
-    border-radius: 12px;
+    border-radius: 10px;
+    border: transparent;
+  }
+
+  .spotifyPlayer {
+    width: max-content;
     border: transparent;
   }
 

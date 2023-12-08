@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react'
+import { useState, useEffect, useContext } from 'react'
 import { Route, Routes, useLocation } from 'react-router-dom'
 import ReactGA from 'react-ga'
 import Home from './pages/Home'
@@ -9,7 +9,6 @@ import Nav from './components/Nav'
 import Contact from './pages/Contact'
 import News from './components/News'
 import PageNotFound from './pages/PageNotFound'
-import Footer from './components/Footer'
 import './App.css'
 
 function App() {
@@ -42,18 +41,19 @@ function App() {
 
   return (
     <div>
+
       <header>
         <Nav />
       </header>
       <main>
         <Routes >
-          <Route path="/" element={<Home />} />
-          <Route path="/tour" element={<Tour />} />
-          <Route path="/bio" element={<Bio />} />
-          <Route path="/merch" element={<Merch />} />
-          <Route path="/news" element={<News />} />
-          <Route path="/contact" element={<Contact />} />
-          <Route path="*" element={<PageNotFound />} />
+            <Route path="/" element={<Home />} />
+            <Route path="/tour" element={<Tour />} />
+            <Route path="/bio" element={<Bio />} />
+            <Route path="/merch" element={<Merch />} />
+            <Route path="/news" element={<News />} />
+            <Route path="/contact" element={<Contact />} />
+            <Route path="*" element={<PageNotFound />} />
         </Routes>
       </main>
     </div>

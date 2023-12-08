@@ -1,5 +1,5 @@
 import React from 'react'
-import { useRef } from 'react'
+import { useRef, useContext } from 'react'
 import { Link } from 'react-router-dom'
 import Tour from './Tour'
 import Photos from '../components/Photos'
@@ -7,6 +7,7 @@ import News from '../components/News'
 import Footer from '../components/Footer'
 
 const Home = () => {
+
     const getYear = () => {
         return new Date().getUTCFullYear()
     }
