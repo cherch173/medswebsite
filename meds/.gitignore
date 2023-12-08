@@ -28,4 +28,4 @@ package-lock.json
 dist
 
 meds/public/Meds_30for30_fractalVert.gif
-/public/Meds_30for30_fractalVert.gif
+public/Meds_30for30_fractalVert.gif
