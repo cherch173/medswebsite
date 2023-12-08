@@ -250,7 +250,6 @@ a:visited:hover {
 .releaseImage:hover {
   transition: ease-in 173ms;
   opacity: 95%;
-  /* border: 1px solid rgba(119, 185, 148, .42); */
 }
 
 .videoYT {
@@ -649,9 +648,12 @@ button {
   .article {
     width: 69vmin;
     text-size-adjust: 75%;
-    height: 45vh;
+    height: 50vh;
     overflow: auto;
     overflow-anchor: auto;
+    max-width: 100%;
+    zoom: fixed;
+    min-zoom: 125%;
   }
 
   .card {
