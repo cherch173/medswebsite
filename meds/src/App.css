@@ -654,6 +654,8 @@ button {
     max-width: 100%;
     zoom: fixed;
     min-zoom: 125%;
+    scroll-behavior: smooth;
+    scroll-snap-type: proximity;
   }
 
   .card {
