@@ -655,7 +655,11 @@ button {
     zoom: fixed;
     min-zoom: 125%;
     scroll-behavior: smooth;
-    scroll-snap-type: proximity;
+    scroll-snap-type: mandatory;
+    scroll-snap-align: center;
+    scroll-timeline: none y;
+    scroll-timeline-axis: y;
+    scroll-timeline-axis: vertical;
   }
 
   .card {
