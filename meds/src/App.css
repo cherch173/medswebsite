@@ -250,6 +250,7 @@ a:visited:hover {
   background-image: url('/MedsWebsiteIssaHD.gif');
   background-size: cover;
   background-position: center;
+  background-blend-mode: soft-light;
   opacity: 85%;
   box-shadow: 0px 0px 1px 1px rgba(119, 185, 148, .73);
 }
@@ -649,7 +650,7 @@ button {
   }
 
   .newsCard {
-    width: 70vmin;
+    width: 75vmin;
     background-image: url('/Meds_30for30_V.gif');
     background-size: cover;
     background-blend-mode: soft-light;
@@ -658,6 +659,8 @@ button {
   .bioCard {
     margin-left: 2vmin;
     margin-right: 2vmin;
+    border-radius: 10px;
+    background-image: url('/Meds_30for30_V.gif');
   }
 
   p {
@@ -734,6 +737,10 @@ button {
     height: fit-content;
     width: fit-content;
     font-weight: bolder;
+  }
+
+  .contactButton {
+    margin: 7vmin;
   }
 
   .onSaleButton {

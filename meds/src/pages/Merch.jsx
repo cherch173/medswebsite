@@ -8,7 +8,7 @@ const Merch = () => {
             <br />
             <h3 className="headerText">Merch</h3>
             <br />
-            <div className="bioCard">
+            <div className="newsCard">
                 <p>
                     coming soon... <br />
                 </p>
@@ -28,19 +28,6 @@ const Merch = () => {
             </Link>
             <br />
             <br />
-            <br />
-            <br />
-            <br />
-            <br />
-            <br />
-            <br />
-            <br />
-            <br />
-            <br />
-            <br />
-            <br />
-            <br />
-            {/* <Footer /> */}
         </div>
     )
 }

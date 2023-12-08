@@ -65,7 +65,7 @@ const News = () => {
                 <br />
                 <iframe
                     src="https://thedelimag.com/meds-drop-debut-single-on-an-unexpected-visit-with-mental-health-advocacy-as-their-prime-directive/"
-                    frameborder="0"
+                    frameBorder="0"
                     className="article"
                     title="Meds Deli Magazine"
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;"
@@ -96,12 +96,12 @@ const News = () => {
                     <span className="boldBioText"><i>&nbsp;"An Unexpected Visit to the Isabella Stewart Gardner Museum"&nbsp;</i></span>
                     was released worldwide.
                 </p>
-                <p>The single was produced and engineered by
+                <p className="bioText">The single was produced and engineered by
                     <span className="boldBioText">&nbsp;Jeff Berner&nbsp;</span>
                     (<i>Psychic TV, Catty, Shilpa Ray)&nbsp;</i>
                     at Studio G in Brooklyn, NY and was mastered by Carl Saff at Saff Mastering.
                 </p>
-                <p>
+                <p className="bioText">
                     In addition,
                     <span className="boldBioText">&nbsp;"<i>An Unexpected Visit to the Isabella Stewart Gardner Museum</i>"&nbsp;</span>
                     made its (extra)terrestrial radio debut on
