@@ -202,7 +202,7 @@ a:visited:hover {
   border-radius: 10px;
   border: 1px solid rgb(119, 185, 148);
   background-color: rgba(49, 53, 49, 0.73);
-  background-image: url('/public/Meds_30for30_fractalVert.gif');
+  background-image: url('/MedsWebsiteIssaHD.GIF');
   background-position: center;
   background-size: cover;
   background-blend-mode: soft-light;
@@ -600,7 +600,7 @@ button {
 
 @media (max-width: 680px) {
   body {
-    background-image: url('/Meds_30for30_fractalVert.gif');
+    background-image: url('/Meds_30for30_fractalVert2.GIF');
     background-blend-mode: soft-light;
     background-size: cover;
   }
@@ -642,6 +642,18 @@ button {
     text-shadow: -.5px, .5px whitesmoke, -.75px, .75px rgb(119, 185, 148), .1px .1px black;
   }
 
+  .card {
+    width: 70vmin;
+    background-image: url('/Meds_30for30_fractalVert2.GIF');
+    background-size: cover;
+    background-blend-mode: soft-light;
+  }
+
+  .bioCard {
+    margin-left: 2vmin;
+    margin-right: 2vmin;
+  }
+
   p {
     font-size: 2.75vmin;
     margin: 2vmin;
@@ -666,15 +678,6 @@ button {
     scroll-timeline: y;
     scroll-timeline-axis: y;
     scroll-timeline-axis: vertical;
-  }
-
-  .card {
-    width: 70vmin;
-  }
-
-  .bioCard {
-    margin-left: 2vmin;
-    margin-right: 2vmin;
   }
 
   .contactA {
