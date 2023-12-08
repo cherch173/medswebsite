@@ -673,6 +673,8 @@ button {
     margin-right: 2vmin;
     border-radius: 10px;
     background-image: url('/Meds_30for30_V.gif');
+    background-size: cover;
+    background-blend-mode: soft-light;
   }
 
   p {
