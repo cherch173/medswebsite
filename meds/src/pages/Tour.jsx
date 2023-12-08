@@ -5,59 +5,58 @@ const Tour = () => {
     return (
         <div>
             <h1 className="headerText">Tour Dates</h1>
-            <div className="card">
-                <div className="tourCard">
-                    <table>
-                        <thead>
-                            <tr>
-                                <th className="th">date</th>
-                                <th className="th">venue</th>
-                                <th className="th">city</th>
-                                <th className="th">with</th>
-                                <th className="th">tickets</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            <br />
-                            <tr>
-                                <td className="td">
-                                    FRI JAN 05, 2024
-                                </td>
-                                <td>
-                                    <p className="venueTD">
-                                        <Link target="_blank" className="supportA" to="https://www.instagram.com/alphavillebk">
-                                            Alphaville
-                                        </Link>
-                                    </p>
-                                </td>
-                                <td className="td">
-                                    Brooklyn, NY
-                                </td>
-                                <td className="td">
-                                    <i>
-                                        <Link className="supportA" target="_blank" to="https://open.spotify.com/artist/20u1eNEFrgn9XCwUGuBNt9?si=HysKacO6QIeVijRbyMB4Qg">
-                                            Brunch
-                                        </Link>
-                                        &nbsp;(VT)
-                                        <br />
-                                        <Link className="supportA" target="_blank" to="https://open.spotify.com/artist/2AUvhMfDlJMpAyPIHy9i8a?si=cc-L5MYNSouzb22zZg5D6w">
-                                            Cold Sugar
-                                        </Link>
-                                        <br />
-                                        <Link className="supportA" target="_blank" to="http://www.instagram.com/alphavillebk">
-                                            The Alphaville All-Stars
-                                        </Link>
-                                    </i>
-                                    <br />
-                                </td>
-                                <td className="td">
-                                    <Link target="_blank" to="https://www.alphavillebk.com/">
-                                        <button className="onSaleButton">on sale</button>
+            <div className="newsCard">
+                <table>
+                    <thead>
+                        <tr>
+                            <th className="th">date</th>
+                            <th className="th">venue</th>
+                            <th className="th">city</th>
+                            <th className="th">with</th>
+                            <th className="th">tickets</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <br />
+                        <tr>
+                            <td className="td">
+                                FRI JAN 05, 2024
+                            </td>
+                            <td>
+                                <p className="venueTD">
+                                    <Link target="_blank" className="supportA" to="https://www.instagram.com/alphavillebk">
+                                        Alphaville
                                     </Link>
-                                </td>
-                            </tr>
-                            <br />
-                            {/* <tr>
+                                </p>
+                            </td>
+                            <td className="td">
+                                Brooklyn, NY
+                            </td>
+                            <td className="td">
+                                <i>
+                                    <Link className="supportA" target="_blank" to="https://open.spotify.com/artist/20u1eNEFrgn9XCwUGuBNt9?si=HysKacO6QIeVijRbyMB4Qg">
+                                        Brunch
+                                    </Link>
+                                    &nbsp;(VT)
+                                    <br />
+                                    <Link className="supportA" target="_blank" to="https://open.spotify.com/artist/2AUvhMfDlJMpAyPIHy9i8a?si=cc-L5MYNSouzb22zZg5D6w">
+                                        Cold Sugar
+                                    </Link>
+                                    <br />
+                                    <Link className="supportA" target="_blank" to="http://www.instagram.com/alphavillebk">
+                                        The Alphaville All-Stars
+                                    </Link>
+                                </i>
+                                <br />
+                            </td>
+                            <td className="td">
+                                <Link target="_blank" to="https://www.alphavillebk.com/">
+                                    <button className="onSaleButton">on sale</button>
+                                </Link>
+                            </td>
+                        </tr>
+                        <br />
+                        {/* <tr>
                                 <td className="td">
                                     TUE JAN 30, 2024
                                 </td>
@@ -86,10 +85,10 @@ const Tour = () => {
                                     </Link>
                                 </td>
                             </tr> */}
-                        </tbody>
-                    </table>
-                </div>
+                    </tbody>
+                </table>
             </div>
+
         </div >
     )
 }

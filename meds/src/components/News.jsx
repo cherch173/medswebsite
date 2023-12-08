@@ -11,7 +11,7 @@ const News = () => {
     return (
         <div>
             <h1 className="headerText">News</h1>
-            <div className="card">
+            <div className="newsCard">
                 <h4 className="newsHeaderText">New Single <span className="boldText">"30 FOR 30"</span>
                     <br />
                     drops January 5th, 2024</h4>
@@ -57,7 +57,7 @@ const News = () => {
                 </Link>
             </div>
             <br />
-            <div className="card">
+            <div className="newsCard">
                 <h4 className="newsHeaderText">Meds Featured + an Interview
                     <br />
                     with Cherch in <i>The Deli Magazine</i></h4>
@@ -80,7 +80,7 @@ const News = () => {
                 </Link>
             </div>
             <br />
-            <div className="card">
+            <div className="newsCard">
                 <h4 className="newsHeaderText">Debut Single <i> "An Unexpected Visit to the Isabella Stewart Gardner Museum"</i>
                     <br />
                     now available on all platforms

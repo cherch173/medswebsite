@@ -10,7 +10,7 @@ const Photos = () => {
     return (
         <>
             <h1 className="headerText">Photos</h1>
-            <div className="card">
+            <div className="newsCard">
                 <figure>
                     <img className="medsImage" src="/pesoscherchBB.webp" alt="cherchBB" />
                     <Link target="_blank" to="https://www.nickfallonphotography.com/music">
