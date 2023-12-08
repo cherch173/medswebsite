@@ -5,6 +5,9 @@ import Home from './pages/Home'
 import Tour from './pages/Tour'
 import Bio from './pages/Bio'
 import Merch from './pages/Merch'
+import Tour from './pages/Tour'
+import Bio from './pages/Bio'
+import Merch from './pages/Merch'
 import Nav from './components/Nav'
 import Contact from './pages/Contact'
 import News from './components/News'
@@ -12,6 +15,28 @@ import PageNotFound from './pages/PageNotFound'
 import './App.css'
 
 function App() {
+  // initializing GA for metrics bb
+  ReactGA.initialize('G-MWZRCQCMTS')
+
+  // ping the site user's location using GA
+  const location = useLocation();
+  useEffect(() => {
+    ReactGA.pageview(location.pathname + location.search)
+  }, [location]);
+
+
+  function handleClick() {
+    // track a custom event with GA
+    ReactGA.event({
+      category: 'Button Click',
+      action: 'Click on any Link',
+      label: 'Link Tracking',
+    })
+    { onclick }
+  }
+
+  handleClick()
+
   // initializing GA for metrics bb
   ReactGA.initialize('G-MWZRCQCMTS')
 
