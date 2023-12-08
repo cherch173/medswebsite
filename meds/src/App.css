@@ -398,7 +398,10 @@ p {
 }
 
 .medsText:hover {
-  cursor: pointer;
+  transition: 142ms ease-in-out;
+  filter: drop-shadow(0 0 .5vmin rgb(119, 185, 148));
+  cursor: crosshair;
+  opacity: 66%;
 }
 
 @keyframes pulse {
@@ -411,7 +414,7 @@ p {
 
   50% {
     transform: scale3d(1.17, 1.17, 3);
-    opacity: 73%;
+    opacity: 60%;
     text-shadow: -.5px .5px black;
   }
 
@@ -611,6 +614,7 @@ button {
     background-blend-mode: soft-light;
     background-size: cover;
   }
+
   /* .burger {
     display: fixed;
     padding-top: 1vmin;
