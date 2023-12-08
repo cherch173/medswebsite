@@ -56,7 +56,7 @@ const Tour = () => {
                             </td>
                         </tr>
                         <br />
-                        {/* <tr>
+                        <tr>
                                 <td className="td">
                                     TUE JAN 30, 2024
                                 </td>
@@ -80,11 +80,11 @@ const Tour = () => {
                                     </i>
                                 </td>
                                 <td className="td">
-                                    <Link target="_blank" to="https://www.sleepwalk.nyc/">
+                                    <Link target="_blank" to="https://link.dice.fm/M75085ad7d07">
                                         <button className="onSaleButton">on sale</button>
                                     </Link>
                                 </td>
-                            </tr> */}
+                            </tr>
                     </tbody>
                 </table>
             </div>

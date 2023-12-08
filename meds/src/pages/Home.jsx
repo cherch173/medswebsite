@@ -30,9 +30,9 @@ const Home = () => {
             <button className="button" onClick={scrollDown}>beam down</button>
             <br />
             <br />
-            <News />
-            <br />
             <Tour />
+            <br />
+            <News />
             <br />
             <Photos />
             <br />
