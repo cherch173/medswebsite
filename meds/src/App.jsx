@@ -5,9 +5,6 @@ import Home from './pages/Home'
 import Tour from './pages/Tour'
 import Bio from './pages/Bio'
 import Merch from './pages/Merch'
-import Tour from './pages/Tour'
-import Bio from './pages/Bio'
-import Merch from './pages/Merch'
 import Nav from './components/Nav'
 import Contact from './pages/Contact'
 import News from './components/News'
@@ -19,10 +16,10 @@ function App() {
   ReactGA.initialize('G-MWZRCQCMTS')
 
   // ping the site user's location using GA
-  const location = useLocation();
+  const loc = useLocation();
   useEffect(() => {
     ReactGA.pageview(location.pathname + location.search)
-  }, [location]);
+  }, [loc]);
 
 
   function handleClick() {
