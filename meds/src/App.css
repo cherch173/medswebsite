@@ -680,7 +680,7 @@ button {
 
 @media (max-width: 680px) {
   body {
-    background-image: url('/Meds_30for30_fractalVert2.GIF');
+    background-image: url('/Meds_30for30_V.gif');
     background-blend-mode: soft-light;
     background-size: cover;
   }
@@ -724,7 +724,7 @@ button {
 
   .card {
     width: 70vmin;
-    background-image: url('/Meds_30for30_fractalVert2.GIF');
+    background-image: url('/Meds_30for30_V.gif');
     background-size: cover;
     background-blend-mode: soft-light;
   }
