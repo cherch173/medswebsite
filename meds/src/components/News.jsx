@@ -1,6 +1,7 @@
 import React from 'react'
 import isabellaCover from '/meds_gardner2.jpg'
 import thirtyCover from '/30for30_Meds_v4.jpg'
+import thirtyRP from '/1_5_2024 _30for30.png'
 import { Link } from 'react-router-dom'
 
 const News = () => {
@@ -12,9 +13,12 @@ const News = () => {
         <div>
             <h1 className="headerText">News</h1>
             <div className="newsCard">
-                <h4 className="newsHeaderText">New Single <span className="boldText">"30 FOR 30"</span>
+                <h4 className="newsHeaderText">New Single <span className="boldText">"30 FOR 30" out</span>
                     <br />
-                    drops January 5th, 2024</h4>
+                    plus Official Release Party at
+                    <br />
+                    Alphaville on Jan 5, 2024
+                </h4>
                 <p>Dec 7, 2023</p>
                 <br />
                 <Link className="" target="_blank" to="https://distrokid.com/hyperfollow/meds7/30-for-30-2">
@@ -24,13 +28,13 @@ const News = () => {
                     We're proud to announce the release of the next single off of
                     <i>&nbsp;Night: (Volume 1):&nbsp;</i>
                     <a target="_blank" className="newsA" href="https://distrokid.com/hyperfollow/meds7/30-for-30-2">30 for 30&nbsp;</a>
-                    due out <span className="boldText">January 5, 2024.</span>
+                    due for release <span className="boldText">January 5, 2024.</span>
                 </p>
                 <p>
                     <a target="-_blank" className="newsA" href="https://distrokid.com/hyperfollow/meds7/30-for-30-2">30 for 30&nbsp;</a>
                     was produced and mixed by&nbsp;
                     <a target="-_blank" className="newsA" href="https://distrokid.com/hyperfollow/meds7/30-for-30-2">Jeff Berner&nbsp;</a>
-                    at <span className="boldText">Studio G&nbsp;</span>(Brooklyn, NY) and was performed by:
+                    at <span className="boldText">Studio G&nbsp;</span>and was performed by:
                     <br />
                     <br />
                     Cherch (music & lyrics, vocals, guitars)
@@ -54,6 +58,23 @@ const News = () => {
                 <br />
                 <Link target="_blank" to="https://distrokid.com/hyperfollow/meds7/30-for-30-2">
                     <button className="button">pre save</button>
+                </Link>
+                <br />
+                <p>
+                    In addition, we'll be celebrating with an <span>official release party</span> at
+                    <a href="https://www.alphavillebk.com/" className="newsA" target="_blank">&nbsp;Alphaville&nbsp;</a>(140 Wilson Ave - Brooklyn, NY)
+                    on January 5th as well with support from <span className="boldText">Bayaz, Cold Sugar and The Alphaville All-Stars.</span>
+                </p>
+                <p>
+                    Alphaville now hosts an exceptional in-house restaurant <a href="https://www.instagram.com/lorijaynebk" target="_blank" className="newsA">Lori Jayne</a> that's expertly curated by our dear pal chef
+                    <a href="https://www.instagram.com/yachtrockuniversity" target="_blank" className="newsA">&nbsp;Sam Braverman</a>&nbsp;and we strongly encourage attendees to indulge in their menu.
+                </p>
+                <p>
+                    To <span className="boldText">purchase tickets</span> to the <span className="boldText">release party</span> click the poster below.
+                </p>
+                <br />
+                <Link target="_blank" to="https://www.alphavillebk.com/">
+                    <img src={thirtyRP} alt="Meds_30for30_releaseParty" className="posterImage" />
                 </Link>
             </div>
             <br />

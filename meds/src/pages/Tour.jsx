@@ -25,7 +25,11 @@ const Tour = () => {
                             <td>
                                 <p className="venueTD">
                                     <Link target="_blank" className="supportA" to="https://www.instagram.com/alphavillebk">
-                                        Alphaville
+                                        <strong>Alphaville</strong>
+                                        <br />
+                                        <i>30 for 30
+                                            <br />
+                                            Release Party</i>
                                     </Link>
                                 </p>
                             </td>
@@ -62,7 +66,11 @@ const Tour = () => {
                             <td>
                                 <p className="venueTD">
                                     <Link target="_blank" className="supportA" to="https://www.instagram.com/sleepwalk.nyc">
-                                        Sleepwalk
+                                        <strong>Sleepwalk</strong>
+                                        <br />
+                                        presented by:
+                                        <br />
+                                        <i>Cameo Presents</i>
                                     </Link>
                                 </p>
                             </td>
