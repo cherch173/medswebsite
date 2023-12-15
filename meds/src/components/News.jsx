@@ -28,7 +28,7 @@ const News = () => {
                     We're proud to announce the release of the next single off of
                     <i>&nbsp;Night: (Volume 1):&nbsp;</i>
                     <a target="_blank" className="newsA" href="https://distrokid.com/hyperfollow/meds7/30-for-30-2">30 for 30&nbsp;</a>
-                    due for release <span className="boldText">January 5, 2024.</span>
+                    due out <span className="boldText">January 5, 2024.</span>
                 </p>
                 <p>
                     <a target="-_blank" className="newsA" href="https://distrokid.com/hyperfollow/meds7/30-for-30-2">30 for 30&nbsp;</a>
