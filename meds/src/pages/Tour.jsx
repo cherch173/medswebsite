@@ -49,6 +49,10 @@ const Tour = () => {
                                     <Link className="supportA" target="_blank" to="http://www.instagram.com/alphavillebk">
                                         The Alphaville All-Stars
                                     </Link>
+                                    <br />
+                                    <Link className="supportA" target="_blank" to="https://open.spotify.com/artist/20u1eNEFrgn9XCwUGuBNt9?si=bHgTbLzwSd2X6fp2WMtZZw">
+                                        Brunch (VT)
+                                    </Link>
                                 </i>
                                 <br />
                             </td>
