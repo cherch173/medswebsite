@@ -13,9 +13,9 @@ const News = () => {
         <div>
             <h1 className="headerText">News</h1>
             <div className="newsCard">
-                <h4 className="newsHeaderText">New Single <span className="boldText">"30 FOR 30" out</span>
+                <h4 className="newsHeaderText">New Single <span className="boldText">"30 FOR 30"</span>
                     <br />
-                    plus Official Release Party at
+                    and Official Release Party at
                     <br />
                     Alphaville on Jan 5, 2024
                 </h4>
