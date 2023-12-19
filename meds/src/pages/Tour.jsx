@@ -53,7 +53,7 @@ const Tour = () => {
                                 <br />
                             </td>
                             <td className="td">
-                                <Link target="_blank" to="https://www.alphavillebk.com/">
+                                <Link target="_blank" to="https://link.dice.fm/45B1haYsFFb">
                                     <button className="onSaleButton">on sale</button>
                                 </Link>
                             </td>

@@ -63,7 +63,7 @@ const News = () => {
                 <p>
                     In addition, we'll be celebrating with an <span>official release party</span> at
                     <a href="https://www.alphavillebk.com/" className="newsA" target="_blank">&nbsp;Alphaville&nbsp;</a>(140 Wilson Ave - Brooklyn, NY)
-                    on January 5th as well with support from <span className="boldText">Bayaz, Cold Sugar and The Alphaville All-Stars.</span>
+                    on January 5th as well with support from <span className="boldText">Bayaz, Cold Sugar and Brunch (VT).</span>
                 </p>
                 <p>
                     Alphaville now hosts an exceptional in-house restaurant <a href="https://www.instagram.com/lorijaynebk" target="_blank" className="newsA">Lori Jayne</a> that's expertly curated by our dear pal chef
@@ -73,7 +73,7 @@ const News = () => {
                     To <span className="boldText">purchase tickets</span> to the <span className="boldText">release party</span> click the poster below.
                 </p>
                 <br />
-                <Link target="_blank" to="https://www.alphavillebk.com/">
+                <Link target="_blank" to="https://link.dice.fm/45B1haYsFFb">
                     <img src={thirtyRP} alt="Meds_30for30_releaseParty" className="posterImage" />
                 </Link>
             </div>
