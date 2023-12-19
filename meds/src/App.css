@@ -757,7 +757,10 @@ button {
     min-height: fit-content;
     font-size: 2vmin;
     text-shadow: -.5px, .5px whitesmoke, -.75px, .75px rgb(119, 185, 148), .1px .1px black;
+  }
 
+  .venueTD {
+    margin: 1vmin;
   }
 
   .button {
@@ -772,7 +775,7 @@ button {
   }
 
   .onSaleButton {
-    width: 8vmin;
+    width: 9vmin;
     height: fit-content;
     font-size: fit-content;
     font-weight: bolder;
