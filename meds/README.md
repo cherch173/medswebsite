@@ -1,3 +1,9 @@
 # MEDS
+### Official Website
+***
+***
+#### built by cherch
 
-welcome to the online home for nyc's meds
+Welcome to the online home for NYC's Meds.
+
+Designed entirely in React.js & Node.js.
