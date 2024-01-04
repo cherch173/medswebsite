@@ -21,7 +21,7 @@ const News = () => {
                     <img className="releaseImage" src={thirtyCover} alt="meds_30for30_image" />
                 </Link>
                 <p>
-                    Entroducing the next installment in
+                    Entroducing the next single off of our debut effort
                     <i>&nbsp;Night: (Volume 1):&nbsp;</i>
                     <a target="_blank" className="newsA" href="https://open.spotify.com/artist/1ZS6JkgfS2sUjAnP9SrK0d?si=B875lvjcSL2QL1IF07YzQg">30 for 30&nbsp;</a>
                 </p>
