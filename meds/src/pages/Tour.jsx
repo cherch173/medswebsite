@@ -63,7 +63,7 @@ const Tour = () => {
                                 <br />
                             </td>
                             <td className="td">
-                                <Link target="_blank" to="https://link.dice.fm/45B1haYsFFb">
+                                <Link target="_blank" to="https://www.eventbrite.com/e/harmonic-ontology-episode-i-tickets-779859048407">
                                     <button className="onSaleButton">on sale</button>
                                 </Link>
                             </td>
