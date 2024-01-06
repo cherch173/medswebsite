@@ -20,16 +20,18 @@ const Tour = () => {
                         <br />
                         <tr>
                             <td className="td">
-                                FRI JAN 05, 2024
+                                FRI JAN 19, 2024
                             </td>
                             <td>
                                 <p className="venueTD">
-                                    <Link target="_blank" className="supportA" to="https://www.instagram.com/alphavillebk">
-                                        <strong>Alphaville</strong>
+                                    <Link target="_blank" className="supportA" to="https://www.instagram.com/tgn_bk">
+                                        <strong>The Grassy Noll</strong>
                                         <br />
-                                        <i>30 for 30
+                                        Cherch Presents:
+                                        <br />
+                                        <i>Harmonic Ontology
                                             <br />
-                                            Release Party</i>
+                                            Episode 1</i>
                                     </Link>
                                 </p>
                             </td>
@@ -38,16 +40,24 @@ const Tour = () => {
                             </td>
                             <td className="td">
                                 <i>
-                                    <Link className="supportA" target="_blank" to="https://open.spotify.com/artist/03n10SXHwslbZktFzW0OGT?si=KCqn4N6tRxWF4IAdcA6doA">
-                                        Bayaz
+                                    <Link className="supportA" target="_blank" to="https://open.spotify.com/artist/1ZS6JkgfS2sUjAnP9SrK0d?si=rM0HiFdRQFiXL1MNBZh-Zg">
+                                        Meds (solo)
                                     </Link>
                                     <br />
-                                    <Link className="supportA" target="_blank" to="https://open.spotify.com/artist/2AUvhMfDlJMpAyPIHy9i8a?si=cc-L5MYNSouzb22zZg5D6w">
-                                        Cold Sugar
+                                    <Link className="supportA" target="_blank" to="https://open.spotify.com/artist/600GgDUq9kzGJgNIrVsWfz?si=Auhos1FcQJy75wU1AbV_Pg">
+                                        Ana Becker (Catty, Habibi)
                                     </Link>
                                     <br />
-                                    <Link className="supportA" target="_blank" to="https://open.spotify.com/artist/20u1eNEFrgn9XCwUGuBNt9?si=bHgTbLzwSd2X6fp2WMtZZw">
-                                        Brunch (VT)
+                                    <Link className="supportA" target="_blank" to="https://open.spotify.com/artist/7ILisSfJlzl4DBOoPvnHz6?si=5mn8mmCLR9euLlvTTUVVoA">
+                                        Sean Spada
+                                    </Link>
+                                    <br />
+                                    <Link className="supportA" target="_blank" to="https://open.spotify.com/album/2QHYfdHq982XzvZta0WSGO?si=isUymQ3mTIW-JoGCCRy9XA">
+                                        Rose Blanshei
+                                    </Link>
+                                    <br />
+                                    <Link className="supportA" target="_blank" to="https://open.spotify.com/artist/1lAzczFXXpEWQoDFkgScRL?si=3El-oMDKTpWgn5-f3c9liw">
+                                        Brian LaRue (Safe Houses)
                                     </Link>
                                 </i>
                                 <br />
