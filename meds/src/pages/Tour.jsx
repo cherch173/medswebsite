@@ -78,7 +78,7 @@ const Tour = () => {
                                     <Link target="_blank" className="supportA" to="https://www.instagram.com/sleepwalk.nyc">
                                         <strong>Sleepwalk</strong>
                                         <br />
-                                        presented by:
+                                        curated by:
                                         <br />
                                         <i>Cameo Presents</i>
                                     </Link>
