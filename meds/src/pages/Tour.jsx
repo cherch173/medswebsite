@@ -49,6 +49,38 @@ const Tour = () => {
                                 </Link>
                             </td>
                         </tr>
+                        <tr>
+                            <td className="td">
+                                THU FEB 22, 2024
+                            </td>
+                            <td>
+                                <p className="venueTD">
+                                    <Link target="_blank" className="supportA" to="https://www.instagram.com/alphavillebk">
+                                        <strong>Alphaville</strong>
+                                    </Link>
+                                </p>
+                            </td>
+                            <td className="td">
+                                Brooklyn, NY
+                            </td>
+                            <td className="td">
+                                <i>
+
+                                    <Link className="supportA" target="_blank" to="https://open.spotify.com/artist/151m7o9ULqLUt8t54dE79Y?si=XseUfAg6QVKxGYcODJuNhQ">
+                                        Ian St. George
+                                    </Link>
+                                    <br />
+                                    <Link className="supportA" target="_blank" to="https://open.spotify.com/artist/03n10SXHwslbZktFzW0OGT?si=Ab073uT7S2SgXxVom3Mimg">
+                                        Bayaz
+                                    </Link>
+                                </i>
+                            </td>
+                            <td className="td">
+                                <Link target="_blank" to="https://link.dice.fm/M75085ad7d07">
+                                    <button className="onSaleButton">on sale</button>
+                                </Link>
+                            </td>
+                        </tr>
                     </tbody>
                 </table>
             </div>
