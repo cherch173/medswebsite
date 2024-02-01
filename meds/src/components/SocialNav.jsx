@@ -5,7 +5,7 @@ const SocialNav = () => {
     return (
         <div>
             <div className="socialNav">
-                <Link className="navA" to="https://www.instagram.com/medsanight" target="_blank">
+                <Link className="navA" to="https://www.instagram.com/medsaworldpeace" target="_blank">
                     <img className="socialImage" src="https://toppng.com/uploads/preview/instagram-logo-circle-11549679754rhbcorxntv.png" alt='instagramImage' />
                 </Link>
                 <Link className="navA" to="https://www.youtube.com/@Meds-Official" target="_blank">
