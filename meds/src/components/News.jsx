@@ -18,7 +18,7 @@ const News = () => {
                 </h4>
                 <p>Feb 9, 2024</p>
                 <br />
-                <Link className="newsA" target="_blank" to="https://open.spotify.com/album/0jGxlMFNBcWBE9aHDO0rYS?si=_DsyrPGbR3qrE0dTRWALYg">
+                <Link className="" target="_blank" to="https://open.spotify.com/album/0jGxlMFNBcWBE9aHDO0rYS?si=_DsyrPGbR3qrE0dTRWALYg">
                     <img className="releaseImage" src={twentyNineCover} alt="meds_29orTwofor50_image" />
                 </Link>
                 <p>

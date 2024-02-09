@@ -18,6 +18,7 @@ const Nav = () => {
       </div>
       <Link className="navA" to="/">HOME</Link>
       <Link className="navA" to="/tour">TOUR DATES</Link>
+      <Link className="navA" to="/news">NEWS</Link>
       <Link className="navA" to="/bio">BIO</Link>
       <Link className="navA" to="/merch">MERCH</Link>
       <Link className="navA" to="/contact">CONTACT</Link>
