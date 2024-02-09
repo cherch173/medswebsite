@@ -22,7 +22,7 @@ const News = () => {
                     <img className="releaseImage" src={twentyNineCover} alt="meds_29orTwofor50_image" />
                 </Link>
                 <p>
-                    Greetings, Earthings. 
+                    Greetings, Earthings.
                     <br />
                     <br />
                     We're elated to share that our newest installment off of
@@ -32,9 +32,9 @@ const News = () => {
                 </p>
                 <p>
                     <Link className="newsA" target="_blank" to="https://music.apple.com/us/album/29-or-two-for-50-single/1728774012" >29 or Two for 50&nbsp;</Link>
-                    is our tribute to Queens' former mecca of graffiti, <strong>5 Pointz</strong> (in our opinion, the greatest museum of all time) 
-                    and features an actual mural from <strong>5Pointz</strong> by artist 
-                    <Link className="newsA" target="_blank" to="">&nbsp;Andres Correa&nbsp;</Link> 
+                    is our tribute to Queens' former mecca of graffiti, <strong>5 Pointz</strong> (in our opinion, the greatest museum of all time)
+                    and features an actual mural from <strong>5Pointz</strong> by artist
+                    <Link className="newsA" target="_blank" to="">&nbsp;Andres Correa&nbsp;</Link>
                     as its offficial artwork.
                     <br />
                     <br />
