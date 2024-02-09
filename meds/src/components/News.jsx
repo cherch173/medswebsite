@@ -14,7 +14,7 @@ const News = () => {
         <div>
             <h1 className="headerText">News</h1>
             <div className="newsCard">
-                <h4 className="newsHeaderText">New Single <span className="boldText">"29 OR TWO FOR 50"</span> Now Available Worldwide
+                <h4 className="newsHeaderText">New Single <span className="boldText">"29 Or Two For 50"</span> Now Available Worldwide
                 </h4>
                 <p>Feb 9, 2024</p>
                 <br />
