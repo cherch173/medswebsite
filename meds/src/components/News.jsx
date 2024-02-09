@@ -62,7 +62,7 @@ const News = () => {
                 <p>
                     To <span className="boldText">listen to&nbsp;</span>
                     <a target="-_blank" className="newsA" href="https://open.spotify.com/album/0jGxlMFNBcWBE9aHDO0rYS?si=5_1rHaoyQ06XEMBVHQKzGw">29 or Two for 50&nbsp;</a>
-                    click the button of your choice
+                    click any button you like
                 </p>
                 <div className="socialNav">
                     <Link className="navA" to="https://open.spotify.com/album/0jGxlMFNBcWBE9aHDO0rYS?si=_DsyrPGbR3qrE0dTRWALYg" target="_blank">
