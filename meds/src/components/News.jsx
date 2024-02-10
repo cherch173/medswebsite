@@ -35,7 +35,7 @@ const News = () => {
                     is our tribute to Queens' former mecca of graffiti, <strong>5 Pointz</strong> (in our opinion, the greatest museum of all time)
                     and features an actual mural from <strong>5Pointz</strong> by artist
                     <Link className="newsA" target="_blank" to="">&nbsp;Andres Correa&nbsp;</Link>
-                    as its offficial artwork.
+                    as its official artwork.
                     <br />
                     <br />
                     In addition, we'd like to issue a special thank you to <strong>Meres</strong> and <strong>5Pointz</strong> for supporting our noise.
