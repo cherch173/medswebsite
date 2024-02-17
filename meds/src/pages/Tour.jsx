@@ -42,6 +42,10 @@ const Tour = () => {
                                         Bayaz
                                     </Link>
                                     <br />
+                                    <Link className="supportA" target="_blank" to="https://open.spotify.com/artist/2d11uzrnCsKBwyDzyotbdA?si=_0yOVn_aQomAQQ3Z0FJ5BA">
+                                        Jet Daisy
+                                    </Link>
+                                    <br />
                                 </i>
                             </td>
                             <td className="td">
