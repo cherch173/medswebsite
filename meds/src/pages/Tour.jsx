@@ -71,11 +71,11 @@ const Tour = () => {
                             </td>
                             <td className="td">
                                 <i>
-                                    <Link className="supportA" target="_blank" to="https://open.spotify.com/artist/3kQ55Rw5xE19eiAV3hLROi?si=KhsxCIZmSTGMp4nfZw6kZg">
+                                    <Link className="supportA" target="_blank" to="https://www.instagram.com/medsaworldpeace">
                                         Cherch (Meds)
                                     </Link>
                                     <br />
-                                    <Link className="supportA" target="_blank" to="https://open.spotify.com/artist/4aCJXSWJ1OXSyULyYhCua2?si=4PiaATtMTdiuqCWnJU90-A">
+                                    <Link className="supportA" target="_blank" to="https://www.instagram.com/medsaworldpeace">
                                         & TBA
                                     </Link>
                                     <br />
