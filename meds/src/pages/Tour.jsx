@@ -17,13 +17,6 @@ const Tour = () => {
                         </tr>
                     </thead>
                     <tbody>
-                        <tr>
-                            <td className="td">
-                                <Link target="_blank" to="https://dice.fm/event/ax9gx-meds-ian-st-george-bayaz-22nd-feb-alphaville-new-york-tickets">
-                                    <button className="onSaleButton">on sale</button>
-                                </Link>
-                            </td>
-                        </tr>
                         <br />
                         <tr>
                             <td className="td">
