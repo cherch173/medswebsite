@@ -24,7 +24,7 @@ const News = () => {
                 <p>Mar 13, 2024</p>
                 <br />
                 <div className="imageCard">
-                    <Link className="epImage" target="_blank" to="https://open.spotify.com/artist/1ZS6JkgfS2sUjAnP9SrK0d?si=iGKmB4FJS1K1MzAMCs9-wA">
+                    <Link className="epImage" target="_blank" to="https://distrokid.com/hyperfollow/meds7/bah-gawd">
                         <img className="releaseImage" src={bahGawdCover} alt="meds_bahGawd_image" />
                     </Link>
                     <Link className="epImage" target="_blank" to="https://open.spotify.com/artist/1ZS6JkgfS2sUjAnP9SrK0d?si=iGKmB4FJS1K1MzAMCs9-wA">
@@ -37,7 +37,7 @@ const News = () => {
                 <p>
                     The final single off of
                     <i>&nbsp;Night: (Volume 1):&nbsp;</i>
-                    <a target="_blank" className="newsA" href="https://open.spotify.com/artist/1ZS6JkgfS2sUjAnP9SrK0d?si=iGKmB4FJS1K1MzAMCs9-wA">"Bah Gawd!"&nbsp;</a>
+                    <a target="_blank" className="newsA" href="https://distrokid.com/hyperfollow/meds7/bah-gawd">"Bah Gawd!"&nbsp;</a>
                     along with
                     <span className="newsA">&nbsp;<i>Night (Volume 1)</i></span> itself will be released on
                     <span className="newsA"> Friday April 19th</span> across all platforms.
@@ -74,7 +74,7 @@ const News = () => {
                 <p>
                     To <span className="boldText">presave&nbsp;</span>
                     <a target="-_blank" className="newsA" href="https://open.spotify.com/album/0jGxlMFNBcWBE9aHDO0rYS?si=5_1rHaoyQ06XEMBVHQKzGw">"Bah Gawd!"&nbsp;</a>
-                    click <a target="_blank" href="https://open.spotify.com/artist/1ZS6JkgfS2sUjAnP9SrK0d?si=iGKmB4FJS1K1MzAMCs9-wA" className="newsA">here</a>
+                    click <a target="_blank" href="https://distrokid.com/hyperfollow/meds7/bah-gawd" className="newsA">here</a>
                 </p>
                 {/* <div className="socialNav">
                     <Link className="navA" to="https://open.spotify.com/album/0jGxlMFNBcWBE9aHDO0rYS?si=_DsyrPGbR3qrE0dTRWALYg" target="_blank">
