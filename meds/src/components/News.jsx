@@ -17,9 +17,9 @@ const News = () => {
             <div className="newsCard">
                 <h4 className="newsHeaderText">Final Single
                     <span className="boldText">"Bah Gawd!"</span> off
-                    <span className="boldText">&nbsp;Night Vol. 1</span> revealed along
+                    <span className="boldText">&nbsp;Night Vol. 1</span> revealed along with
                     <br />
-                    with Night Vol. 1 Official Release Date
+                    Night Vol. 1 Official Release Date
                 </h4>
                 <p>Mar 13, 2024</p>
                 <br />
