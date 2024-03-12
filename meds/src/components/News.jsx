@@ -50,7 +50,7 @@ const News = () => {
                     We'd also like to extend our support to all of those surviving the themes discussed on this record
                     and we'd like to acknowledge and recognize them for their perserverence through adversity as well as their growth.
                     There are numerous difficulities involved in healing and progress is a spectral process.
-                    Thank you for walking this path alongside us. We love you and see you. 
+                    Thank you for walking this path alongside us. We love you and see you.
                     <br />
                     <br />
                     <Link className="newsA" target="_blank" to="https://open.spotify.com/artist/1ZS6JkgfS2sUjAnP9SrK0d?si=iGKmB4FJS1K1MzAMCs9-wA" >Bah Gawd!&nbsp;</Link>was produced and mixed by&nbsp;
@@ -62,7 +62,7 @@ const News = () => {
                     <br />
                     Evan Berg (drums, 808s, d'oh)
                     <br />
-                    Jeff Berner (rhodes, subs)
+                    Jeff Berner (synths, subs)
                     <br />
                     Jeremy Kolker (backing vocals)
                     <br />
