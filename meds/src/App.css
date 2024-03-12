@@ -276,10 +276,20 @@ p {
   justify-self: center;
 }
 
+.imageCard {
+  max-width: fit-content;
+}
+
+.epImage {
+  max-width: 20vmin;
+  border-radius: 10px;
+}
+
 .bandImage {
   max-width: 73vmin;
   border-radius: 10px;
 }
+
 
 .socialImage {
   max-width: 6vmin;
