@@ -60,7 +60,7 @@ const News = () => {
                     <br />
                     Cherch (music & lyrics, vocals, guitars, aux perc)
                     <br />
-                    Evan Berg (drums, 808s, linn)
+                    Evan Berg (drums, 808s, d'oh)
                     <br />
                     Jeff Berner (rhodes, subs)
                     <br />
