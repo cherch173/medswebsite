@@ -20,37 +20,30 @@ const Tour = () => {
                         <br />
                         <tr>
                             <td className="td">
-                                WEDS MAR 20, 2024
+                                    <Link target="_blank" className="supportA" to="https://www.instagram.com/medsaworldpeace">
+                                        <strong>new</strong>
+                                    </Link>
                             </td>
                             <td>
                                 <p className="venueTD">
-                                    <Link target="_blank" className="supportA" to="https://www.instagram.com/tgn_bk">
-                                        <strong>The Grassy Noll</strong>
-                                        <br />
-                                        <i>Meds Presents:</i>
-                                        <br />
-                                        <strong>Harmonic Ontology Episode III</strong>
+                                    <Link target="_blank" className="supportA" to="https://www.instagram.com/medsaworldpeace">
+                                        <strong>dates</strong>
                                     </Link>
                                 </p>
                             </td>
                             <td className="td">
-                                Brooklyn, NY
+                                    <Link target="_blank" className="supportA" to="https://www.instagram.com/medsaworldpeace">
+                                        <strong>coming</strong>
+                                    </Link>
                             </td>
                             <td className="td">
-                                <i>
-                                    <Link className="supportA" target="_blank" to="https://www.instagram.com/medsaworldpeace">
-                                        Cherch (Meds)
+                                    <Link target="_blank" className="supportA" to="https://www.instagram.com/medsaworldpeace">
+                                        <strong>soon</strong>
                                     </Link>
-                                    <br />
-                                    <Link className="supportA" target="_blank" to="https://www.instagram.com/medsaworldpeace">
-                                        & TBA
-                                    </Link>
-                                    <br />
-                                </i>
                             </td>
                             <td className="td">
-                                <Link target="_blank" to="https://www.eventbrite.com/e/harmonic-ontology-episode-2-tickets-810881236607?aff=oddtdtcreator">
-                                    <button className="onSaleButton">on sale</button>
+                                <Link target="_blank" to="https://open.spotify.com/artist/1ZS6JkgfS2sUjAnP9SrK0d">
+                                    <button className="onSaleButton">follow meds</button>
                                 </Link>
                             </td>
                         </tr>
