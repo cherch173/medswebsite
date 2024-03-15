@@ -48,7 +48,7 @@ const News = () => {
                     <br />
                     <br />
                     We'd also like to extend our support to all of those surviving the themes discussed on this record
-                    and we'd like to acknowledge and recognize them for their perserverence through adversity as well as their growth.
+                    and would like to acknowledge and recognize them for their perserverence through adversity as well as their growth.
                     There are numerous difficulities involved in healing and progress is a spectral process.
                     Thank you for walking this path alongside us.
                     <br />
