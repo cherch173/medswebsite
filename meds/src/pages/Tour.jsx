@@ -20,9 +20,9 @@ const Tour = () => {
                         <br />
                         <tr>
                             <td className="td">
-                                    <Link target="_blank" className="supportA" to="https://www.instagram.com/medsaworldpeace">
-                                        <strong>new</strong>
-                                    </Link>
+                                <Link target="_blank" className="supportA" to="https://www.instagram.com/medsaworldpeace">
+                                    <strong>new</strong>
+                                </Link>
                             </td>
                             <td>
                                 <p className="venueTD">
@@ -32,14 +32,14 @@ const Tour = () => {
                                 </p>
                             </td>
                             <td className="td">
-                                    <Link target="_blank" className="supportA" to="https://www.instagram.com/medsaworldpeace">
-                                        <strong>coming</strong>
-                                    </Link>
+                                <Link target="_blank" className="supportA" to="https://www.instagram.com/medsaworldpeace">
+                                    <strong>coming</strong>
+                                </Link>
                             </td>
                             <td className="td">
-                                    <Link target="_blank" className="supportA" to="https://www.instagram.com/medsaworldpeace">
-                                        <strong>soon</strong>
-                                    </Link>
+                                <Link target="_blank" className="supportA" to="https://www.instagram.com/medsaworldpeace">
+                                    <strong>soon</strong>
+                                </Link>
                             </td>
                             <td className="td">
                                 <Link target="_blank" to="https://open.spotify.com/artist/1ZS6JkgfS2sUjAnP9SrK0d">
