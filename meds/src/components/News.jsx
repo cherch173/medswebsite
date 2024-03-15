@@ -42,7 +42,7 @@ const News = () => {
                     <span className="newsA">&nbsp;<i>Night (Volume 1)</i></span> itself will be released on
                     <span className="newsA"> Friday April 19th</span> across all platforms.
                     &nbsp;
-                    <Link className="newsA" target="_blank" to="https://music.apple.com/us/album/29-or-two-for-50-single/1728774012" >Night Volume 1&nbsp;</Link>
+                    <Link className="newsA" target="_blank" to="https://music.apple.com/us/album/29-or-two-for-50-single/1728774012" > <i>Night Volume 1&nbsp;</i></Link>
                     means a great deal to all of us in the Meds family and
                     we're elated to finally share the first installment in it's totality.
                     <br />
