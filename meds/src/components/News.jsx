@@ -158,20 +158,45 @@ const News = () => {
             className="newsA"
             to="https://www.ticketmaster.com/event/00006084ADEA4A77"
             target="_blank"
-          > {" "}
+          >
+            {" "}
             Mercury Lounge
-          </Link>
-          {" "}on
-          <Link to="https://www.ticketmaster.com/event/00006084ADEA4A77" target="_blank" className="newsA">
-            {" "}Saturday April 27th{" "} 
+          </Link>{" "}
+          on
+          <Link
+            to="https://www.ticketmaster.com/event/00006084ADEA4A77"
+            target="_blank"
+            className="newsA"
+          >
+            {" "}
+            Saturday April 27th{" "}
           </Link>
           featuring sets from{" "}
-          <Link className="newsA" target="_blank" to="https://www.instagram.com/seanspada">
-          Sean Spada & the Doppelgangers
+          <Link
+            className="newsA"
+            target="_blank"
+            to="https://www.instagram.com/seanspada"
+          >
+            Sean Spada & the Doppelgangers
+          </Link>{" "}
+          and{" "}
+          <Link
+            className="newsA"
+            target="_blank"
+            to="https://www.instagram.com/safehousestheband"
+          >
+            {" "}
+            Safe Houses
           </Link>
-          {" "} and {" "}
-          <Link className="newsA" target="_blank" to="https://www.instagram.com/safehousestheband">
-          Safe Houses
+        </p>
+        <p>
+          Tickets are
+          <Link
+            to="https://www.ticketmaster.com/event/00006084ADEA4A77"
+            target="blank"
+            className="newsA"
+          >
+            on sale
           </Link>
         </p>
         <br />
