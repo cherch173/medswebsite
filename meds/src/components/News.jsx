@@ -132,7 +132,7 @@ const News = () => {
             href="https://distrokid.com/hyperfollow/meds7/bah-gawd"
             className="newsA"
           >
-            here
+            here.
           </a>
         </p>
         {/* <div className="socialNav">
@@ -186,7 +186,7 @@ const News = () => {
             to="https://www.instagram.com/safehousestheband"
           >
             {" "}
-            Safe Houses
+            Safe Houses.
           </Link>
         </p>
         <p>
@@ -196,10 +196,17 @@ const News = () => {
             target="blank"
             className="newsA"
           >
+            {" "}
             on sale
-          </Link>
+          </Link>{" "}
+          now.
         </p>
-        <br />
+        <Link
+          target="_blank"
+          to="https://www.ticketmaster.com/event/00006084ADEA4A77"
+        >
+          <button className="onSaleButton">tickets</button>
+        </Link>
       </div>
       <div className="newsCard">
         <h4 className="newsHeaderText">
