@@ -762,7 +762,7 @@ button {
     font-size: auto;
   }
 
-  td {
+  .td {
     min-width: 1vmin;
     min-height: fit-content;
     font-size: 2vmin;

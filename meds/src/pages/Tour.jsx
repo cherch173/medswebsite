@@ -5,7 +5,10 @@ const Tour = () => {
     return (
         <div>
             <h1 className="headerText">Tour Dates</h1>
+			
             <div className="newsCard">
+                
+                
                 <table>
                     <thead>
                         <tr>
@@ -20,30 +23,37 @@ const Tour = () => {
                         <br />
                         <tr>
                             <td className="td">
-                                <Link target="_blank" className="supportA" to="https://www.instagram.com/medsaworldpeace">
-                                    <strong>new</strong>
+                                <Link target="_blank" className="supportA" to="https://www.ticketmaster.com/event/00006084ADEA4A77">
+                                    SAT 04.27.2024
                                 </Link>
                             </td>
                             <td>
                                 <p className="venueTD">
-                                    <Link target="_blank" className="supportA" to="https://www.instagram.com/medsaworldpeace">
-                                        <strong>dates</strong>
+                                    <Link target="_blank" className="supportA" to="https://www.ticketmaster.com/event/00006084ADEA4A77">
+                                        <strong>Mercury Lounge</strong>
+										<br />
+										[doors 6pm]
                                     </Link>
                                 </p>
                             </td>
                             <td className="td">
-                                <Link target="_blank" className="supportA" to="https://www.instagram.com/medsaworldpeace">
-                                    <strong>coming</strong>
+                                <Link target="_blank" className="supportA" to="https://www.ticketmaster.com/event/00006084ADEA4A77">
+                                    New York, NY
                                 </Link>
                             </td>
                             <td className="td">
-                                <Link target="_blank" className="supportA" to="https://www.instagram.com/medsaworldpeace">
-                                    <strong>soon</strong>
+                                <Link target="_blank" className="supportA" to="https://www.instagram.com/seanspada">
+                                    <i>Sean Spada 
+										<br />& the Doppelgangers</i>
+                                </Link>
+								<br />
+                                <Link target="_blank" className="supportA" to="https://www.instagram.com/safehousestheband">
+                                    <i>Safe Houses</i>
                                 </Link>
                             </td>
                             <td className="td">
-                                <Link target="_blank" to="https://open.spotify.com/artist/1ZS6JkgfS2sUjAnP9SrK0d">
-                                    <button className="onSaleButton">follow meds</button>
+                                <Link target="_blank" to="https://www.ticketmaster.com/event/00006084ADEA4A77">
+                                    <button className="onSaleButton">tickets</button>
                                 </Link>
                             </td>
                         </tr>
