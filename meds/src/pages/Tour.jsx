@@ -32,7 +32,7 @@ const Tour = () => {
                                     <Link target="_blank" className="supportA" to="https://www.ticketmaster.com/event/00006084ADEA4A77">
                                         <strong>Mercury Lounge</strong>
 										<br />
-										[doors 6pm]
+										(doors 6pm)
                                     </Link>
                                 </p>
                             </td>
