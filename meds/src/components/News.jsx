@@ -17,7 +17,7 @@ const News = () => {
       <div className="newsCard">
         <h4 className="newsHeaderText">
           Debut Album <span className="boldText">"Night (Volume 1)!"</span>
-          now Available
+          Now Available
         </h4>
         <p>Apr 19, 2024</p>
         <br />
