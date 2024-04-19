@@ -4,7 +4,6 @@ import thirtyCover from "/30for30_Meds_v4.jpg";
 import thirtyRP from "/1_5_2024 _30for30.png";
 import twentyNineCover from "/29orTwoFor50_Meds_AndresCorrea_2.png";
 import bahGawdCover from "/BahGawd_cherchFractal2.png";
-import nightPromo from "/Meds_NightVol1_ReleaseShort.gif";
 import { Link } from "react-router-dom";
 
 const News = () => {
