@@ -16,7 +16,7 @@ const News = () => {
       <h1 className="headerText">News</h1>
       <div className="newsCard">
         <h4 className="newsHeaderText">
-          Debut Album <span className="boldText">"Night (Volume 1)!"</span>
+          Debut Album <span className="boldText"><i>Night (Volume 1){" "}</i></span>
           Now Available
         </h4>
         <p>Apr 19, 2024</p>
@@ -81,7 +81,7 @@ const News = () => {
           </Link>
           <Link
             className="navA"
-            to="https://music.apple.com/us/album/29-or-two-for-50-single/1728774012"
+            to="https://music.apple.com/us/album/night-vol-1-ep/1735675217"
             target="_blank"
           >
             <img
@@ -103,7 +103,7 @@ const News = () => {
           </Link>
           <Link
             className="navA"
-            to="https://www.pandora.com/artist/meds/29-or-2-for-50/ALlwfr5J4fn9gVw"
+            to="https://www.pandora.com/artist/meds/night-vol-1/ALftPmbPgkzcrvm"
             target="_blank"
           >
             <img
@@ -114,7 +114,7 @@ const News = () => {
           </Link>
           <Link
             className="navA"
-            to="https://music.youtube.com/channel/UCY0KcfYhqKKr6bIl9fS3JHg?si=5luOJg71g1ilbiDX"
+            to="https://music.youtube.com/playlist?list=OLAK5uy_kV821fayFEDqP0AI4p44nLwtXnc2qvKV4&si=2a9q7ZMwllbYgJr9"
             target="_blank"
           >
             <img
