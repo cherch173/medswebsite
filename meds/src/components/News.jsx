@@ -4,6 +4,7 @@ import thirtyCover from "/30for30_Meds_v4.jpg";
 import thirtyRP from "/1_5_2024 _30for30.png";
 import twentyNineCover from "/29orTwoFor50_Meds_AndresCorrea_2.png";
 import bahGawdCover from "/BahGawd_cherchFractal2.png";
+import nightPromo from "/Meds_NightVol1_ReleaseShort.gif";
 import { Link } from "react-router-dom";
 
 const News = () => {
@@ -16,7 +17,10 @@ const News = () => {
       <h1 className="headerText">News</h1>
       <div className="newsCard">
         <h4 className="newsHeaderText">
-          Debut Album <span className="boldText"><i>Night (Volume 1){" "}</i></span>
+          Debut Album{" "}
+          <span className="boldText">
+            <i>Night (Volume 1) </i>
+          </span>
           Now Available
         </h4>
         <p>Apr 19, 2024</p>
@@ -41,7 +45,7 @@ const News = () => {
             className="newsA"
             href="https://open.spotify.com/album/45HCJ9Z0fVmpawkEWFhahR?si=SNLXklEYSt-JrNCqdQNzEw"
           >
-            <i>{" "}Night (Volume 1)</i>&nbsp;
+            <i> Night (Volume 1)</i>&nbsp;
           </a>
           is now available on all platforms.
           <br />
@@ -51,7 +55,7 @@ const News = () => {
             target="_blank"
             to="https://open.spotify.com/album/45HCJ9Z0fVmpawkEWFhahR?si=SNLXklEYSt-JrNCqdQNzEw"
           >
-            <i>Night (Volume 1)</i> {" "}
+            <i>Night (Volume 1)</i>{" "}
           </Link>
           was produced and mixed by&nbsp;
           <a
@@ -64,8 +68,7 @@ const News = () => {
           at <span className="boldText">Studio G.</span>
         </p>
         <h4>
-          Stream <i>Night (Volume 1)</i> via the
-          buttons below
+          Stream <i>Night (Volume 1)</i> via the buttons below
         </h4>
         <div className="socialNav">
           <Link
@@ -179,6 +182,7 @@ const News = () => {
         >
           <button className="onSaleButton">tickets</button>
         </Link>
+        <br />
       </div>
       <div className="newsCard">
         <h4 className="newsHeaderText">
