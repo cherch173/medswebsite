@@ -24,36 +24,33 @@ const Tour = () => {
                         <tr>
                             <td className="td">
                                 <Link target="_blank" className="supportA" to="https://www.ticketmaster.com/event/00006084ADEA4A77">
-                                    SAT 04.27.2024
+                                    THU 6.6.2024
                                 </Link>
                             </td>
                             <td>
                                 <p className="venueTD">
-                                    <Link target="_blank" className="supportA" to="https://www.ticketmaster.com/event/00006084ADEA4A77">
-                                        <strong>Mercury Lounge</strong>
+                                    <Link target="_blank" className="supportA" to="https://www.instagram.com/ourwickedlady">
+                                        <strong>Our Wicked Lady</strong>
 										<br />
-										(doors 6pm)
+										(doors 7pm)
                                     </Link>
                                 </p>
                             </td>
                             <td className="td">
-                                <Link target="_blank" className="supportA" to="https://www.ticketmaster.com/event/00006084ADEA4A77">
-                                    New York, NY
+                                <Link target="_blank" className="supportA" to="https://www.instagram.com/ourwickedlady">
+                                    Brooklyn, NY
                                 </Link>
                             </td>
                             <td className="td">
-                                <Link target="_blank" className="supportA" to="https://www.instagram.com/seanspada">
-                                    <i>Sean Spada 
-										<br />& the Doppelgangers</i>
+                                <Link target="_blank" className="supportA" to="https://www.instagram.com/chick_eddie">
+                                    <i>Chick Eddie</i>
                                 </Link>
 								<br />
-                                <Link target="_blank" className="supportA" to="https://www.instagram.com/safehousestheband">
-                                    <i>Safe Houses</i>
-                                </Link>
+                                & more TBA
                             </td>
                             <td className="td">
-                                <Link target="_blank" to="https://www.ticketmaster.com/event/00006084ADEA4A77">
-                                    <button className="onSaleButton">tickets</button>
+                                <Link target="_blank" to="https://www.instagram.com/ourwickedlady">
+                                    <button className="onSaleButton">on sale soon</button>
                                 </Link>
                             </td>
                         </tr>
