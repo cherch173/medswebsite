@@ -23,7 +23,7 @@ const Tour = () => {
                         <br />
                         <tr>
                             <td className="td">
-                                <Link target="_blank" className="supportA" to="https://www.ticketmaster.com/event/00006084ADEA4A77">
+                                <Link target="_blank" className="supportA" to="https://link.dice.fm/B5LpnmimkJb?sharer_id=64a6e811a667430001f571a7">
                                     THU 6.6.2024
                                 </Link>
                             </td>
@@ -37,20 +37,22 @@ const Tour = () => {
                                 </p>
                             </td>
                             <td className="td">
-                                <Link target="_blank" className="supportA" to="https://www.instagram.com/ourwickedlady">
+                                <Link target="_blank" className="supportA" to="hhttps://link.dice.fm/B5LpnmimkJb?sharer_id=64a6e811a667430001f571a7">
                                     Brooklyn, NY
                                 </Link>
                             </td>
                             <td className="td">
+                                <Link target="_blank" className="supportA" to="https://www.instagram.com/cooldeadwoman">
+                                    <i>Cool Dead Woman</i>
+                                </Link>
+                                {" "}&{" "}
                                 <Link target="_blank" className="supportA" to="https://www.instagram.com/chick_eddie">
                                     <i>Chick Eddie</i>
                                 </Link>
-								<br />
-                                & more TBA
                             </td>
                             <td className="td">
-                                <Link target="_blank" to="https://www.instagram.com/ourwickedlady">
-                                    <button className="onSaleButton">on sale soon</button>
+                                <Link target="_blank" to="https://link.dice.fm/B5LpnmimkJb?sharer_id=64a6e811a667430001f571a7">
+                                    <button className="onSaleButton">on sale</button>
                                 </Link>
                             </td>
                         </tr>
