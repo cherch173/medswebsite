@@ -42,8 +42,8 @@ const Tour = () => {
                                 </Link>
                             </td>
                             <td className="td">
-                                <Link target="_blank" className="supportA" to="https://www.instagram.com/zachdeputy">
-                                    <i>Zach Deputy (two sets)</i>
+                                <Link target="_blank" className="supportA" to="https://www.instagram.com/zachnugent">
+                                    <i>Zach Nugent (two sets)</i>
                                 </Link>
                                 {" "}&{" "}
                                 <Link target="_blank" className="supportA" to="https://www.instagram.com/steelydeadband">
