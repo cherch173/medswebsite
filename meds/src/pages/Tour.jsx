@@ -23,6 +23,39 @@ const Tour = () => {
                         <br />
                         <tr>
                             <td className="td">
+                                <Link target="_blank" className="supportA" to="https://www.theboweryelectric.com/calendar">
+                                    WEDS 8.14.2024
+                                </Link>
+                            </td>
+                            <td>
+                                <p className="venueTD">
+                                    <Link target="_blank" className="supportA" to="https://www.theboweryelectric.com">
+                                        The Bowery Electric
+                                    </Link>
+                                </p>
+                            </td>
+                            <td className="td">
+                                <Link target="_blank" className="supportA" to="https://www.instagram.com/theboweryelectric">
+                                    New York, NY
+                                </Link>
+                            </td>
+                            <td className="td">
+                                <Link target="_blank" className="supportA" to="https://www.instagram.com/muddclubjoey">
+                                    <i>Joey Kelly All Stars</i>
+                                </Link>
+                                {" "}&{" "}
+                                <Link target="_blank" className="supportA" to="https://www.instagram.com/thehasbrosband">
+                                    <i>The Hasbros</i>
+                                </Link>
+                            </td>
+                            <td className="td">
+                                <Link target="_blank" to="https://www.theboweryelectric.com">
+                                    <button className="onSaleButton">on sale</button>
+                                </Link>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td className="td">
                                 <Link target="_blank" className="supportA" to="https://www.sugarloafpacny.com/shows">
                                     SAT 8.31.2024
                                 </Link>
