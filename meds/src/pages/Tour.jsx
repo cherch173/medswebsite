@@ -23,41 +23,6 @@ const Tour = () => {
                         <br />
                         <tr>
                             <td className="td">
-                                <Link target="_blank" className="supportA" to="https://www.sugarloafpacny.com/shows">
-                                    SAT 8.31.2024
-                                </Link>
-                            </td>
-                            <td>
-                                <p className="venueTD">
-                                    <Link target="_blank" className="supportA" to="https://www.sugarloafpacny.com">
-                                        <strong>DEAD AHEAD FESTIVAL</strong>
-										<br />
-										@ Sugar Loaf Performing Arts Center
-                                    </Link>
-                                </p>
-                            </td>
-                            <td className="td">
-                                <Link target="_blank" className="supportA" to="https://www.sugarloafpacny.com/shows">
-                                    Chester, NY
-                                </Link>
-                            </td>
-                            <td className="td">
-                                <Link target="_blank" className="supportA" to="https://www.instagram.com/zachnugent">
-                                    <i>Zach Nugent (two sets)</i>
-                                </Link>
-                                {" "}&{" "}
-                                <Link target="_blank" className="supportA" to="https://www.instagram.com/steelydeadband">
-                                    <i>Steely Dead (two sets)</i>
-                                </Link>
-                            </td>
-                            <td className="td">
-                                <Link target="_blank" to="https://www.sugarloafpacny.com/shows">
-                                    <button className="onSaleButton">on sale</button>
-                                </Link>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td className="td">
                                 <Link target="_blank" className="supportA" to="https://www.instagram.com/ourwickedlady">
                                     THU 9.5.2024
                                 </Link>
@@ -86,6 +51,37 @@ const Tour = () => {
                             <td className="td">
                                 <Link target="_blank" to="https://www.ourwickedlady.com">
                                     <button className="onSaleButton">on sale</button>
+                                </Link>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td className="td">
+                                <Link target="_blank" className="supportA" to="https://www.instagram.com/gutterbar">
+                                    SAT 11.2.2024
+                                </Link>
+                            </td>
+                            <td>
+                                <p className="venueTD">
+                                    <Link target="_blank" className="supportA" to="https://www.instagram.com/gutterbar">
+                                        <strong>GUTTERWEEN FESTIVAL</strong>
+										<br />
+										@ The Gutter
+                                    </Link>
+                                </p>
+                            </td>
+                            <td className="td">
+                                <Link target="_blank" className="supportA" to="https://www.instagram.com/gutterbar">
+                                    Brooklyn, NY
+                                </Link>
+                            </td>
+                            <td className="td">
+                                <Link target="_blank" className="supportA" to="https://www.instagram.com/gutterbar">
+                                    <i>lineup TBA soon</i>
+                                </Link>
+                            </td>
+                            <td className="td">
+                                <Link target="_blank" to="https://www.instagram.com/gutterbar">
+                                    <button className="onSaleButton">on sale soon</button>
                                 </Link>
                             </td>
                         </tr>
