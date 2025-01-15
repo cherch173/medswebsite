@@ -514,7 +514,7 @@ table {
   border: 1px solid rgb(119, 185, 148);
   border-radius: 5px;
   padding: 1vmin;
-  background-color: rgba(245, 245, 245, .96);
+  background-color: rgba(245, 245, 245, .86);
   color: rgba(17, 17, 17, .66);
   width: fit-content;
 }
