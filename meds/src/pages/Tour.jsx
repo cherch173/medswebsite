@@ -23,19 +23,19 @@ const Tour = () => {
                         <br />
                         <tr>
                             <td className="td">
-                                <Link target="_blank" className="supportA" to="https://www.instagram.com/ourwickedlady">
-                                    THU 9.5.2024
+                                <Link target="_blank" className="supportA" to="https://www.instagram.com/alphavillebk">
+                                    THU 2.27.2025
                                 </Link>
                             </td>
                             <td>
                                 <p className="venueTD">
-                                    <Link target="_blank" className="supportA" to="https://www.ourwickedlady.com">
-                                        Our Wicked Lady
+                                    <Link target="_blank" className="supportA" to="https://www.alphavillebk.com">
+                                        <strong>ALPHAVILLE</strong>
                                     </Link>
                                 </p>
                             </td>
                             <td className="td">
-                                <Link target="_blank" className="supportA" to="https://www.instagram.com/theboweryelectric">
+                                <Link target="_blank" className="supportA" to="https://www.instagram.com/alphavillebk">
                                    Brooklyn, NY
                                 </Link>
                             </td>
@@ -43,45 +43,16 @@ const Tour = () => {
                                 <Link target="_blank" className="supportA" to="https://www.instagram.com/chrisurriola">
                                     <i>Chris Urriola</i>
                                 </Link>
-                                {" "}&{" "}
-                                <Link target="_blank" className="supportA" to="https://www.instagram.com/_dapsoul_">
-                                    <i>Dap Soul (DJ Set)</i>
+                                <br />
+                                {" "}+{" "}
+                                <br />
+                                <Link target="_blank" className="supportA" to="https://www.instagram.com/seanspada">
+                                    <i>Sean Spada <br />& the Dopplegangers</i>
                                 </Link>
                             </td>
                             <td className="td">
-                                <Link target="_blank" to="https://www.ourwickedlady.com">
+                                <Link target="_blank" to="https://www.alphavillebk.com">
                                     <button className="onSaleButton">on sale</button>
-                                </Link>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td className="td">
-                                <Link target="_blank" className="supportA" to="https://www.instagram.com/gutterbar">
-                                    SAT 11.2.2024
-                                </Link>
-                            </td>
-                            <td>
-                                <p className="venueTD">
-                                    <Link target="_blank" className="supportA" to="https://www.instagram.com/gutterbar">
-                                        <strong>GUTTERWEEN FESTIVAL</strong>
-										<br />
-										@ The Gutter
-                                    </Link>
-                                </p>
-                            </td>
-                            <td className="td">
-                                <Link target="_blank" className="supportA" to="https://www.instagram.com/gutterbar">
-                                    Brooklyn, NY
-                                </Link>
-                            </td>
-                            <td className="td">
-                                <Link target="_blank" className="supportA" to="https://www.instagram.com/gutterbar">
-                                    <i>lineup TBA soon</i>
-                                </Link>
-                            </td>
-                            <td className="td">
-                                <Link target="_blank" to="https://www.instagram.com/gutterbar">
-                                    <button className="onSaleButton">on sale soon</button>
                                 </Link>
                             </td>
                         </tr>
