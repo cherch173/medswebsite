@@ -46,8 +46,8 @@ const Tour = () => {
                                 <br />
                                 {" "}+{" "}
                                 <br />
-                                <Link target="_blank" className="supportA" to="https://www.instagram.com/seanspada">
-                                    <i>Sean Spada <br />& the Dopplegangers</i>
+                                <Link target="_blank" className="supportA" to="https://www.instagram.com/medsaworldpeace">
+                                    <i>more TBA</i>
                                 </Link>
                             </td>
                             <td className="td">
