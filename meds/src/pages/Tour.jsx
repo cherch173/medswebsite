@@ -23,19 +23,19 @@ const Tour = () => {
                         <br />
                         <tr>
                             <td className="td">
-                                <Link target="_blank" className="supportA" to="https://www.instagram.com/alphavillebk">
+                                <Link target="_blank" className="supportA" to="https://www.instagram.com/medsaworldpeace">
                                     THU 2.27.2025
                                 </Link>
                             </td>
                             <td>
                                 <p className="venueTD">
-                                    <Link target="_blank" className="supportA" to="https://www.alphavillebk.com">
-                                        <strong>ALPHAVILLE</strong>
+                                    <Link target="_blank" className="supportA" to="https://www.ourwickedlady.com">
+                                        <strong>OUR WICKED LADY</strong>
                                     </Link>
                                 </p>
                             </td>
                             <td className="td">
-                                <Link target="_blank" className="supportA" to="https://www.instagram.com/alphavillebk">
+                                <Link target="_blank" className="supportA" to="https://www.instagram.com/ourwickedlady">
                                    Brooklyn, NY
                                 </Link>
                             </td>
@@ -51,7 +51,7 @@ const Tour = () => {
                                 </Link>
                             </td>
                             <td className="td">
-                                <Link target="_blank" to="https://www.alphavillebk.com">
+                                <Link target="_blank" to="https://www.ourwickedlady.com">
                                     <button className="onSaleButton">on sale</button>
                                 </Link>
                             </td>
