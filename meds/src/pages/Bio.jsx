@@ -55,12 +55,10 @@ const Bio = () => {
                     <i>&nbsp;OK Computer</i>&nbsp;and
                     <i>&nbsp;Aquemini</i> and completely ok with that.
                 </p>
-                <p>
-                    The first single, “An Unexpected Visit to the Isabella Stewart Gardner Museum,” was premiered by
-                    <span className="boldBioText">&nbsp;WFUV (90.7 FM)&nbsp;</span>
-                    and released worldwide on all platforms on October 20, 2023.
-                </p>
                 <br />
+                <p>
+                    "If you don't know them, get to know them" - Alisa Ali,<i>&nbsp;WFUV 90.7FM</i>
+                </p>
                 <p>
                     "A big sonic comfort blanket" - Jason Lee,<i>&nbsp;The Deli</i>
                 </p>
@@ -88,7 +86,12 @@ const Bio = () => {
                     <Link to="http://www.instagram.com/kol.ker" target="_blank">
                         <label className="bandA" htmlFor="band">Jeremy Kolker -&nbsp;</label>
                     </Link>
-                    Drums, Vocals, 808, Aux Perc
+                    Drums, Vocals
+                    <br />
+                    <Link to="http://www.instagram.com/stegrowalker" target="_blank">
+                        <label className="bandA" htmlFor="band">Stephen Surrett -&nbsp;</label>
+                    </Link>
+                    Bass, Vocals
                     <br />
                 </p>
                 <br />
