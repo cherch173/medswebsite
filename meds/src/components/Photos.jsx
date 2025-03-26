@@ -54,6 +54,12 @@ const Photos = () => {
                     </Link>
                 </figure>
                 <figure>
+                <img className="medsImage" src="/Cherch_danadist.jpg" alt="cherchBB" />
+                    <Link target="_blank" to="https://www.instagram.com/howieh/">
+                        <figcaption className="captionA">© {getYear()} Howie Hecht, all rights reserved.</figcaption>
+                    </Link>
+                </figure>
+                <figure>
                     <img className="medsImage" src="/the bottom dollars-55.jpg" alt="cherchImage" />
                     <Link target="_blank" to="https://www.instagram.com/ks.photog/">
                         <figcaption className="captionA">© {getYear()} Kylie Squiers, all rights reserved.</figcaption>

@@ -8,8 +8,7 @@ const Bio = () => {
     return (
         <div>
             <h3 className="headerText">Official Bio</h3>
-            <img className="medsImage" src="/pesoscherchBB.webp" alt="cherchBB" />
-            <br />
+            <img className="medsImage" src="/Cherch_danadist.jpg" alt="cherchBB" />
             <div className="bioTextCard">
                 <p>
                     <strong className="boldBioText">Meds&nbsp;</strong>
