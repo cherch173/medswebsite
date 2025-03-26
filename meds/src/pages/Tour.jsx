@@ -24,12 +24,12 @@ const Tour = () => {
                         <tr>
                             <td className="td">
                                 <Link target="_blank" className="supportA" to="https://www.instagram.com/medsaworldpeace">
-                                    THU 2.27.2025
+                                    TUES 4.22.2025
                                 </Link>
                             </td>
                             <td>
                                 <p className="venueTD">
-                                    <Link target="_blank" className="supportA" to="https://www.ourwickedlady.com">
+                                    <Link target="_blank" className="supportA" to="https://link.dice.fm/jRTGwplm3Rb?sharer_id=64a6e811a667430001f571a7">
                                         <strong>OUR WICKED LADY</strong>
                                     </Link>
                                 </p>
@@ -40,18 +40,24 @@ const Tour = () => {
                                 </Link>
                             </td>
                             <td className="td">
-                                <Link target="_blank" className="supportA" to="https://www.instagram.com/chrisurriola">
-                                    <i>Chris Urriola</i>
+                                <Link target="_blank" className="supportA" to="https://www.instagram.com/nitemusicrocknroll">
+                                    <i>NITE MUSIC</i>
                                 </Link>
                                 <br />
                                 {" "}+{" "}
                                 <br />
-                                <Link target="_blank" className="supportA" to="https://www.instagram.com/medsaworldpeace">
-                                    <i>more TBA</i>
+                                <Link target="_blank" className="supportA" to="https://www.instagram.com/reggaelar_people">
+                                    <i>REGGAELAR PEOPLE</i>
+                                </Link>
+                                <br />
+                                {" "}+{" "}
+                                <br />
+                                <Link target="_blank" className="supportA" to="https://www.instagram.com/dirtbagivy_">
+                                    <i>DIRTBAG IVY</i>
                                 </Link>
                             </td>
                             <td className="td">
-                                <Link target="_blank" to="https://www.ourwickedlady.com">
+                                <Link target="_blank" to="https://link.dice.fm/jRTGwplm3Rb?sharer_id=64a6e811a667430001f571a7">
                                     <button className="onSaleButton">on sale</button>
                                 </Link>
                             </td>
