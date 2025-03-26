@@ -72,7 +72,7 @@ const Bio = () => {
                     <br />
                 </p>
                 <p>
-                    <Link to="http://www.instagram.com/medsanight" target="_blank">
+                    <Link to="http://www.instagram.com/medsaworldpeace" target="_blank">
                         <label className="bandA" htmlFor="band">Cherch -&nbsp;</label>
                     </Link>
                     Guitar, Lead Vocals, 808
