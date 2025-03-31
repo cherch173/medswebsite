@@ -62,6 +62,43 @@ const Tour = () => {
                                 </Link>
                             </td>
                         </tr>
+                        <tr>
+                            <td className="td">
+                                <Link target="_blank" className="supportA" to="https://www.instagram.com/medsaworldpeace">
+                                    SAT 8.30.2025
+                                </Link>
+                            </td>
+                            <td>
+                                <p className="venueTD">
+                                    <Link target="_blank" className="supportA" to="https://sugarloafpacny.com">
+                                        <strong><i>DEAD AHEAD FESTIVAL</i></strong>
+                                        <br />
+                                        <strong>SUGAR LOAF PERFORMING ARTS CENTER</strong>
+                                    </Link>
+                                </p>
+                            </td>
+                            <td className="td">
+                                <Link target="_blank" className="supportA" to="https://www.instagram.com/sugarloafpacny">
+                                   Chester, NY
+                                </Link>
+                            </td>
+                            <td className="td">
+                                <Link target="_blank" className="supportA" to="https://www.instagram.com/zachnugent">
+                                    <i>ZACH NUGENT</i>
+                                </Link>
+                                <br />
+                                {" "}+{" "}
+                                <br />
+                                <Link target="_blank" className="supportA" to="https://www.instagram.com/sugarloafpacny">
+                                    <i>MORE TBA</i>
+                                </Link>
+                            </td>
+                            <td className="td">
+                                <Link target="_blank" to="https://sugarloafpacny.com">
+                                    <button className="onSaleButton">on sale</button>
+                                </Link>
+                            </td>
+                        </tr>
                     </tbody>
                 </table>
             </div>
