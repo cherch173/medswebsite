@@ -94,8 +94,10 @@ const Tour = () => {
                                 </Link>
                             </td>
                             <td className="td">
-                                <Link target="_blank" to="https://sugarloafpacny.com">
-                                    <button className="onSaleButton">on sale</button>
+                                <Link target="_blank" to="https://diamondgradetix.com/events.php?lid=1">
+                                    <button className="onSaleButton">on sale 
+                                        <br />
+                                        MAY 1 @ 7:30am</button>
                                 </Link>
                             </td>
                         </tr>
